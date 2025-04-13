@@ -405,11 +405,6 @@
     "license": "GPL-2.0-only"
   },
   {
-    "name": "x-load",
-    "version": "$(call ptx/config-version, PTXCONF_X_LOAD)",
-    "license": ""
-  },
-  {
     "name": "libsoup",
     "version": "3.4.4",
     "license": "LGPL-2.1-only"
@@ -443,11 +438,6 @@
     "name": "iputils",
     "version": "s20200821",
     "license": "GPL-2.0-only"
-  },
-  {
-    "name": "uclibc",
-    "version": "$(call ptx/config-version, PTXCONF_UCLIBC)",
-    "license": ""
   },
   {
     "name": "libdrm",
@@ -795,11 +785,6 @@
     "license": "unknown"
   },
   {
-    "name": "tf-a",
-    "version": "$(call ptx/config-version, PTXCONF_TF_A)",
-    "license": "BSD-3-Clause AND BSD-2-Clause "
-  },
-  {
     "name": "nvme-cli",
     "version": "1.7",
     "license": "GPL-2.0"
@@ -1065,11 +1050,6 @@
     "license": "GPL-2.0-only AND MIT AND BSD-3-Clause"
   },
   {
-    "name": "gdbserver",
-    "version": "$(call ptx/config-version,PTXCONF_GDBSERVER,SHARED_GDB)",
-    "license": "GPL-2.0-only AND GPL-3.0-or-later"
-  },
-  {
     "name": "boa",
     "version": "0.94.14rc21",
     "license": "GPL-2.0-only"
@@ -1278,11 +1258,6 @@
     "name": "python3-pytest",
     "version": "5.4.3",
     "license": "MIT"
-  },
-  {
-    "name": "u-boot",
-    "version": "$(call ptx/config-version, PTXCONF_U_BOOT)",
-    "license": ""
   },
   {
     "name": "libdvdnav",
@@ -1625,11 +1600,6 @@
     "license": ""
   },
   {
-    "name": "barebox_mlo",
-    "version": "$(call ptx/config-version, PTXCONF_BAREBOX_MLO)",
-    "license": "GPL-2.0-only"
-  },
-  {
     "name": "rpcbind",
     "version": "1.2.6",
     "license": "BSD-3-Clause"
@@ -1863,11 +1833,6 @@
     "name": "mobile-broadband-provider-info",
     "version": "20220725",
     "license": "public_domain"
-  },
-  {
-    "name": "gdb",
-    "version": "$(call ptx/config-version,PTXCONF_GDB,SHARED_GDB)",
-    "license": "GPL-3.0-or-later"
   },
   {
     "name": "xorg-app-xrandr",
@@ -3295,11 +3260,6 @@
     "license": "LGPL-3.0-or-later"
   },
   {
-    "name": "at91bootstrap2",
-    "version": "$(call ptx/config-version, PTXCONF_AT91BOOTSTRAP2)",
-    "license": "unknown"
-  },
-  {
     "name": "radvd",
     "version": "2.16",
     "license": "BSD"
@@ -4110,11 +4070,6 @@
     "license": ""
   },
   {
-    "name": "glibc",
-    "version": "$(call ptx/config-version, PTXCONF_GLIBC)",
-    "license": ""
-  },
-  {
     "name": "librn",
     "version": "0.5.3",
     "license": ""
@@ -4440,11 +4395,6 @@
     "license": "LGPL-2.1-only AND GPL-2.0-only"
   },
   {
-    "name": "barebox",
-    "version": "$(call ptx/config-version, PTXCONF_BAREBOX)",
-    "license": "GPL-2.0-only"
-  },
-  {
     "name": "libgcrypt",
     "version": "1.11.0",
     "license": "GPL-2.0-only AND LGPL-2.0-only"
@@ -4725,11 +4675,6 @@
     "license": "BSD AND GPL-2.0-only"
   },
   {
-    "name": "gcclibs",
-    "version": "$(or $(call ptx/force-sh, $(CROSS_CC) -dumpversion),unknown)",
-    "license": ""
-  },
-  {
     "name": "flashbench",
     "version": "20120222",
     "license": "GPL v2"
@@ -4808,11 +4753,6 @@
     "name": "xerces",
     "version": "2_7_0",
     "license": ""
-  },
-  {
-    "name": "nodejs_packages",
-    "version": "0.0.1",
-    "license": "$(call remove_quotes, $(PTXCONF_NODEJS_PACKAGES_LICENSE))"
   },
   {
     "name": "lshw",
