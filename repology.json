@@ -1,0 +1,4872 @@
+[
+  {
+    "name": "xorg-font-isas-misc",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "python3-tabulate",
+    "version": "0.9.0",
+    "license": "MIT"
+  },
+  {
+    "name": "argtable2",
+    "version": "12",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "xorg-font-jis-misc",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "c-ares",
+    "version": "1.19.0",
+    "license": "MIT"
+  },
+  {
+    "name": "libmpeg2",
+    "version": "0.5.1",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "ethtool",
+    "version": "6.11",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "liblist",
+    "version": "1.0.3",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "bustle",
+    "version": "0.2.4",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "python3-libevdev",
+    "version": "0.9",
+    "license": "MIT"
+  },
+  {
+    "name": "xorg-fonts",
+    "version": "1.0.0",
+    "license": "ignore"
+  },
+  {
+    "name": "python3-ipython",
+    "version": "4.1.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "python3-iniherit",
+    "version": "0.3.9",
+    "license": "MIT"
+  },
+  {
+    "name": "efibootmgr",
+    "version": "18",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "glib",
+    "version": "2.82.2",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "xorg-lib-xdmcp",
+    "version": "1.1.3",
+    "license": "MIT"
+  },
+  {
+    "name": "keyutils",
+    "version": "1.6.3",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "cups",
+    "version": "2.2.5",
+    "license": "LGPL-2.0-only AND GPL-2.0-only"
+  },
+  {
+    "name": "libpcap",
+    "version": "1.10.5",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "ddrescue",
+    "version": "1.23",
+    "license": "GPL-2.0-or-later AND BSD-2-Clause"
+  },
+  {
+    "name": "libevdev",
+    "version": "1.13.3",
+    "license": "MIT"
+  },
+  {
+    "name": "xorg-font-micro-misc",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "glslang",
+    "version": "1.3.296.0",
+    "license": "BSD-3-clause AND BSD-2-clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom"
+  },
+  {
+    "name": "zstd",
+    "version": "1.5.6",
+    "license": "BSD-3-clause OR GPL-2.0-only"
+  },
+  {
+    "name": "tcpdump",
+    "version": "4.99.5",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "libnetfilter_log",
+    "version": "1.0.1",
+    "license": "GPL2"
+  },
+  {
+    "name": "iptables",
+    "version": "1.8.11",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "fbterm",
+    "version": "1.7.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libtraceevent",
+    "version": "1.8.2",
+    "license": "LGPL-2.1 + GPL-2.0"
+  },
+  {
+    "name": "xorg-lib-xi",
+    "version": "1.7.10",
+    "license": "X11 AND MIT"
+  },
+  {
+    "name": "libcgicc",
+    "version": "3.2.19",
+    "license": "LGPL-3.0-or-later AND GFDL-1.2"
+  },
+  {
+    "name": "xorg-font-bh-75dpi",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "openocd",
+    "version": "0.10.0-870-gaf952850b549",
+    "license": "GPL-2.0-or-later AND BSD"
+  },
+  {
+    "name": "mxt-app",
+    "version": "1.28",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "yajl",
+    "version": "2.1.0",
+    "license": "ISC"
+  },
+  {
+    "name": "python3-jinja2",
+    "version": "3.1.3",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "fio",
+    "version": "3.32",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "paho-mqtt-cpp",
+    "version": "1.2.0",
+    "license": "EPL-1.0 AND BSD-3-Clause"
+  },
+  {
+    "name": "glew",
+    "version": "1.10.0",
+    "license": "BSD-3-Clause AND MIT"
+  },
+  {
+    "name": "fmt",
+    "version": "11.0.2",
+    "license": "MIT WITH fmt-exception"
+  },
+  {
+    "name": "libical",
+    "version": "3.0.17",
+    "license": "LGPL-2.1-only OR MPL-2.0"
+  },
+  {
+    "name": "json-c",
+    "version": "0.18",
+    "license": "MIT"
+  },
+  {
+    "name": "xorg-lib-xt",
+    "version": "1.2.0",
+    "license": "MIT"
+  },
+  {
+    "name": "libshout",
+    "version": "2.4.6",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "xorg-lib-xv",
+    "version": "1.0.11",
+    "license": ""
+  },
+  {
+    "name": "python3-gunicorn",
+    "version": "23.0.0",
+    "license": "MIT"
+  },
+  {
+    "name": "screen",
+    "version": "5.0.0",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "at-spi2-core",
+    "version": "2.52.0",
+    "license": "LGPL-2.0-or-later AND LGPL-2.1-or-later AND AFL-2.1"
+  },
+  {
+    "name": "python3-paho-mqtt",
+    "version": "1.6.1",
+    "license": "EPL-2.0 OR BSD-3-Clause"
+  },
+  {
+    "name": "db",
+    "version": "5.3.28",
+    "license": ""
+  },
+  {
+    "name": "libnice",
+    "version": "0.1.21",
+    "license": "MPL-1.1 OR LGPL-2.1-only"
+  },
+  {
+    "name": "ifplugd",
+    "version": "0.28",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "hexedit",
+    "version": "1.4.2",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "cmatrix",
+    "version": "1.2a",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "strongswan",
+    "version": "5.9.14",
+    "license": "GPL"
+  },
+  {
+    "name": "vulkan-headers",
+    "version": "1.3.296.0",
+    "license": "Apache-2.0 AND MIT"
+  },
+  {
+    "name": "libdaemon",
+    "version": "0.14",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "xorg-lib-xshmfence",
+    "version": "1.3",
+    "license": "MIT"
+  },
+  {
+    "name": "libpng",
+    "version": "1.6.44",
+    "license": "Zlib"
+  },
+  {
+    "name": "xorg-font-xfree86-type1",
+    "version": "1.0.4",
+    "license": ""
+  },
+  {
+    "name": "rsync3",
+    "version": "3.2.7",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "links",
+    "version": "2.7",
+    "license": ""
+  },
+  {
+    "name": "xorg-app-xev",
+    "version": "1.2.3",
+    "license": ""
+  },
+  {
+    "name": "wpebackend-fdo",
+    "version": "1.14.2 1.0",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "open62541",
+    "version": "1.3.4 3151afe5899dba5125dffa9f4cf3ae1fe2edc0f0",
+    "license": "AND BSD-3-Clause $(HOST_OPEN62541_LICENSE) AND $(OPEN62541_MDNS_LICENSE)"
+  },
+  {
+    "name": "libmad",
+    "version": "0.15.1b",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "libgd",
+    "version": "2.2.4",
+    "license": "custom"
+  },
+  {
+    "name": "python3-pyparsing",
+    "version": "2.4.7",
+    "license": "MIT"
+  },
+  {
+    "name": "mbedtls",
+    "version": "2.28.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "xorg-font-bitstream-speedo",
+    "version": "1.0.2",
+    "license": ""
+  },
+  {
+    "name": "pv",
+    "version": "1.4.12",
+    "license": ""
+  },
+  {
+    "name": "net-ip-perl",
+    "version": "1.26",
+    "license": "unknown"
+  },
+  {
+    "name": "nettle",
+    "version": "3.8.1",
+    "license": "GPL-2.0-or-later OR LGPL-3.0-or-later"
+  },
+  {
+    "name": "xz",
+    "version": "5.4.4",
+    "license": "public_domain AND LGPL-2.1-or-later AND GPL-2.0-or-later AND GPL-3.0-or-later"
+  },
+  {
+    "name": "figlet",
+    "version": "2.2.5",
+    "license": "BSD-3-clause"
+  },
+  {
+    "name": "seatd",
+    "version": "0.9.1",
+    "license": "MIT"
+  },
+  {
+    "name": "libgsf",
+    "version": "1.14.30",
+    "license": ""
+  },
+  {
+    "name": "xorg-font-ttf-android",
+    "version": "4.4.4r2",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "nvmetcli",
+    "version": "0.8",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "lrzsz",
+    "version": "0.12.20",
+    "license": ""
+  },
+  {
+    "name": "htmldoc",
+    "version": "1.9.16",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "x-load",
+    "version": "$(call ptx/config-version, PTXCONF_X_LOAD)",
+    "license": ""
+  },
+  {
+    "name": "libsoup",
+    "version": "3.4.4",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "gdk-pixbuf",
+    "version": "2.42.10",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "libmms",
+    "version": "0.6.4",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "xorg-font-bitstream-75dpi",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "libatasmart",
+    "version": "0.19",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "fuse-zip",
+    "version": "0.4.2",
+    "license": "LGPL"
+  },
+  {
+    "name": "iputils",
+    "version": "s20200821",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "uclibc",
+    "version": "$(call ptx/config-version, PTXCONF_UCLIBC)",
+    "license": ""
+  },
+  {
+    "name": "libdrm",
+    "version": "2.4.123",
+    "license": "MIT"
+  },
+  {
+    "name": "systemd-hwdb",
+    "version": "1",
+    "license": "ignore"
+  },
+  {
+    "name": "stunnel",
+    "version": "5.65",
+    "license": "stunnel (GPL2 or later with openssl exception)"
+  },
+  {
+    "name": "io-socket-inet6-perl",
+    "version": "2.72",
+    "license": "unknown"
+  },
+  {
+    "name": "arm-memspeed",
+    "version": "1.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "warp",
+    "version": "3.+",
+    "license": "proprietary"
+  },
+  {
+    "name": "cups-filters",
+    "version": "1.25.4",
+    "license": "GPL-2.0-only AND GPL-2.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-only AND LGPL-2.1-or-later AND MIT AND BSD-4-Clause"
+  },
+  {
+    "name": "xorg-font-ttf-lohit-devanagari",
+    "version": "2.95.2",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "libaio",
+    "version": "0.3.113",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "base",
+    "version": "1",
+    "license": "ignore"
+  },
+  {
+    "name": "xorg-lib-xrandr",
+    "version": "1.5.2",
+    "license": "MIT"
+  },
+  {
+    "name": "libjaylink",
+    "version": "0.1.0-15-g8645845",
+    "license": "GPL-2.0+"
+  },
+  {
+    "name": "bash",
+    "version": "5.2.37",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "libpthread-stubs",
+    "version": "0.5",
+    "license": "MIT"
+  },
+  {
+    "name": "flac",
+    "version": "1.3.3",
+    "license": "BSD-3-Clause AND GPL-2.0-or-later AND LGPL-2.0-or-later"
+  },
+  {
+    "name": "fscryptctl",
+    "version": "1.0.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "python3-snmpclitools",
+    "version": "0.6.4",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "diffutils",
+    "version": "3.10",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "upower",
+    "version": "0.99.11",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "libnftnl",
+    "version": "1.2.7",
+    "license": "GPL-2.0-only AND GPL-2.0-or-later"
+  },
+  {
+    "name": "file",
+    "version": "5.45",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "python3-cffi",
+    "version": "1.16.0",
+    "license": "MIT"
+  },
+  {
+    "name": "libnghttp2",
+    "version": "1.50.0",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-hbmqtt",
+    "version": "0.9.4",
+    "license": "MIT"
+  },
+  {
+    "name": "xorg-font-ttf-hanazono",
+    "version": "20170904",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "xorg-lib-xscrnsaver",
+    "version": "1.2.3",
+    "license": "MIT"
+  },
+  {
+    "name": "waffle",
+    "version": "1.8.1",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "dav1d",
+    "version": "1.3.0",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "gflags",
+    "version": "2.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "sysstat",
+    "version": "12.7.4",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "calibrator",
+    "version": "20070821-1",
+    "license": "custom"
+  },
+  {
+    "name": "libnvme",
+    "version": "1.8",
+    "license": "LGPL-2.1-or-later AND GPL-2.0-or-later"
+  },
+  {
+    "name": "ecryptfs-utils",
+    "version": "111",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "fbutils",
+    "version": "20041102-1",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "libid3tag",
+    "version": "0.15.1b",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "latencytop",
+    "version": "0.5",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libepoxy",
+    "version": "1.5.10",
+    "license": "MIT"
+  },
+  {
+    "name": "ssmtp",
+    "version": "2.64",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "dbus-glib",
+    "version": "0.104",
+    "license": "AFL-2.1 AND GPL-2.0-or-later"
+  },
+  {
+    "name": "bridge-utils",
+    "version": "1.7.1",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "flex",
+    "version": "2.6.4",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "at91bootstrap",
+    "version": "1.16",
+    "license": "BSD-Source-Code AND GPL-2.0-or-later"
+  },
+  {
+    "name": "talloc",
+    "version": "2.3.4",
+    "license": "GPL-3.0-or-later AND LGPL-3.0-or-later"
+  },
+  {
+    "name": "qemu",
+    "version": "9.1.2",
+    "license": "GPL-2.0-only AND GPL-2.0-or-later AND MIT AND BSD-1-Clause AND BSD-2-Clause AND BSD-3-Clause"
+  },
+  {
+    "name": "sudo",
+    "version": "1.9.15p5",
+    "license": "ISC AND BSD-3-Clause AND BSD-2-Clause-NetBSD AND Zlib"
+  },
+  {
+    "name": "os-release",
+    "version": "1.0",
+    "license": "ignore"
+  },
+  {
+    "name": "gawk",
+    "version": "5.2.1",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "speexdsp",
+    "version": "1.2.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "aml",
+    "version": "0.3.0",
+    "license": "ISC"
+  },
+  {
+    "name": "supertux",
+    "version": "0.1.3",
+    "license": ""
+  },
+  {
+    "name": "libssh2",
+    "version": "1.9.0",
+    "license": ""
+  },
+  {
+    "name": "networkmanager-fortisslvpn",
+    "version": "1.2.10",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "armadillo",
+    "version": "12.6.6",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "powertop",
+    "version": "2.15",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "xterm",
+    "version": "284",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-semantic-version",
+    "version": "2.10.0 semantic_version-$(PYTHON3_SEMANTIC_VERSION_VERSION)",
+    "license": "BSD"
+  },
+  {
+    "name": "vulkan-utility-libraries",
+    "version": "1.3.296.0",
+    "license": "Apache-2.0 AND MIT"
+  },
+  {
+    "name": "xorg-font-misc-ethiopic",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "libtag",
+    "version": "1.13.1",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "python3-packaging",
+    "version": "23.1",
+    "license": "BSD-2-Clause OR Apache-2.0"
+  },
+  {
+    "name": "xorg-font-ttf-comic-jens",
+    "version": "2.0",
+    "license": "CC-BY-ND-3.0"
+  },
+  {
+    "name": "liburing",
+    "version": "2.6",
+    "license": "MIT"
+  },
+  {
+    "name": "libsepol",
+    "version": "2.1.8",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "libexif",
+    "version": "0.6.21",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "digest-hmac-perl",
+    "version": "1.03",
+    "license": "unknown"
+  },
+  {
+    "name": "dash",
+    "version": "0.5.5.1",
+    "license": "BSD-3-Clause AND GPL-2.0-or-later"
+  },
+  {
+    "name": "python3-msgpack",
+    "version": "0.4.8",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "cryptodev-api",
+    "version": "$(CRYPTODEV_VERSION)",
+    "license": "$(CRYPTODEV_LICENSE)"
+  },
+  {
+    "name": "libtar",
+    "version": "1.2.20",
+    "license": "unknown"
+  },
+  {
+    "name": "tf-a",
+    "version": "$(call ptx/config-version, PTXCONF_TF_A)",
+    "license": "BSD-3-Clause AND BSD-2-Clause "
+  },
+  {
+    "name": "nvme-cli",
+    "version": "1.7",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "nginx",
+    "version": "1.24.0",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "networkmanager",
+    "version": "1.48.0",
+    "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
+  },
+  {
+    "name": "igt-gpu-tools",
+    "version": "1.29",
+    "license": "MIT AND ISC"
+  },
+  {
+    "name": "systemd-bootchart",
+    "version": "233",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-only"
+  },
+  {
+    "name": "btop",
+    "version": "1.3.2",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "xorg-app-rgb",
+    "version": "1.0.6",
+    "license": ""
+  },
+  {
+    "name": "qt5",
+    "version": "5.15.15",
+    "license": "(LGPL-3.0-only OR GPL-2.0-only) AND GFDL-1.3-only"
+  },
+  {
+    "name": "xorg-lib-xft",
+    "version": "2.3.3",
+    "license": ""
+  },
+  {
+    "name": "qt6",
+    "version": "6.6.2",
+    "license": "(LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only) AND (GPL-3.0-only WITH Qt-GPL-exception-1.0) AND GFDL-1.3-no-invariants-only"
+  },
+  {
+    "name": "libtasn1",
+    "version": "4.19.0",
+    "license": "LGPL-2.1-only AND GPL-3.0-only"
+  },
+  {
+    "name": "libelf",
+    "version": "0.190",
+    "license": "(LGPL-3.0-or-later OR GPL-2.0-or-later) AND GPL-3.0-or-later"
+  },
+  {
+    "name": "libbsd",
+    "version": "0.11.7",
+    "license": "BSD-4-Clause AND BSD-3-Clause AND BSD-2-Clause-NetBSD AND ISC AND MIT AND Beerware AND public_domain"
+  },
+  {
+    "name": "xorg-font-ttf-lohit-telugu",
+    "version": "2.5.4",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "trace-cmd",
+    "version": "2.9.7",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "brotli",
+    "version": "1.1.0",
+    "license": "MIT"
+  },
+  {
+    "name": "ckermit",
+    "version": "302",
+    "license": ""
+  },
+  {
+    "name": "memtool",
+    "version": "2018.03.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "dump1090fa",
+    "version": "9.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "pyserial3",
+    "version": "3.5",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "audiofile",
+    "version": "0.3.6",
+    "license": "GPL-2.0-only AND LGPL-2.0-only"
+  },
+  {
+    "name": "timeout",
+    "version": "1.18",
+    "license": ""
+  },
+  {
+    "name": "cpufrequtils",
+    "version": "008",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "gstreamer-vaapi1",
+    "version": "1.24.9",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "tpm2-tools",
+    "version": "5.7",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "gzip",
+    "version": "1.9",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "rng-tools",
+    "version": "6.14",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "npth",
+    "version": "1.7",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "libatomic_ops",
+    "version": "7.8.0",
+    "license": "MIT AND Boehm-GC AND GPL-2.0-or-later"
+  },
+  {
+    "name": "libsodium",
+    "version": "1.0.18",
+    "license": "ISC"
+  },
+  {
+    "name": "xorg-font-screen-cyrillic",
+    "version": "1.0.4",
+    "license": ""
+  },
+  {
+    "name": "sshpass",
+    "version": "1.10",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "stress",
+    "version": "1.0.4",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "xorg-font-ttf-lohit-tamil-classical",
+    "version": "2.5.3",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "wayland",
+    "version": "1.23.1",
+    "license": "MIT"
+  },
+  {
+    "name": "ntfs-3g",
+    "version": "2022.10.3",
+    "license": "GPL-2.0-or-later AND LGPL-2.0-only"
+  },
+  {
+    "name": "libxslt",
+    "version": "1.1.42",
+    "license": "MIT"
+  },
+  {
+    "name": "tar",
+    "version": "1.35",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "kbd",
+    "version": "2.6.4",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "python3-zeroconf",
+    "version": "0.26.1",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "python3-pyro",
+    "version": "4.80",
+    "license": "MIT"
+  },
+  {
+    "name": "dropwatch",
+    "version": "1.5.4",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "blspec-entry",
+    "version": "$(KERNEL_VERSION)",
+    "license": "ignore"
+  },
+  {
+    "name": "numactl",
+    "version": "2.0.14",
+    "license": "LGPL-2.1 AND GPL-2.0"
+  },
+  {
+    "name": "networkmanager-openvpn",
+    "version": "1.8.12",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "gettext",
+    "version": "0.22.5",
+    "license": "GPL-3.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "udev-legacy",
+    "version": "182",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "nss",
+    "version": "3.106",
+    "license": "MPL-2.0"
+  },
+  {
+    "name": "modemmanager",
+    "version": "1.22.0",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "xorgproto",
+    "version": "2024.1",
+    "license": "X11 AND MIT AND BSD-2-Clause"
+  },
+  {
+    "name": "xorg-font-encodings",
+    "version": "1.0.5",
+    "license": ""
+  },
+  {
+    "name": "xorg-app-mkfontscale",
+    "version": "1.2.1",
+    "license": "MIT"
+  },
+  {
+    "name": "poppler-data",
+    "version": "0.4.9",
+    "license": "GPL-2.0-only AND MIT AND BSD-3-Clause"
+  },
+  {
+    "name": "gdbserver",
+    "version": "$(call ptx/config-version,PTXCONF_GDBSERVER,SHARED_GDB)",
+    "license": "GPL-2.0-only AND GPL-3.0-or-later"
+  },
+  {
+    "name": "boa",
+    "version": "0.94.14rc21",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "python3-netifaces",
+    "version": "0.11.0",
+    "license": "MIT"
+  },
+  {
+    "name": "xorg-font-mutt-misc",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "vo-aacenc",
+    "version": "0.1.3",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "rc-once",
+    "version": "1.0.0",
+    "license": "ignore"
+  },
+  {
+    "name": "libtirpc",
+    "version": "1.3.6",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "memedit",
+    "version": "0.9",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "zlib",
+    "version": "1.3.1",
+    "license": "Zlib"
+  },
+  {
+    "name": "sdl2",
+    "version": "2.30.9",
+    "license": "zlib"
+  },
+  {
+    "name": "fbgrab",
+    "version": "1.3.1",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "iozone",
+    "version": "327",
+    "license": "Freeware"
+  },
+  {
+    "name": "munin",
+    "version": "2.0.20",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "unzip",
+    "version": "6.00",
+    "license": "Info-ZIP"
+  },
+  {
+    "name": "bzip2",
+    "version": "1.0.8",
+    "license": "bzip2-1.0.6"
+  },
+  {
+    "name": "htop",
+    "version": "3.0.1",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libusb",
+    "version": "1.0.27",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "xorg-font-alias",
+    "version": "1.0.3",
+    "license": "Vakulenko"
+  },
+  {
+    "name": "vkrunner",
+    "version": "2023-10-29-g93cbb7b1cca7",
+    "license": "MIT AND Apache-2.0"
+  },
+  {
+    "name": "pulseaudio",
+    "version": "17.0",
+    "license": "MIT AND GPL-2.0-or-later AND LGPL-2.1-or-later AND Rdisc AND ADRIAN"
+  },
+  {
+    "name": "gst-plugins-good1",
+    "version": "1.24.9",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "xmlstarlet",
+    "version": "1.0.1",
+    "license": ""
+  },
+  {
+    "name": "xorg-font-sony-misc",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "cairomm",
+    "version": "1.10.0",
+    "license": ""
+  },
+  {
+    "name": "pureftpd",
+    "version": "1.0.36",
+    "license": ""
+  },
+  {
+    "name": "xorg-font-ttf-lohit-malayalam",
+    "version": "2.92.0",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "frodo",
+    "version": "4.1b",
+    "license": "custom"
+  },
+  {
+    "name": "python3-urllib3",
+    "version": "2.2.2",
+    "license": "MIT"
+  },
+  {
+    "name": "mosquitto",
+    "version": "2.0.14",
+    "license": "EPL-2.0 OR BSD-3-Clause"
+  },
+  {
+    "name": "libfastjson",
+    "version": "0.99.8",
+    "license": "MIT"
+  },
+  {
+    "name": "liblockfile",
+    "version": "1.08",
+    "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
+  },
+  {
+    "name": "dhcp",
+    "version": "4.4.3",
+    "license": "MPL-2.0 AND BSD-3-Clause AND ISC"
+  },
+  {
+    "name": "pelts-tests",
+    "version": "0.0.1",
+    "license": ""
+  },
+  {
+    "name": "atop",
+    "version": "2.10.0",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "dbus",
+    "version": "1.15.12",
+    "license": "(AFL-2.1 OR GPL-2.0-or-later) AND MIT"
+  },
+  {
+    "name": "mpg123",
+    "version": "1.26.3",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "libffi",
+    "version": "3.4.6",
+    "license": "MIT"
+  },
+  {
+    "name": "xorg-font-arphic-uming",
+    "version": "0.2.20080216.1",
+    "license": "ARPHIC"
+  },
+  {
+    "name": "librtlsdr",
+    "version": "0.9.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "tcpreplay",
+    "version": "4.5.1",
+    "license": "GPL-3.0-only AND BSD-4-Clause-UC AND BSD-3-Clause"
+  },
+  {
+    "name": "berlios-can-utils",
+    "version": "v2021.06.0",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "gnupg",
+    "version": "2.4.5",
+    "license": "GPL-2.0-or-later AND GPL-3.0-or-later AND LGPL-2.1-or-later AND LGPL-3.0-or-later AND MIT AND Spencer-86 AND BSD-2-Clause-Views AND Unicode-DFS-2016"
+  },
+  {
+    "name": "python3-pytest",
+    "version": "5.4.3",
+    "license": "MIT"
+  },
+  {
+    "name": "u-boot",
+    "version": "$(call ptx/config-version, PTXCONF_U_BOOT)",
+    "license": ""
+  },
+  {
+    "name": "libdvdnav",
+    "version": "6.1.1",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "xorg-lib-xdamage",
+    "version": "1.1.5",
+    "license": "MIT"
+  },
+  {
+    "name": "libpcre",
+    "version": "8.45",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "cairo",
+    "version": "1.18.2",
+    "license": "LGPL-2.1-only OR MPL-1.1"
+  },
+  {
+    "name": "paho-mqtt-c",
+    "version": "1.3.12",
+    "license": "EPL-2.0 AND BSD-3-Clause"
+  },
+  {
+    "name": "libmxml",
+    "version": "3.3.1",
+    "license": "Apache-2.0 WITH custom-exception"
+  },
+  {
+    "name": "qpdf",
+    "version": "8.4.2",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "libcap",
+    "version": "2.72",
+    "license": "BSD-3-Clause OR GPL-2.0-only"
+  },
+  {
+    "name": "crda",
+    "version": "4.15 2024.07.04",
+    "license": "ISC AND copyleft-next-0.3.0"
+  },
+  {
+    "name": "ofono",
+    "version": "1.32",
+    "license": "GPL-2.0-only AND GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "python3-more-itertools",
+    "version": "8.4.0",
+    "license": "MIT"
+  },
+  {
+    "name": "xorg-app-xinput",
+    "version": "1.6.3",
+    "license": "unknown"
+  },
+  {
+    "name": "lxc",
+    "version": "3.0.1",
+    "license": "unknown"
+  },
+  {
+    "name": "sjinn",
+    "version": "1.01",
+    "license": ""
+  },
+  {
+    "name": "python3-scikit-learn",
+    "version": "1.3.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "mesa-demos",
+    "version": "8.3.0",
+    "license": "unknown"
+  },
+  {
+    "name": "monit",
+    "version": "5.32.0",
+    "license": "AGPL-3.0-only"
+  },
+  {
+    "name": "xorg-font-schumacher-misc",
+    "version": "1.1.2",
+    "license": ""
+  },
+  {
+    "name": "glmark2",
+    "version": "2023.01",
+    "license": "GPL-3.0-only AND SGIv1"
+  },
+  {
+    "name": "ldd",
+    "version": "2.7",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "xorg-font-adobe-100dpi",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "usbip",
+    "version": "5.8",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libassuan",
+    "version": "3.0.1",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "pixman",
+    "version": "0.44.0",
+    "license": "MIT"
+  },
+  {
+    "name": "modem-telit-le910s1-ea",
+    "version": "39.00.014-P0K.010000",
+    "license": "proprietary"
+  },
+  {
+    "name": "optee-examples",
+    "version": "4.0.0",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "sdl2-test",
+    "version": "$(SDL2_VERSION)",
+    "license": "zlib"
+  },
+  {
+    "name": "liburcu",
+    "version": "0.9.3",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "linux-serial-test",
+    "version": "2020-06-02-g0685fc53870f",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-attrs",
+    "version": "20.2.0",
+    "license": "MIT"
+  },
+  {
+    "name": "locales",
+    "version": "1.0",
+    "license": "ignore"
+  },
+  {
+    "name": "e2fsprogs",
+    "version": "1.47.1",
+    "license": "GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND MIT"
+  },
+  {
+    "name": "xorg-app-xkbcomp",
+    "version": "1.4.5",
+    "license": "MIT"
+  },
+  {
+    "name": "memtester",
+    "version": "4.5.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libwebsockets",
+    "version": "4.3.3",
+    "license": "MIT AND BSD-2-Clause AND BSD-3-Clause"
+  },
+  {
+    "name": "fbtest",
+    "version": "2023-03-28-g47f6351",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "rrdtool",
+    "version": "1.7.0",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "icu",
+    "version": "74.1",
+    "license": "MIT AND Unicode-3.0 AND public_domain AND BSD-3-Clause"
+  },
+  {
+    "name": "parted",
+    "version": "3.6",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "xorg-app-xeyes",
+    "version": "1.1.2",
+    "license": "MIT"
+  },
+  {
+    "name": "gst-plugins-ugly1",
+    "version": "1.24.9",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "cereal",
+    "version": "1.3.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "freetype",
+    "version": "2.13.3",
+    "license": "BSD-2-Clause AND FTL AND GPL-2.0-or-later AND MIT"
+  },
+  {
+    "name": "mariadb",
+    "version": "11.4.4",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libkmod",
+    "version": "33",
+    "license": "GPL-2.0-only AND LGPL-2.0-only"
+  },
+  {
+    "name": "libgudev",
+    "version": "238",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "fbv",
+    "version": "1.0b-ptx3",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "termcap",
+    "version": "1.3.1",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "pcre2",
+    "version": "10.44",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "mc",
+    "version": "4.8.25",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "tpm2-abrmd",
+    "version": "2.3.0",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "gst-devtools1",
+    "version": "1.24.9",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "xcb-proto",
+    "version": "1.16.0",
+    "license": "MIT"
+  },
+  {
+    "name": "libxmlconfig",
+    "version": "1.0.8",
+    "license": ""
+  },
+  {
+    "name": "ed",
+    "version": "1.14.2",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "python3-yoyo-migrations",
+    "version": "8.2.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "haproxy",
+    "version": "2.7.2",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "xorg-font-ttf-caladea",
+    "version": "2020-02-11-g336a529cfad3",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "ncurses",
+    "version": "6.4",
+    "license": "MIT"
+  },
+  {
+    "name": "xorg-font-daewoo-misc",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "jimtcl",
+    "version": "0.83",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "xorg-lib-xxf86misc",
+    "version": "1.0.4",
+    "license": ""
+  },
+  {
+    "name": "qwt5",
+    "version": "6.1.5",
+    "license": "LGPL-2.1-only AND QWT-1.0"
+  },
+  {
+    "name": "python3-pluggy",
+    "version": "0.13.1",
+    "license": "MIT"
+  },
+  {
+    "name": "libpwm",
+    "version": "2024-04-09-gf7a7496fcb9d",
+    "license": "LGPL-2.1-only AND 0BSD"
+  },
+  {
+    "name": "libpsl",
+    "version": "0.21.2",
+    "license": "MIT"
+  },
+  {
+    "name": "libmng",
+    "version": "1.0.10",
+    "license": "custom"
+  },
+  {
+    "name": "libcaca",
+    "version": "0.99.beta19",
+    "license": ""
+  },
+  {
+    "name": "barebox_mlo",
+    "version": "$(call ptx/config-version, PTXCONF_BAREBOX_MLO)",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "rpcbind",
+    "version": "1.2.6",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "abseil-cpp",
+    "version": "20230802.1",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "python3-periphery",
+    "version": "2.4.1",
+    "license": "MIT"
+  },
+  {
+    "name": "mosh",
+    "version": "1.3.2",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "libmnl",
+    "version": "1.0.5",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "modem-telit-le910-eu-v2",
+    "version": "20.00.406",
+    "license": "proprietary"
+  },
+  {
+    "name": "at",
+    "version": "3.2.5",
+    "license": "GPL-2.0-or-later AND GPL-3.0-or-later AND ISC"
+  },
+  {
+    "name": "usb-modeswitch-data",
+    "version": "20191128",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "iw",
+    "version": "6.9",
+    "license": "ISC"
+  },
+  {
+    "name": "chrony",
+    "version": "4.6.1",
+    "license": "GPL-2.0-only AND RSA-MD"
+  },
+  {
+    "name": "libconfuse",
+    "version": "3.3",
+    "license": "ISC"
+  },
+  {
+    "name": "python3-aiohttp",
+    "version": "3.8.4",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "otp-fuser",
+    "version": "1.+",
+    "license": "proprietary"
+  },
+  {
+    "name": "xorg-font-adobe-75dpi",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "xfsprogs",
+    "version": "5.9.0",
+    "license": "GPL-2.0-only AND LGPL-2.1-only"
+  },
+  {
+    "name": "syslinux",
+    "version": "3.86",
+    "license": "unknown"
+  },
+  {
+    "name": "xorg-font-ttf-lohit-punjabi",
+    "version": "2.5.3",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "efivar",
+    "version": "39",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "tclap",
+    "version": "1.2.1",
+    "license": "MIT"
+  },
+  {
+    "name": "perl",
+    "version": "5.18.2 5.18.2-cross-0.8.5",
+    "license": "GPL-1.0-only"
+  },
+  {
+    "name": "xorg-lib-xtst",
+    "version": "1.2.3",
+    "license": ""
+  },
+  {
+    "name": "wget",
+    "version": "1.21.3",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "sched_switch",
+    "version": "0.1",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "spawn-fcgi",
+    "version": "1.6.4",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "socket6-perl",
+    "version": "0.25",
+    "license": "unknown"
+  },
+  {
+    "name": "autossh",
+    "version": "1.4g",
+    "license": "custom"
+  },
+  {
+    "name": "xorg-font-util",
+    "version": "1.3.2",
+    "license": "MIT"
+  },
+  {
+    "name": "vim",
+    "version": "9.1.0061",
+    "license": "Vim"
+  },
+  {
+    "name": "sdl2-image",
+    "version": "2.8.2",
+    "license": "zlib"
+  },
+  {
+    "name": "pcsc-lite",
+    "version": "1.9.8",
+    "license": "BSD-3-Clause AND BSD-2-Clause AND MIT AND ISC"
+  },
+  {
+    "name": "picocom",
+    "version": "3.1",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "iperf3",
+    "version": "3.16",
+    "license": "BSD"
+  },
+  {
+    "name": "libdvdcss",
+    "version": "1.4.3",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "sdl",
+    "version": "1.2.15",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "xorg-font-adobe-utopia-type1",
+    "version": "1.0.4",
+    "license": ""
+  },
+  {
+    "name": "webrtc-audio-processing",
+    "version": "0.3.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "pyutils",
+    "version": "1.+",
+    "license": "proprietary"
+  },
+  {
+    "name": "sdl_mixer",
+    "version": "1.2.11",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "spirv-headers",
+    "version": "1.3.296.0",
+    "license": "custom AND MIT"
+  },
+  {
+    "name": "mlpack",
+    "version": "4.2.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "xorg-font-winitzki-cyrillic",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "python3-yarl",
+    "version": "1.8.2",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "python3-lxml",
+    "version": "4.9.2",
+    "license": "BSD"
+  },
+  {
+    "name": "libtheora",
+    "version": "1.1.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "graphite2",
+    "version": "1.3.14",
+    "license": "LGPL-2.1-or-later OR GPL-2.0-or-later OR MPL-2.0"
+  },
+  {
+    "name": "stm32flash",
+    "version": "0.5",
+    "license": "GPLv2"
+  },
+  {
+    "name": "mobile-broadband-provider-info",
+    "version": "20220725",
+    "license": "public_domain"
+  },
+  {
+    "name": "gdb",
+    "version": "$(call ptx/config-version,PTXCONF_GDB,SHARED_GDB)",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "xorg-app-xrandr",
+    "version": "1.5.1",
+    "license": "unknown"
+  },
+  {
+    "name": "libmicrohttpd",
+    "version": "0.9.75",
+    "license": "LGPL-2.1-only LGPL-2.1-only OR GPL-2.0-only WITH eCos-exception-2.0"
+  },
+  {
+    "name": "memtest",
+    "version": "0.0.4",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "rt-tests",
+    "version": "2.3",
+    "license": "GPL-2.0-only AND GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "openssh",
+    "version": "9.9p1",
+    "license": "BSD AND BSD-2-Clause AND BSD-3-Clause AND MIT AND Beerware AND ISC"
+  },
+  {
+    "name": "gtk",
+    "version": "3.24.35",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "cppunit",
+    "version": "1.14.0",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "blktrace",
+    "version": "1.2.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "openvpn",
+    "version": "2.6.11",
+    "license": "GPL-2.0-only WITH (openvpn-openssl-exception AND custom-exception) AND BSD-2-Clause AND BSD-3-Clause AND ((GPL-2.0-only WITH Linux-syscall-note) OR MIT)"
+  },
+  {
+    "name": "openssl",
+    "version": "3.4.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "madplay",
+    "version": "0.15.2b",
+    "license": ""
+  },
+  {
+    "name": "initmethod-systemd",
+    "version": "1.0.0",
+    "license": "ignore"
+  },
+  {
+    "name": "serdisplib",
+    "version": "1.97.9",
+    "license": "GPL"
+  },
+  {
+    "name": "libusbgx",
+    "version": "0.3.0",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "fcgi",
+    "version": "2.4.2",
+    "license": "OML"
+  },
+  {
+    "name": "mbw",
+    "version": "1.4",
+    "license": ""
+  },
+  {
+    "name": "python3-ptyprocess",
+    "version": "0.6.0",
+    "license": "ISC"
+  },
+  {
+    "name": "sdbus-cpp",
+    "version": "1.0.0",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "python3-pyalsaaudio",
+    "version": "0.8.4",
+    "license": "PSF"
+  },
+  {
+    "name": "libxcvt",
+    "version": "0.1.2",
+    "license": "MIT"
+  },
+  {
+    "name": "fftw",
+    "version": "3.2.2",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "glu",
+    "version": "9.0.2",
+    "license": "SGI-B-2.0 AND SGI-B-1.1"
+  },
+  {
+    "name": "hub-ctrl",
+    "version": "2014.07.0",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "libsndfile",
+    "version": "1.2.2",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "libnl3",
+    "version": "3.11.0",
+    "license": "LGPL-2.1-only AND BSD-3-Clause"
+  },
+  {
+    "name": "libva-utils",
+    "version": "2.12.0",
+    "license": "MIT"
+  },
+  {
+    "name": "xorg-font-ttf-lohit-oriya",
+    "version": "2.5.4.1",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "neatvnc",
+    "version": "0.8.1",
+    "license": "ISC"
+  },
+  {
+    "name": "oprofile",
+    "version": "1.4.0",
+    "license": ""
+  },
+  {
+    "name": "json-glib",
+    "version": "1.8.0",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "x11perf",
+    "version": "1.7.0",
+    "license": "MIT"
+  },
+  {
+    "name": "log4cplus",
+    "version": "1.2.2",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "nfsutils",
+    "version": "2.6.2",
+    "license": "GPL-2.0-or-later AND BSD-3-Clause"
+  },
+  {
+    "name": "ltt-control",
+    "version": "0.87-09062010",
+    "license": ""
+  },
+  {
+    "name": "inetutils",
+    "version": "1.9.2",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "bayer2rgb3",
+    "version": "v0.6.0",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "bootchart",
+    "version": "0.90.1",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "systemd",
+    "version": "256.8",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-only"
+  },
+  {
+    "name": "microcom",
+    "version": "2019.01.0",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "libqmi",
+    "version": "1.34.0",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "dnsmasq",
+    "version": "2.89",
+    "license": "GPL-2.0-only OR GPL-3.0-only"
+  },
+  {
+    "name": "sdl2-net",
+    "version": "2.0.1",
+    "license": "zlib"
+  },
+  {
+    "name": "lxfp",
+    "version": "00.04",
+    "license": "proprietary"
+  },
+  {
+    "name": "poke",
+    "version": "3.3",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "nucleus",
+    "version": "5.+",
+    "license": "proprietary"
+  },
+  {
+    "name": "gnuplot",
+    "version": "4.6.7",
+    "license": "gnuplot"
+  },
+  {
+    "name": "rsyslog",
+    "version": "8.2406.0",
+    "license": "GPL-3.0-or-later AND LGPL-3.0-or-later AND Apache-2.0"
+  },
+  {
+    "name": "rauc-hawkbit-updater",
+    "version": "1.2",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "zbar",
+    "version": "0.23.90",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "ptxdist-configs",
+    "version": "$(PTXDIST_VERSION_FULL)",
+    "license": ""
+  },
+  {
+    "name": "liboping",
+    "version": "1.10.0",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "libnetfilter_conntrack",
+    "version": "1.0.1",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "cppzmq",
+    "version": "ee47ae4cddc3",
+    "license": "unknown"
+  },
+  {
+    "name": "hiredis",
+    "version": "1.2.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "boost",
+    "version": "1_83_0",
+    "license": "BSL-1.0"
+  },
+  {
+    "name": "timezone",
+    "version": "1.0",
+    "license": "public_domain"
+  },
+  {
+    "name": "apitrace",
+    "version": "11.1 2021-01-18-gdedbe13fda00 2020-01-14-g537f4ad6240e",
+    "license": "MIT AND BSD-3-Clause"
+  },
+  {
+    "name": "xcb-util-image",
+    "version": "0.4.0",
+    "license": "X11"
+  },
+  {
+    "name": "u-boot-tools",
+    "version": "2020.07",
+    "license": "GPL-2.0-or-later AND Zlib"
+  },
+  {
+    "name": "p11-kit",
+    "version": "0.23.15",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "llvm",
+    "version": "17.0.6",
+    "license": "Apache-2.0 WITH LLVM-exception AND NCSA"
+  },
+  {
+    "name": "gpgme",
+    "version": "1.23.2",
+    "license": "LGPLv2.1+"
+  },
+  {
+    "name": "libndp",
+    "version": "1.9",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "python3-aiofiles",
+    "version": "23.1.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "gobject-introspection",
+    "version": "1.72.0",
+    "license": "LGPL-2.1-or-later AND GPL-2.0-or-later"
+  },
+  {
+    "name": "catch2",
+    "version": "2.13.10",
+    "license": "BSL-1.0"
+  },
+  {
+    "name": "smcroute",
+    "version": "2.4.0",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "xorg-lib-fontenc",
+    "version": "1.1.4",
+    "license": "MIT"
+  },
+  {
+    "name": "tpm2-tss",
+    "version": "4.1.3",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "libblockdev",
+    "version": "3.1.1",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "hdparm",
+    "version": "9.58",
+    "license": "custom"
+  },
+  {
+    "name": "xorg-font-misc-misc",
+    "version": "1.1.2",
+    "license": ""
+  },
+  {
+    "name": "pipewire",
+    "version": "1.2.7",
+    "license": "MIT AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "wayland-utils",
+    "version": "1.2.0",
+    "license": "MIT"
+  },
+  {
+    "name": "netkit-ftp",
+    "version": "0.17",
+    "license": "BSD"
+  },
+  {
+    "name": "eggdbus",
+    "version": "0.6",
+    "license": "LGPL-2.0-only"
+  },
+  {
+    "name": "uxfp",
+    "version": "1.10.0-0",
+    "license": "proprietary"
+  },
+  {
+    "name": "xorg-lib-xinerama",
+    "version": "1.1.4",
+    "license": ""
+  },
+  {
+    "name": "tslib",
+    "version": "1.23",
+    "license": ""
+  },
+  {
+    "name": "frontend-efm32",
+    "version": "2.4.0",
+    "license": "proprietary"
+  },
+  {
+    "name": "mmc-utils",
+    "version": "2022-09-27-gdfc3b6ecda84",
+    "license": "GPL-2.0-only AND BSD-3-Clause"
+  },
+  {
+    "name": "vulkan-validationlayers",
+    "version": "1.3.296.0",
+    "license": "Apache-2.0 AND MIT"
+  },
+  {
+    "name": "qrencode",
+    "version": "3.4.4",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "python3-six",
+    "version": "1.16.0",
+    "license": "MIT"
+  },
+  {
+    "name": "postgresql",
+    "version": "13.3",
+    "license": "PostgreSQL"
+  },
+  {
+    "name": "mongodb mongodb mongodb",
+    "version": "7.2.2",
+    "license": "SSPL-1.0"
+  },
+  {
+    "name": "xorg-font-ttf-bitstream-vera",
+    "version": "1.10",
+    "license": "Bitstream-Vera"
+  },
+  {
+    "name": "libdvdread",
+    "version": "6.1.3",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "imx-kobs",
+    "version": "5.5",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "unixbench",
+    "version": "5.1.2",
+    "license": "unknown"
+  },
+  {
+    "name": "bluez",
+    "version": "5.77",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "gnutls",
+    "version": "3.7.7",
+    "license": "LGPL-3.0-or-later"
+  },
+  {
+    "name": "xorg-lib-xcomposite",
+    "version": "0.4.5",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-websocket-client",
+    "version": "1.2.1",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "python3-ply",
+    "version": "3.11",
+    "license": "BSD"
+  },
+  {
+    "name": "redis",
+    "version": "7.2.2",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "python3-scipy",
+    "version": "1.11.3",
+    "license": "BSD-3-Clause AND MIT AND BSD-3-Clause-LBNL AND BSL-1.0"
+  },
+  {
+    "name": "python3-zipp",
+    "version": "3.20.1",
+    "license": "MIT"
+  },
+  {
+    "name": "xwayland",
+    "version": "24.1.2",
+    "license": "MIT"
+  },
+  {
+    "name": "valgrind valgrind valgrind valgrind",
+    "version": "3.22.0 $(KERNEL_VERSION) $(KERNEL_HEADER_VERSION)",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "ntp",
+    "version": "4.2.8p18",
+    "license": "ntp"
+  },
+  {
+    "name": "libx11-locale",
+    "version": "$(XORG_LIB_X11_VERSION)",
+    "license": "$(XORG_LIB_X11_LICENSE)"
+  },
+  {
+    "name": "cryptsetup",
+    "version": "2.7.4",
+    "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
+  },
+  {
+    "name": "lua-filesystem",
+    "version": "1.5.0",
+    "license": "unknown"
+  },
+  {
+    "name": "python3-pyyaml",
+    "version": "6.0",
+    "license": "MIT"
+  },
+  {
+    "name": "netcat",
+    "version": "1.105",
+    "license": "BSD"
+  },
+  {
+    "name": "pango",
+    "version": "1.50.12",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "quota-tools",
+    "version": "4.06",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "lldpd",
+    "version": "1.0.13",
+    "license": "ISC"
+  },
+  {
+    "name": "python3-markupsafe",
+    "version": "2.1.5",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "python3-adbus",
+    "version": "1.2.7",
+    "license": "MIT"
+  },
+  {
+    "name": "nickel",
+    "version": "1.1.0",
+    "license": ""
+  },
+  {
+    "name": "python3-pyusb",
+    "version": "1.2.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "xorg-app-xvinfo",
+    "version": "1.1.4",
+    "license": ""
+  },
+  {
+    "name": "openntpd",
+    "version": "3.9p1",
+    "license": "ISC AND custom AND BSD-2-Clause AND BSD-3-Clause"
+  },
+  {
+    "name": "libmbim",
+    "version": "1.30.0",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "cbenchsuite",
+    "version": "1.1",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "xorg-lib-xtrans",
+    "version": "1.4.0",
+    "license": "MIT"
+  },
+  {
+    "name": "machine-id",
+    "version": "1",
+    "license": "ignore"
+  },
+  {
+    "name": "xorg-lib-xrender",
+    "version": "0.9.10",
+    "license": "MIT"
+  },
+  {
+    "name": "opus",
+    "version": "1.5.2",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "expat",
+    "version": "2.6.4",
+    "license": "MIT"
+  },
+  {
+    "name": "openldap",
+    "version": "2.6.3",
+    "license": "OLDAP-2.8"
+  },
+  {
+    "name": "f2fs-tools",
+    "version": "1.14.0",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "kernel-fit",
+    "version": "$(KERNEL_VERSION)",
+    "license": ""
+  },
+  {
+    "name": "xorg-font-bh-100dpi",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "python3-pickleshare",
+    "version": "0.6",
+    "license": "MIT"
+  },
+  {
+    "name": "mtdev",
+    "version": "1.1.7",
+    "license": "MIT"
+  },
+  {
+    "name": "libunwind",
+    "version": "1.8.1",
+    "license": "MIT"
+  },
+  {
+    "name": "pcmciautils",
+    "version": "017",
+    "license": ""
+  },
+  {
+    "name": "xorg-lib-xcursor",
+    "version": "1.2.0",
+    "license": "MIT"
+  },
+  {
+    "name": "websocat",
+    "version": "1.11.0",
+    "license": "MIT AND unknown"
+  },
+  {
+    "name": "xorg-app-iceauth",
+    "version": "1.0.8",
+    "license": ""
+  },
+  {
+    "name": "nss-mdns",
+    "version": "0.10",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "libucdaemon",
+    "version": "0.0.5",
+    "license": ""
+  },
+  {
+    "name": "libcamera",
+    "version": "0.2.0",
+    "license": "Apache-2.0 AND "
+  },
+  {
+    "name": "xorg-font-ttf-dejavu",
+    "version": "2.37",
+    "license": "Bitstream-Vera AND public_domain"
+  },
+  {
+    "name": "wpewebkit",
+    "version": "2.42.5",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "attr",
+    "version": "2.5.1",
+    "license": "GPL-2.0-only AND LGPL-2.0-only"
+  },
+  {
+    "name": "collectd",
+    "version": "5.8.1",
+    "license": "MIT AND GPL-2.0-only"
+  },
+  {
+    "name": "libinput",
+    "version": "1.27.0",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-pyopenssl",
+    "version": "24.0.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "kmscube",
+    "version": "2020-10-28-ge6386d1b",
+    "license": "MIT"
+  },
+  {
+    "name": "bind",
+    "version": "9.11.37",
+    "license": "MPL-2.0 AND ISC AND BSD-3-Clause AND BSD-2-Clause "
+  },
+  {
+    "name": "xorg-font-ttf-liberation",
+    "version": "2.00.1",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "bing",
+    "version": "1.1.3",
+    "license": ""
+  },
+  {
+    "name": "wavemon",
+    "version": "0.7.5",
+    "license": "GPL"
+  },
+  {
+    "name": "python3-aiosqlite",
+    "version": "0.18.0",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-mako",
+    "version": "1.3.2",
+    "license": "MIT"
+  },
+  {
+    "name": "grub",
+    "version": "0.97",
+    "license": ""
+  },
+  {
+    "name": "libgpg-error",
+    "version": "1.50",
+    "license": "GPL-2.0-only AND LGPL-2.0-only"
+  },
+  {
+    "name": "python3-asyncua",
+    "version": "1.1.0",
+    "license": "LGPL-3.0-or-later"
+  },
+  {
+    "name": "orc",
+    "version": "0.4.40",
+    "license": "BSD-2-Clause AND BSD-3-Clause"
+  },
+  {
+    "name": "python3-falcon",
+    "version": "3.1.3",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "lua",
+    "version": "5.4.4",
+    "license": "MIT"
+  },
+  {
+    "name": "libwebp",
+    "version": "1.3.2",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "fribidi",
+    "version": "1.0.13",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "rtps",
+    "version": "1.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "util-linux",
+    "version": "2.40.2",
+    "license": "GPL-2.0-only AND GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND BSD-4-Clause AND MIT AND ISC AND public_domain"
+  },
+  {
+    "name": "libjpeg",
+    "version": "3.0.4",
+    "license": "IJG AND BSD-3-Clause"
+  },
+  {
+    "name": "grep",
+    "version": "3.11",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "libedit",
+    "version": "20160903-3.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "xorg-font-ttf-vlgothic",
+    "version": "20230918",
+    "license": "public_domain AND mplus AND BSD-3-Clause"
+  },
+  {
+    "name": "python3-ipython-genutils",
+    "version": "0.1.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "mesalib",
+    "version": "24.2.7 ",
+    "license": "MIT"
+  },
+  {
+    "name": "xorg-font-bh-ttf",
+    "version": "1.0.3",
+    "license": "Luxi"
+  },
+  {
+    "name": "xorg-app-mkfontdir",
+    "version": "1.0.7",
+    "license": "MIT"
+  },
+  {
+    "name": "weston",
+    "version": "14.0.1",
+    "license": "MIT"
+  },
+  {
+    "name": "libconfig",
+    "version": "1.7.2",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "webrtc-audio-processing1",
+    "version": "1.3",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "libksba",
+    "version": "1.6.7",
+    "license": "GPL-2.0-only AND GPL-3.0-only AND LGPL-3.0-only"
+  },
+  {
+    "name": "psmisc",
+    "version": "23.5",
+    "license": "unknown"
+  },
+  {
+    "name": "prelink",
+    "version": "0.0.20090925",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "wpan-tools",
+    "version": "0.7",
+    "license": "unknown"
+  },
+  {
+    "name": "shaderc",
+    "version": "v2024.3",
+    "license": ""
+  },
+  {
+    "name": "python3-chardet",
+    "version": "3.0.4",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "harfbuzz",
+    "version": "8.3.0",
+    "license": "MIT"
+  },
+  {
+    "name": "v4l-utils",
+    "version": "1.28.1",
+    "license": "GPL-2.0-or-later (tools); LGPL-2.1-or-later (libs)"
+  },
+  {
+    "name": "xorg-font-ttf-noto",
+    "version": "20151129-g69424ef5945c",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "xcb-util-renderutil",
+    "version": "0.3.9",
+    "license": "X11"
+  },
+  {
+    "name": "optee-test",
+    "version": "4.0.0",
+    "license": "BSD-2-Clause and GPL-2.0"
+  },
+  {
+    "name": "syslogng",
+    "version": "3.25.1",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-only"
+  },
+  {
+    "name": "xkeyboard-config",
+    "version": "2.42",
+    "license": "MIT"
+  },
+  {
+    "name": "haveged",
+    "version": "1.9.18",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "bc",
+    "version": "1.06",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "libusb-compat",
+    "version": "0.1.3",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "samba",
+    "version": "4.14.6",
+    "license": "GPL-3.0-or-later AND LGPL-3.0-or-later"
+  },
+  {
+    "name": "python3",
+    "version": "3.11.10",
+    "license": ""
+  },
+  {
+    "name": "libvorbis",
+    "version": "1.3.7",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "socat",
+    "version": "1.7.3.2",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libnfnetlink",
+    "version": "1.0.1",
+    "license": "GPL2"
+  },
+  {
+    "name": "php8",
+    "version": "8.3.8",
+    "license": "PHP-3.01"
+  },
+  {
+    "name": "piglit",
+    "version": "2024-09-13-g54f78df2bd6b",
+    "license": "MIT AND GPLv2+ AND GPLv3 AND LGPLv2"
+  },
+  {
+    "name": "libmd",
+    "version": "1.1.0",
+    "license": "BSD-3-Clause AND BSD-2-Clause AND ISC AND Beerware AND public_domain"
+  },
+  {
+    "name": "jq",
+    "version": "1.7.1",
+    "license": "MIT AND CC-BY-3.0 AND ICU"
+  },
+  {
+    "name": "media-session",
+    "version": "0.4.2",
+    "license": "MIT AND LGPL-2.1-or-later AND GPL-2.0-only"
+  },
+  {
+    "name": "libsrtp",
+    "version": "2.5.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "imagemagick",
+    "version": "7.1.1-12",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "canfestival",
+    "version": "3+hg20180126.794",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "libcdio",
+    "version": "2.1.0",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "libgee",
+    "version": "0.5.1",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "hostapd",
+    "version": "2.10",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "cryptodev",
+    "version": "1.13",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "optee-client",
+    "version": "4.0.0",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "libao",
+    "version": "1.1.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libuv",
+    "version": "1.47.0",
+    "license": "MIT"
+  },
+  {
+    "name": "eventlog",
+    "version": "0.2.12",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "libftdi1",
+    "version": "1.5",
+    "license": "LGPL-2.1-only AND MIT AND GPL-2.0-only"
+  },
+  {
+    "name": "libgmp",
+    "version": "6.3.0",
+    "license": "GPL-2.0-or-later OR LGPL-3.0-or-later"
+  },
+  {
+    "name": "libev",
+    "version": "4.24",
+    "license": "GPLv2+, BSD"
+  },
+  {
+    "name": "sed",
+    "version": "4.8",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "libxkbcommon",
+    "version": "1.7.0",
+    "license": "MIT AND X11 AND HPND"
+  },
+  {
+    "name": "libdmtx",
+    "version": "0.7.2",
+    "license": "unknown"
+  },
+  {
+    "name": "less",
+    "version": "668",
+    "license": "GPL-3.0-or-later OR BSD-2-Clause"
+  },
+  {
+    "name": "ffmpeg",
+    "version": "7.1",
+    "license": "LGPL-2.1-or-later AND BSD-3-Clause"
+  },
+  {
+    "name": "libcap-ng",
+    "version": "0.8.5",
+    "license": "LGPL-2.1-or-later AND GPL-2.0-or-later"
+  },
+  {
+    "name": "libass",
+    "version": "0.17.1",
+    "license": "ISC"
+  },
+  {
+    "name": "gst-plugins-base1",
+    "version": "1.24.9",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "bluez-qt",
+    "version": "5.56.0",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "libftdi",
+    "version": "0.17",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "latrace latrace",
+    "version": "0.5.11",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "graphene",
+    "version": "1.10.8",
+    "license": "MIT"
+  },
+  {
+    "name": "efax",
+    "version": "0.9",
+    "license": "unknown"
+  },
+  {
+    "name": "ppp",
+    "version": "2.4.9 $(if $(KERNEL_HEADER_VERSION),$(KERNEL_HEADER_VERSION),$(KERNEL_VERSION))",
+    "license": "BSD AND GPL-2.0-only"
+  },
+  {
+    "name": "minisign",
+    "version": "0.11",
+    "license": "ISC"
+  },
+  {
+    "name": "python3-async-timeout",
+    "version": "4.0.2",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "nanopb",
+    "version": "0.4.8",
+    "license": "Zlib"
+  },
+  {
+    "name": "dtc",
+    "version": "1.7.2",
+    "license": "GPL-2.0-or-later OR BSD-2-Clause"
+  },
+  {
+    "name": "gtk-engines",
+    "version": "2.91.1",
+    "license": ""
+  },
+  {
+    "name": "uvc-gadget",
+    "version": "2019-05-02-g105134f9",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later AND MIT"
+  },
+  {
+    "name": "xorg-lib-xxf86vm",
+    "version": "1.1.4",
+    "license": "MIT"
+  },
+  {
+    "name": "libserialport",
+    "version": "0.1.1",
+    "license": "LGPL-3.0-or-later"
+  },
+  {
+    "name": "googletest",
+    "version": "1.8.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "json-dbus-bridge",
+    "version": "1.0.0",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "ply",
+    "version": "2.1.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "nftables",
+    "version": "1.1.0",
+    "license": "GPL-2.0-only AND GPL-2.0-or-later"
+  },
+  {
+    "name": "xcb-util-keysyms",
+    "version": "0.4.0",
+    "license": "X11"
+  },
+  {
+    "name": "sw-ek-lm3s3748",
+    "version": "4423",
+    "license": ""
+  },
+  {
+    "name": "i2c-tools",
+    "version": "4.3",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "svgalib",
+    "version": "1.9.25",
+    "license": "unknown"
+  },
+  {
+    "name": "librsvg",
+    "version": "2.57.2",
+    "license": "LGPL-2.1-or-later AND unknown"
+  },
+  {
+    "name": "xorg-font-ibm-type1",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "sdl2-ttf",
+    "version": "2.22.0",
+    "license": "zlib"
+  },
+  {
+    "name": "xorg-font-bitstream-type1",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "xorg-data-xbitmaps",
+    "version": "1.1.2",
+    "license": ""
+  },
+  {
+    "name": "tiobench",
+    "version": "0.3.3",
+    "license": ""
+  },
+  {
+    "name": "wireshark",
+    "version": "2.0.3",
+    "license": ""
+  },
+  {
+    "name": "libkcapi",
+    "version": "1.5.0",
+    "license": "GPLv2+"
+  },
+  {
+    "name": "iftop",
+    "version": "1.0pre4",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "python3-gi",
+    "version": "3.42.1",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "hwdata",
+    "version": "0.389",
+    "license": "GPL-2.0-or-later OR XFree86-1.0"
+  },
+  {
+    "name": "wireplumber",
+    "version": "0.4.14",
+    "license": "MIT"
+  },
+  {
+    "name": "acl",
+    "version": "2.3.2",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "libwpe",
+    "version": "1.14.2 1.0",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "ncdu",
+    "version": "1.14.2",
+    "license": "MIT"
+  },
+  {
+    "name": "ltrace",
+    "version": "0.7.3",
+    "license": ""
+  },
+  {
+    "name": "cmocka",
+    "version": "1.1.5",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "flup6",
+    "version": "1.1",
+    "license": "BSD AND MIT"
+  },
+  {
+    "name": "libzmq",
+    "version": "4.3.4",
+    "license": "LGPL-3.0-or-later WITH custom-exception"
+  },
+  {
+    "name": "libzip",
+    "version": "1.5.1",
+    "license": "BSD"
+  },
+  {
+    "name": "libsocketcan",
+    "version": "0.0.11",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "wireless",
+    "version": "30",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "tree",
+    "version": "2.1.0",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "libtremor",
+    "version": "2018-03-19-g7c30a6634619",
+    "license": ""
+  },
+  {
+    "name": "initmethod-bbinit",
+    "version": "1.0.0",
+    "license": "ignore"
+  },
+  {
+    "name": "fake-overlayfs",
+    "version": "1.0",
+    "license": ""
+  },
+  {
+    "name": "python3-transitions",
+    "version": "0.5.3",
+    "license": "MIT"
+  },
+  {
+    "name": "libfaketime",
+    "version": "0.9.7",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "xorg-lib-xpm",
+    "version": "3.5.12",
+    "license": "MIT"
+  },
+  {
+    "name": "usb-modeswitch",
+    "version": "2.6.1",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "lpc21isp",
+    "version": "1.85",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "lighttpd",
+    "version": "1.4.76",
+    "license": "BSD-3-Clause AND OML AND RSA-MD"
+  },
+  {
+    "name": "dhcp-helper",
+    "version": "1.1",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "python3-aiosignal",
+    "version": "1.2.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "slang",
+    "version": "2.3.2",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "libltdl",
+    "version": "2.5.3",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "sqlitecpp",
+    "version": "2.4.0",
+    "license": "MIT"
+  },
+  {
+    "name": "cifs-utils",
+    "version": "7.0",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "libmodbus",
+    "version": "3.0.8",
+    "license": "LGPL-3.0-only"
+  },
+  {
+    "name": "libgpiod",
+    "version": "2.1.3",
+    "license": "LGPL-2.1-or-later AND GPL-2.0-only WITH Linux-syscall-note"
+  },
+  {
+    "name": "wpa_supplicant",
+    "version": "2.10",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libxml2",
+    "version": "2.13.4",
+    "license": "MIT AND ISC"
+  },
+  {
+    "name": "libnet",
+    "version": "1.1.6",
+    "license": ""
+  },
+  {
+    "name": "libseccomp",
+    "version": "2.5.5",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "mpfr",
+    "version": "4.2.1",
+    "license": "LGPL-3.0-or-later"
+  },
+  {
+    "name": "at91bootstrap2",
+    "version": "$(call ptx/config-version, PTXCONF_AT91BOOTSTRAP2)",
+    "license": "unknown"
+  },
+  {
+    "name": "radvd",
+    "version": "2.16",
+    "license": "BSD"
+  },
+  {
+    "name": "xorg-lib-ice",
+    "version": "1.0.10",
+    "license": "MIT"
+  },
+  {
+    "name": "alfred",
+    "version": "2017.1",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "xorg-cursor",
+    "version": "0.0.1",
+    "license": ""
+  },
+  {
+    "name": "libiodbc",
+    "version": "3.52.7",
+    "license": "LGPL-2.0-only AND BSD"
+  },
+  {
+    "name": "sdparm",
+    "version": "1.04",
+    "license": ""
+  },
+  {
+    "name": "proftpd",
+    "version": "1.3.5",
+    "license": ""
+  },
+  {
+    "name": "rawrec",
+    "version": "0.9.98",
+    "license": ""
+  },
+  {
+    "name": "batctl",
+    "version": "2024.3",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "zip",
+    "version": "3.0",
+    "license": "Info-ZIP"
+  },
+  {
+    "name": "smtpclient",
+    "version": "1.0.0",
+    "license": ""
+  },
+  {
+    "name": "python3-pip",
+    "version": "21.0.1",
+    "license": "MIT"
+  },
+  {
+    "name": "ima-evm-utils",
+    "version": "1.3.2",
+    "license": "GPL-2.0-only WITH custom-exception"
+  },
+  {
+    "name": "ensmallen",
+    "version": "2.20.0",
+    "license": "BSD-3-clause"
+  },
+  {
+    "name": "xorg-lib-xres",
+    "version": "1.2.0",
+    "license": "MIT"
+  },
+  {
+    "name": "bpytop",
+    "version": "1.0.26",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "heirloom-mailx",
+    "version": "12.4",
+    "license": "unknown"
+  },
+  {
+    "name": "xorg-font-misc-meltho",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "lsuio",
+    "version": "0.2.0",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "dt-utils",
+    "version": "2023.11.0",
+    "license": "GPL-2.0-only AND GPL-2.0-or-later AND Zlib"
+  },
+  {
+    "name": "python3-simplegeneric",
+    "version": "0.8.1",
+    "license": "ZPL-2.1"
+  },
+  {
+    "name": "wayland-protocols",
+    "version": "1.38",
+    "license": "MIT"
+  },
+  {
+    "name": "spirv-tools",
+    "version": "1.3.296.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "net-snmp",
+    "version": "5.9.4",
+    "license": "MIT-CMU AND BSD-3-Clause AND MIT"
+  },
+  {
+    "name": "iperf",
+    "version": "2.0.13",
+    "license": "BSD"
+  },
+  {
+    "name": "lgapp",
+    "version": "4.+",
+    "license": "proprietary"
+  },
+  {
+    "name": "readline",
+    "version": "8.2",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "usr-rootfs",
+    "version": "1.0",
+    "license": "ignore"
+  },
+  {
+    "name": "nmap",
+    "version": "7.93",
+    "license": ""
+  },
+  {
+    "name": "smartmontools",
+    "version": "7.2",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "rauc",
+    "version": "1.11.3",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "python3-ifaddr",
+    "version": "0.1.7",
+    "license": "MIT"
+  },
+  {
+    "name": "dropbear",
+    "version": "2022.83",
+    "license": ""
+  },
+  {
+    "name": "python3-pytz",
+    "version": "2023.3",
+    "license": "MIT"
+  },
+  {
+    "name": "intel-gmmlib",
+    "version": "22.4.1",
+    "license": "MIT AND BSD-3-Clause"
+  },
+  {
+    "name": "casync",
+    "version": "0efa7abffe5fffbde8c457d3c8fafbdde0bb6e4f",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "xorg-app-xauth",
+    "version": "1.1",
+    "license": ""
+  },
+  {
+    "name": "tomoyo-tools",
+    "version": "2.5.0-20130406",
+    "license": "GPL"
+  },
+  {
+    "name": "archivemount",
+    "version": "0.8.3",
+    "license": "LGPL-2.0-only"
+  },
+  {
+    "name": "glib-networking",
+    "version": "2.78.0",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "libpaper",
+    "version": "1.1.24+nmu5",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "xcursor-transparent-theme",
+    "version": "0.1.1",
+    "license": ""
+  },
+  {
+    "name": "python3-psutil",
+    "version": "5.7.2",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "volk",
+    "version": "1.3.296.0",
+    "license": "MIT"
+  },
+  {
+    "name": "setserial",
+    "version": "2.17",
+    "license": ""
+  },
+  {
+    "name": "libcurl",
+    "version": "8.11.0",
+    "license": "curl"
+  },
+  {
+    "name": "octopus",
+    "version": "4.+",
+    "license": "proprietary"
+  },
+  {
+    "name": "python3-pycryptodomex",
+    "version": "3.20.0",
+    "license": "Unlicense AND BSD-2-Clause"
+  },
+  {
+    "name": "gstreamer1",
+    "version": "1.24.9",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "libcoap2",
+    "version": "4.2.1",
+    "license": "BSD-2-Clause AND BSD-1-Clause"
+  },
+  {
+    "name": "stress-ng",
+    "version": "0.14.06",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "sshfs",
+    "version": "3.7.3",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "python3-aiomqtt",
+    "version": "2.1.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "libtahu",
+    "version": "1.0.1",
+    "license": "EPL-2.0"
+  },
+  {
+    "name": "libezv24",
+    "version": "0.1.1-ptx2",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "procps",
+    "version": "4.0.4",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "usbutils",
+    "version": "018",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libxcrypt",
+    "version": "4.4.36",
+    "license": "LGPL-2.1-or-later AND BSD-3-Clause AND BSD-2-Clause AND 0BSD AND public_domain"
+  },
+  {
+    "name": "gst-plugins-bad1",
+    "version": "1.24.9",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "libdisplay-info",
+    "version": "0.1.1",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-cryptography",
+    "version": "41.0.7",
+    "license": "( Apache-2.0 OR BSD-3-Clause ) AND unknown"
+  },
+  {
+    "name": "lsof",
+    "version": "4.99.3",
+    "license": "custom"
+  },
+  {
+    "name": "inotify-tools",
+    "version": "3.13",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "memtest86p",
+    "version": "4.20",
+    "license": "GPL-2"
+  },
+  {
+    "name": "onem2m",
+    "version": "2.+",
+    "license": "proprietary"
+  },
+  {
+    "name": "setmixer",
+    "version": "27DEC94ds1",
+    "license": ""
+  },
+  {
+    "name": "xorg-lib-xfont2",
+    "version": "2.0.4",
+    "license": "unknown"
+  },
+  {
+    "name": "wlroots",
+    "version": "0.16.0",
+    "license": "MIT"
+  },
+  {
+    "name": "libogg",
+    "version": "1.3.5",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "xorg-font-ttf-lohit-bengali",
+    "version": "2.91.3",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "alsa-utils",
+    "version": "1.2.13",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "bsdiff",
+    "version": "4.3",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "sdl2-mixer",
+    "version": "2.0.4",
+    "license": "zlib"
+  },
+  {
+    "name": "xorg-font-ttf-lohit-tamil",
+    "version": "2.91.1",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "net-server-perl",
+    "version": "2.007",
+    "license": "unknown"
+  },
+  {
+    "name": "libnewt",
+    "version": "0.52.21",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "liboop",
+    "version": "1.0.1",
+    "license": ""
+  },
+  {
+    "name": "python3-idna-ssl",
+    "version": "1.1.0",
+    "license": "MIT"
+  },
+  {
+    "name": "liblzo",
+    "version": "2.10",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "cxxtools",
+    "version": "2.2.1",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "dhex",
+    "version": "0.65",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "connman",
+    "version": "1.35",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "python3-protobuf",
+    "version": "5.26.1",
+    "license": "BSD-3-Clause AND custom-exception"
+  },
+  {
+    "name": "xorg-font-arabic-misc",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "schedtool",
+    "version": "1.3.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libiio",
+    "version": "0.25",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "lz4",
+    "version": "1.9.4",
+    "license": "BSD-2-Clause AND GPL-2.0-or-later"
+  },
+  {
+    "name": "etherwake",
+    "version": "1.09",
+    "license": "GPL"
+  },
+  {
+    "name": "fuse3",
+    "version": "3.16.2",
+    "license": "GPL-2.0-only AND LGPL-2.1-only"
+  },
+  {
+    "name": "tmux",
+    "version": "3.4",
+    "license": "ISC"
+  },
+  {
+    "name": "libcgi",
+    "version": "1.0",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "xorg-font-dec-misc",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "speex",
+    "version": "1.2.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "libpopt",
+    "version": "1.19",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-path-py",
+    "version": "8.1.2",
+    "license": "MIT"
+  },
+  {
+    "name": "lame",
+    "version": "3.99.5",
+    "license": "LGPL-2.0-only"
+  },
+  {
+    "name": "busybox",
+    "version": "1.37.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "protobuf",
+    "version": "3.7.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "libsysfs",
+    "version": "2.1.0",
+    "license": "GPL-2.0-only AND LGPL-2.0-only"
+  },
+  {
+    "name": "jansson",
+    "version": "2.13.1",
+    "license": "MIT"
+  },
+  {
+    "name": "libgsloop",
+    "version": "0.0.9",
+    "license": ""
+  },
+  {
+    "name": "gst-plugins-rs",
+    "version": "1.24.9",
+    "license": "LGPL-2.0-or-later AND ( Apache-2.0 OR MIT ) AND MPL-2.0 AND MIT AND unknown"
+  },
+  {
+    "name": "xorg-app-xsetroot",
+    "version": "1.1.2",
+    "license": ""
+  },
+  {
+    "name": "python3-websockets",
+    "version": "6.0",
+    "license": "BSD"
+  },
+  {
+    "name": "sparsehash",
+    "version": "1.11",
+    "license": ""
+  },
+  {
+    "name": "xorg-font-ttf-lohit-gujarati",
+    "version": "2.92.2",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "libbson",
+    "version": "1.23.4",
+    "license": "Apache-2.0 AND MIT"
+  },
+  {
+    "name": "electrum",
+    "version": "1.+",
+    "license": "proprietary"
+  },
+  {
+    "name": "python3-systemd",
+    "version": "235",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "python3-setuptools",
+    "version": "67.4.0",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-numpy",
+    "version": "1.26.0",
+    "license": "BSD-3-Clause AND MIT AND Zlib"
+  },
+  {
+    "name": "lm_sensors",
+    "version": "3.6.0",
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
+  },
+  {
+    "name": "inadyn",
+    "version": "1.96.2",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "libnetfilter_queue",
+    "version": "1.0.1",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "xorg-lib-xfixes",
+    "version": "5.0.3",
+    "license": "MIT"
+  },
+  {
+    "name": "killproc",
+    "version": "2.13",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "rtmpdump",
+    "version": "2021-02-19-gf1b83c10d8be",
+    "license": "LGPL-2.1-or-later AND GPL-2.0-or-later"
+  },
+  {
+    "name": "daemonize",
+    "version": "1.4",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "cog",
+    "version": "0.18.3",
+    "license": "MIT"
+  },
+  {
+    "name": "rootfs",
+    "version": "1.0.0",
+    "license": "ignore"
+  },
+  {
+    "name": "ca-certificates",
+    "version": "NSS_3_106_RTM",
+    "license": "MPL-2.0"
+  },
+  {
+    "name": "giflib",
+    "version": "5.1.4",
+    "license": "MIT"
+  },
+  {
+    "name": "xorg-app-xset",
+    "version": "1.2.4",
+    "license": ""
+  },
+  {
+    "name": "sp-oops-extract",
+    "version": "0.0.7",
+    "license": "unknown"
+  },
+  {
+    "name": "openfortivpn",
+    "version": "1.14.1",
+    "license": "GPL-3.0-or-later WITH unknown-exception AND OpenSSL"
+  },
+  {
+    "name": "libcgroup",
+    "version": "0.38",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "xorg-lib-sm",
+    "version": "1.2.3",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-tornado",
+    "version": "6.4",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "owfs",
+    "version": "3.2p3",
+    "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
+  },
+  {
+    "name": "vulkan-tools",
+    "version": "1.3.296.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "xorg-app-xprop",
+    "version": "1.2.4",
+    "license": ""
+  },
+  {
+    "name": "python3-pybind11",
+    "version": "2.11.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "linuxptp",
+    "version": "3.1.1",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "jsoncpp",
+    "version": "1.9.2",
+    "license": "MIT"
+  },
+  {
+    "name": "libp11",
+    "version": "0.4.12",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "python3-threadpoolctl",
+    "version": "3.2.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "initramfs-tools",
+    "version": "0.130",
+    "license": ""
+  },
+  {
+    "name": "xorg-font-ttf-lohit-assamese",
+    "version": "2.91.3",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "python3-charset-normalizer",
+    "version": "2.0.12",
+    "license": "MIT"
+  },
+  {
+    "name": "logrotate",
+    "version": "3.17.0",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "python3-pysmi",
+    "version": "0.3.4",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "libslirp",
+    "version": "4.8.0",
+    "license": "BSD-3-Clause AND MIT"
+  },
+  {
+    "name": "easy-rsa",
+    "version": "2.2.2",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "minicom",
+    "version": "2.9",
+    "license": "LGPL-2.0-or-later AND xinetd AND GPL-2.0-or-later"
+  },
+  {
+    "name": "libpipeline",
+    "version": "1.2.2",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "python3-sortedcontainers",
+    "version": "2.4.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "polkit",
+    "version": "124",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "python3-opcua",
+    "version": "0.98.7",
+    "license": "LGPL-3.0-only"
+  },
+  {
+    "name": "python3-aiohttp-json-rpc",
+    "version": "0.11.2",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "xorg-font-adobe-utopia-75dpi",
+    "version": "1.0.4",
+    "license": ""
+  },
+  {
+    "name": "dbench",
+    "version": "3.04",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "libva",
+    "version": "2.22.0",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-uvloop",
+    "version": "v0.17.0",
+    "license": "Apache-2.0 OR MIT"
+  },
+  {
+    "name": "xorg-font-misc-cyrillic",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "gst-rtsp-server1",
+    "version": "1.24.9",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "libba",
+    "version": "2.+",
+    "license": "proprietary"
+  },
+  {
+    "name": "nlohmann-json",
+    "version": "3.11.3",
+    "license": "MIT"
+  },
+  {
+    "name": "luaexpat",
+    "version": "1.3.0 $(basename $(LUA_VERSION))",
+    "license": "MIT"
+  },
+  {
+    "name": "sdl-gfx",
+    "version": "2.0.20",
+    "license": ""
+  },
+  {
+    "name": "linux-firmware",
+    "version": "20241110",
+    "license": "proprietary"
+  },
+  {
+    "name": "gt",
+    "version": "2021-09-30-g7247547a",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "pnputils",
+    "version": "0.1",
+    "license": ""
+  },
+  {
+    "name": "glibc",
+    "version": "$(call ptx/config-version, PTXCONF_GLIBC)",
+    "license": ""
+  },
+  {
+    "name": "librn",
+    "version": "0.5.3",
+    "license": ""
+  },
+  {
+    "name": "python3-frozenlist",
+    "version": "1.3.3",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "libmemcached",
+    "version": "0.44",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "python3-importlib-metadata",
+    "version": "8.4.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "twolame",
+    "version": "0.3.13",
+    "license": "unknown"
+  },
+  {
+    "name": "sysklogd",
+    "version": "2.6.2",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "libmikmod",
+    "version": "3.1.12",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "python3-text-unidecode",
+    "version": "1.3",
+    "license": "ClArtistic"
+  },
+  {
+    "name": "libsigcpp",
+    "version": "3.6.0",
+    "license": ""
+  },
+  {
+    "name": "fuse",
+    "version": "2.9.9",
+    "license": "GPL-2.0-only AND LGPL-2.1-only"
+  },
+  {
+    "name": "pop3spam",
+    "version": "0.9",
+    "license": ""
+  },
+  {
+    "name": "timescaledb",
+    "version": "2.3.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "python3-traitlets",
+    "version": "4.1.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "mtd-oopslog",
+    "version": "2007",
+    "license": ""
+  },
+  {
+    "name": "sbc",
+    "version": "1.3",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "intel-media-driver",
+    "version": "24.2.5",
+    "license": "MIT AND BSD-3-Clause"
+  },
+  {
+    "name": "utelnetd",
+    "version": "0.1.11",
+    "license": ""
+  },
+  {
+    "name": "udisks",
+    "version": "2.10.1",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "sockperf",
+    "version": "3.10",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "opensc",
+    "version": "0.23.0",
+    "license": "LGPL-2.1-or-later AND Expat AND ISC"
+  },
+  {
+    "name": "gst-python1",
+    "version": "1.24.9",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "gpsd",
+    "version": "3.23.1",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "protobuf-c",
+    "version": "1.4.1",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "vulkan-loader",
+    "version": "1.3.296.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "strace",
+    "version": "6.12",
+    "license": "LGPL-2.1-or-later AND GPL-2.0-only WITH Linux-syscall-note"
+  },
+  {
+    "name": "minicoredumper",
+    "version": "2.0.1",
+    "license": "BSD AND LGPL-2.1"
+  },
+  {
+    "name": "sqlite",
+    "version": "3400000",
+    "license": "public_domain"
+  },
+  {
+    "name": "libevent",
+    "version": "2.1.12",
+    "license": "BSD-3-Clause AND 0BSD AND MIT"
+  },
+  {
+    "name": "xorg-font-ttf-lohit-kannada",
+    "version": "2.5.3",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "xorg-font-ttf-carlito",
+    "version": "2023-03-09-g3a810cab78eb",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "libpciaccess",
+    "version": "0.18.1",
+    "license": "MIT"
+  },
+  {
+    "name": "krb5",
+    "version": "1.20",
+    "license": "MIT"
+  },
+  {
+    "name": "joe",
+    "version": "3.5",
+    "license": "GPL-1.0-only"
+  },
+  {
+    "name": "pam",
+    "version": "1.5.2",
+    "license": "BSD-3-Clause OR (GPL-2.0-or-later AND LGPL-2.0-or-later)"
+  },
+  {
+    "name": "libtiff",
+    "version": "4.3.0",
+    "license": "libtiff"
+  },
+  {
+    "name": "libosip2",
+    "version": "3.6.0",
+    "license": "LGPL"
+  },
+  {
+    "name": "cpuburn-arm",
+    "version": "2015.06.0",
+    "license": "MIT"
+  },
+  {
+    "name": "xorg-font-bitstream-100dpi",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "sdl-ttf",
+    "version": "2.0.11",
+    "license": "zlib"
+  },
+  {
+    "name": "xorg-lib-xext",
+    "version": "1.3.4",
+    "license": "MIT"
+  },
+  {
+    "name": "pciutils",
+    "version": "3.13.0",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "openct",
+    "version": "0.6.20",
+    "license": "LGPLv2"
+  },
+  {
+    "name": "uhubctl",
+    "version": "2.5.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "opencv",
+    "version": "4.4.0",
+    "license": "BSD"
+  },
+  {
+    "name": "xorg-font-arphic-ukai",
+    "version": "0.2.20080216.1",
+    "license": "ARPHIC"
+  },
+  {
+    "name": "dfu-util",
+    "version": "0.11",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "haserl",
+    "version": "0.9.26",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "xorg-font-cursor-misc",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "lmbench",
+    "version": "3.0-a9",
+    "license": "GPL-2.0-only with exceptions"
+  },
+  {
+    "name": "libva-intel-driver",
+    "version": "2.4.1",
+    "license": "MIT"
+  },
+  {
+    "name": "urshd",
+    "version": "1.1.1",
+    "license": "BSD-4-Clause"
+  },
+  {
+    "name": "nvtop",
+    "version": "3.1.0",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "xorg-font-adobe-utopia-100dpi",
+    "version": "1.0.4",
+    "license": ""
+  },
+  {
+    "name": "kexec-tools",
+    "version": "2.0.28",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "xorg-lib-x11",
+    "version": "1.6.9",
+    "license": "MIT"
+  },
+  {
+    "name": "ps3-utils",
+    "version": "2.3",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "xorg-font-cronyx-cyrillic",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "python3-py",
+    "version": "1.9.0",
+    "license": "MIT"
+  },
+  {
+    "name": "alsa-lib",
+    "version": "1.2.13",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "xorg-app-xinit",
+    "version": "1.4.1",
+    "license": ""
+  },
+  {
+    "name": "mmpong",
+    "version": "0.9",
+    "license": ""
+  },
+  {
+    "name": "comgt",
+    "version": "0.32",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "mii-diag",
+    "version": "2.11",
+    "license": "GPL"
+  },
+  {
+    "name": "evtest",
+    "version": "1.35",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "glibmm",
+    "version": "2.78.1",
+    "license": "LGPL-2.1-only AND GPL-2.0-only"
+  },
+  {
+    "name": "barebox",
+    "version": "$(call ptx/config-version, PTXCONF_BAREBOX)",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libgcrypt",
+    "version": "1.11.0",
+    "license": "GPL-2.0-only AND LGPL-2.0-only"
+  },
+  {
+    "name": "python3-joblib",
+    "version": "1.3.2",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "python3-configshell",
+    "version": "1.1.28",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "libklaus",
+    "version": "6.+",
+    "license": "proprietary"
+  },
+  {
+    "name": "xorg-lib-xmu",
+    "version": "1.1.3",
+    "license": "MIT"
+  },
+  {
+    "name": "squashfs-tools",
+    "version": "4.6.1",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "python3-pexpect",
+    "version": "4.8.0",
+    "license": "ISC"
+  },
+  {
+    "name": "xorg-lib-xau",
+    "version": "1.0.9",
+    "license": "MIT"
+  },
+  {
+    "name": "gst-libav1",
+    "version": "1.24.9",
+    "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
+  },
+  {
+    "name": "xorg-lib-xaw",
+    "version": "1.0.13",
+    "license": "MIT"
+  },
+  {
+    "name": "dosfstools",
+    "version": "4.2",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "jamvm",
+    "version": "1.5.4",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "python3-aiohttp-wsgi",
+    "version": "0.8.2",
+    "license": "BSD"
+  },
+  {
+    "name": "zsync",
+    "version": "0.6.2",
+    "license": "GPL"
+  },
+  {
+    "name": "avahi",
+    "version": "0.8",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "python3-pyasn1",
+    "version": "0.4.8",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "pslib",
+    "version": "0.4.5",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "net-dns-perl",
+    "version": "0.74",
+    "license": "unknown"
+  },
+  {
+    "name": "lcms",
+    "version": "2.16",
+    "license": "MIT"
+  },
+  {
+    "name": "libarchive",
+    "version": "3.7.4",
+    "license": "BSD-2-Clause AND BSD-3-Clause AND public_domain AND "
+  },
+  {
+    "name": "nbd",
+    "version": "3.25",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "nspr",
+    "version": "4.35",
+    "license": "MPL-2.0"
+  },
+  {
+    "name": "beep",
+    "version": "1.4.12",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "xorg-app-xrdb",
+    "version": "1.2.0",
+    "license": ""
+  },
+  {
+    "name": "nodejs",
+    "version": "v20.11.0",
+    "license": "MIT AND ISC AND BSD-3-Clause AND BSD-2-Clause AND Apache-2.0"
+  },
+  {
+    "name": "duktape",
+    "version": "2.7.0",
+    "license": "MIT"
+  },
+  {
+    "name": "rsync",
+    "version": "2.6.9",
+    "license": ""
+  },
+  {
+    "name": "imx-uuc",
+    "version": "2019-11-07-gd6afb27e55d73d7ad08cd2dd51c784d8ec9694dc",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "tntnet",
+    "version": "2.2.1",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "xorg-lib-xkbfile",
+    "version": "1.1.0",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-dateutil",
+    "version": "2.8.2",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "mtd-utils",
+    "version": "2.2.1",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "ntpclient",
+    "version": "2024_132",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "libbytesize",
+    "version": "2.10",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "python3-multidict",
+    "version": "4.7.6",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "lvm2",
+    "version": "2.03.22",
+    "license": "GPL-2.0-only, LGPL-2.1-only"
+  },
+  {
+    "name": "which",
+    "version": "2.21",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "python3-wcwidth",
+    "version": "0.2.5",
+    "license": "MIT"
+  },
+  {
+    "name": "cpputest",
+    "version": "3.8",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "python3-django",
+    "version": "2.2.16",
+    "license": "BSD"
+  },
+  {
+    "name": "opkg",
+    "version": "0.7.0",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "vorbis-tools",
+    "version": "1.4.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "nano",
+    "version": "8.0",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "python3-pysnmp",
+    "version": "4.4.12",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "libxcb",
+    "version": "1.16",
+    "license": "MIT"
+  },
+  {
+    "name": "coreutils",
+    "version": "9.5",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "sdl_image",
+    "version": "1.2.12",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "xcb-util-wm",
+    "version": "0.4.1",
+    "license": "X11"
+  },
+  {
+    "name": "optee",
+    "version": "4.0.0",
+    "license": "BSD-2-Clause AND BSD-3-Clause"
+  },
+  {
+    "name": "bdwgc",
+    "version": "8.2.4",
+    "license": "Boehm-GC"
+  },
+  {
+    "name": "python3-decorator",
+    "version": "4.0.6",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "openblas",
+    "version": "0.3.24",
+    "license": "BSD-2-Clause AND BSD-3-Clause"
+  },
+  {
+    "name": "libwacom",
+    "version": "2.9.0",
+    "license": "HPND"
+  },
+  {
+    "name": "xorg-font-sun-misc",
+    "version": "1.0.3",
+    "license": ""
+  },
+  {
+    "name": "python3-posix_ipc",
+    "version": "1.1.1",
+    "license": "BSD"
+  },
+  {
+    "name": "libcoap",
+    "version": "4.1.1",
+    "license": "BSD AND GPL-2.0-only"
+  },
+  {
+    "name": "gcclibs",
+    "version": "$(or $(call ptx/force-sh, $(CROSS_CC) -dumpversion),unknown)",
+    "license": ""
+  },
+  {
+    "name": "flashbench",
+    "version": "20120222",
+    "license": "GPL v2"
+  },
+  {
+    "name": "rapidjson",
+    "version": "1.1.0",
+    "license": "MIT"
+  },
+  {
+    "name": "libyaml",
+    "version": "0.2.5",
+    "license": "MIT"
+  },
+  {
+    "name": "dialog",
+    "version": "1.3-20171209",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "xxhash",
+    "version": "0.8.2",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "libmodbus3",
+    "version": "3.1.6",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "jvisu",
+    "version": "1.0.1",
+    "license": ""
+  },
+  {
+    "name": "python3-idna",
+    "version": "2.10",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "exfatprogs",
+    "version": "1.2.2",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "netsniff-ng",
+    "version": "0.6.8",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "xorg-lib-xvmc",
+    "version": "1.0.11",
+    "license": ""
+  },
+  {
+    "name": "python3-gbulb",
+    "version": "0.6.4",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "shadow",
+    "version": "4.8.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "python3-pycparser",
+    "version": "2.21",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "findutils",
+    "version": "4.6.0",
+    "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "xerces",
+    "version": "2_7_0",
+    "license": ""
+  },
+  {
+    "name": "nodejs_packages",
+    "version": "0.0.1",
+    "license": "$(call remove_quotes, $(PTXCONF_NODEJS_PACKAGES_LICENSE))"
+  },
+  {
+    "name": "lshw",
+    "version": "B.02.19.2",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "wayvnc",
+    "version": "0.8.0",
+    "license": "ISC"
+  },
+  {
+    "name": "python3-sqlparse",
+    "version": "0.5.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "libestr",
+    "version": "0.1.10",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "fontconfig",
+    "version": "2.14.2",
+    "license": "HPND-sell-variant AND MIT AND custom AND MIT-Modern-Variant AND Unicode-TOU and public_domain"
+  },
+  {
+    "name": "iproute2",
+    "version": "6.12.0",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "gst-bayer2rgb-neon",
+    "version": "0.3",
+    "license": "GPL-3.0-only"
+  },
+  {
+    "name": "xcb-util",
+    "version": "0.4.0",
+    "license": "X11"
+  },
+  {
+    "name": "libcli",
+    "version": "1.10.5",
+    "license": "LGPL-2.1-only"
+  },
+  {
+    "name": "pps-tools",
+    "version": "1.0.3",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "libmemcache",
+    "version": "1.4.0.rc2",
+    "license": ""
+  }
+]
