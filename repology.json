@@ -317,7 +317,7 @@
   {
     "name": "open62541",
     "version": "1.3.4",
-    "license": "AND BSD-3-Clause $(HOST_OPEN62541_LICENSE) AND $(OPEN62541_MDNS_LICENSE)"
+    "license": "MPL-2.0 AND BSD-3-Clause"
   },
   {
     "name": "libmad",
