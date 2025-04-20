@@ -50,11 +50,6 @@
     "license": "MIT"
   },
   {
-    "name": "xorg-fonts",
-    "version": "1.0.0",
-    "license": "ignore"
-  },
-  {
     "name": "python3-ipython",
     "version": "4.1.1",
     "license": "BSD-3-Clause"
@@ -445,11 +440,6 @@
     "license": "MIT"
   },
   {
-    "name": "systemd-hwdb",
-    "version": "1",
-    "license": "ignore"
-  },
-  {
     "name": "stunnel",
     "version": "5.65",
     "license": "stunnel (GPL2 or later with openssl exception)"
@@ -483,11 +473,6 @@
     "name": "libaio",
     "version": "0.3.113",
     "license": "LGPL-2.1-only"
-  },
-  {
-    "name": "base",
-    "version": "1",
-    "license": "ignore"
   },
   {
     "name": "xorg-lib-xrandr",
@@ -665,11 +650,6 @@
     "license": "ISC AND BSD-3-Clause AND BSD-2-Clause-NetBSD AND Zlib"
   },
   {
-    "name": "os-release",
-    "version": "1.0",
-    "license": "ignore"
-  },
-  {
     "name": "gawk",
     "version": "5.2.1",
     "license": "GPL-3.0-or-later"
@@ -773,11 +753,6 @@
     "name": "python3-msgpack",
     "version": "0.4.8",
     "license": "Apache-2.0"
-  },
-  {
-    "name": "cryptodev-api",
-    "version": "$(CRYPTODEV_VERSION)",
-    "license": "$(CRYPTODEV_LICENSE)"
   },
   {
     "name": "libtar",
@@ -995,11 +970,6 @@
     "license": "GPL-2.0-or-later"
   },
   {
-    "name": "blspec-entry",
-    "version": "$(KERNEL_VERSION)",
-    "license": "ignore"
-  },
-  {
     "name": "numactl",
     "version": "2.0.14",
     "license": "LGPL-2.1 AND GPL-2.0"
@@ -1068,11 +1038,6 @@
     "name": "vo-aacenc",
     "version": "0.1.3",
     "license": "Apache-2.0"
-  },
-  {
-    "name": "rc-once",
-    "version": "1.0.0",
-    "license": "ignore"
   },
   {
     "name": "libtirpc",
@@ -1390,11 +1355,6 @@
     "license": "BSD-2-Clause"
   },
   {
-    "name": "sdl2-test",
-    "version": "$(SDL2_VERSION)",
-    "license": "zlib"
-  },
-  {
     "name": "liburcu",
     "version": "0.9.3",
     "license": "LGPL-2.1-only"
@@ -1408,11 +1368,6 @@
     "name": "python3-attrs",
     "version": "20.2.0",
     "license": "MIT"
-  },
-  {
-    "name": "locales",
-    "version": "1.0",
-    "license": "ignore"
   },
   {
     "name": "e2fsprogs",
@@ -1890,11 +1845,6 @@
     "license": ""
   },
   {
-    "name": "initmethod-systemd",
-    "version": "1.0.0",
-    "license": "ignore"
-  },
-  {
     "name": "serdisplib",
     "version": "1.97.9",
     "license": "GPL"
@@ -2078,11 +2028,6 @@
     "name": "zbar",
     "version": "0.23.90",
     "license": "LGPL-2.0-or-later"
-  },
-  {
-    "name": "ptxdist-configs",
-    "version": "$(PTXDIST_VERSION_FULL)",
-    "license": ""
   },
   {
     "name": "liboping",
@@ -2340,11 +2285,6 @@
     "license": "ntp"
   },
   {
-    "name": "libx11-locale",
-    "version": "$(XORG_LIB_X11_VERSION)",
-    "license": "$(XORG_LIB_X11_LICENSE)"
-  },
-  {
     "name": "cryptsetup",
     "version": "2.7.4",
     "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
@@ -2425,11 +2365,6 @@
     "license": "MIT"
   },
   {
-    "name": "machine-id",
-    "version": "1",
-    "license": "ignore"
-  },
-  {
     "name": "xorg-lib-xrender",
     "version": "0.9.10",
     "license": "MIT"
@@ -2453,11 +2388,6 @@
     "name": "f2fs-tools",
     "version": "1.14.0",
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
-  },
-  {
-    "name": "kernel-fit",
-    "version": "$(KERNEL_VERSION)",
-    "license": ""
   },
   {
     "name": "xorg-font-bh-100dpi",
@@ -3155,11 +3085,6 @@
     "license": ""
   },
   {
-    "name": "initmethod-bbinit",
-    "version": "1.0.0",
-    "license": "ignore"
-  },
-  {
     "name": "fake-overlayfs",
     "version": "1.0",
     "license": ""
@@ -3393,11 +3318,6 @@
     "name": "readline",
     "version": "8.2",
     "license": "GPL-3.0-or-later"
-  },
-  {
-    "name": "usr-rootfs",
-    "version": "1.0",
-    "license": "ignore"
   },
   {
     "name": "nmap",
@@ -3853,11 +3773,6 @@
     "name": "cog",
     "version": "0.18.3",
     "license": "MIT"
-  },
-  {
-    "name": "rootfs",
-    "version": "1.0.0",
-    "license": "ignore"
   },
   {
     "name": "ca-certificates",
