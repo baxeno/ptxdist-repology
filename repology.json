@@ -311,12 +311,12 @@
   },
   {
     "name": "wpebackend-fdo",
-    "version": "1.14.2 1.0",
+    "version": "1.14.2",
     "license": "BSD-2-Clause"
   },
   {
     "name": "open62541",
-    "version": "1.3.4 3151afe5899dba5125dffa9f4cf3ae1fe2edc0f0",
+    "version": "1.3.4",
     "license": "AND BSD-3-Clause $(HOST_OPEN62541_LICENSE) AND $(OPEN62541_MDNS_LICENSE)"
   },
   {
@@ -696,7 +696,7 @@
   },
   {
     "name": "python3-semantic-version",
-    "version": "2.10.0 semantic_version-$(PYTHON3_SEMANTIC_VERSION_VERSION)",
+    "version": "2.10.0",
     "license": "BSD"
   },
   {
@@ -1266,7 +1266,7 @@
   },
   {
     "name": "crda",
-    "version": "4.15 2024.07.04",
+    "version": "4.15",
     "license": "ISC AND copyleft-next-0.3.0"
   },
   {
@@ -1651,7 +1651,7 @@
   },
   {
     "name": "perl",
-    "version": "5.18.2 5.18.2-cross-0.8.5",
+    "version": "5.18.2",
     "license": "GPL-1.0-only"
   },
   {
@@ -2061,7 +2061,7 @@
   },
   {
     "name": "apitrace",
-    "version": "11.1 2021-01-18-gdedbe13fda00 2020-01-14-g537f4ad6240e",
+    "version": "11.1",
     "license": "MIT AND BSD-3-Clause"
   },
   {
@@ -2205,7 +2205,7 @@
     "license": "PostgreSQL"
   },
   {
-    "name": "mongodb mongodb mongodb",
+    "name": "mongodb",
     "version": "7.2.2",
     "license": "SSPL-1.0"
   },
@@ -2275,8 +2275,8 @@
     "license": "MIT"
   },
   {
-    "name": "valgrind valgrind valgrind valgrind",
-    "version": "3.22.0 $(KERNEL_VERSION) $(KERNEL_HEADER_VERSION)",
+    "name": "valgrind",
+    "version": "3.22.0",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -2586,7 +2586,7 @@
   },
   {
     "name": "mesalib",
-    "version": "24.2.7 ",
+    "version": "24.2.7",
     "license": "MIT"
   },
   {
@@ -2865,7 +2865,7 @@
     "license": "LGPL-2.1-only"
   },
   {
-    "name": "latrace latrace",
+    "name": "latrace",
     "version": "0.5.11",
     "license": "GPL-3.0-only"
   },
@@ -2881,7 +2881,7 @@
   },
   {
     "name": "ppp",
-    "version": "2.4.9 $(if $(KERNEL_HEADER_VERSION),$(KERNEL_HEADER_VERSION),$(KERNEL_VERSION))",
+    "version": "2.4.9",
     "license": "BSD AND GPL-2.0-only"
   },
   {
@@ -3031,7 +3031,7 @@
   },
   {
     "name": "libwpe",
-    "version": "1.14.2 1.0",
+    "version": "1.14.2",
     "license": "BSD-2-Clause"
   },
   {
@@ -3961,7 +3961,7 @@
   },
   {
     "name": "luaexpat",
-    "version": "1.3.0 $(basename $(LUA_VERSION))",
+    "version": "1.3.0",
     "license": "MIT"
   },
   {
