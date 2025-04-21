@@ -55,6 +55,11 @@
     "license": "Apache-2.0"
   },
   {
+    "name": "assimp",
+    "version": "5.4.3",
+    "license": "Open Asset Import Library (assimp)"
+  },
+  {
     "name": "at",
     "version": "3.2.5",
     "license": "GPL-2.0-or-later AND GPL-3.0-or-later AND ISC"
@@ -111,8 +116,8 @@
   },
   {
     "name": "bc",
-    "version": "1.06",
-    "license": "GPL-2.0-or-later"
+    "version": "1.08.1",
+    "license": "GPL-3.0-or-later"
   },
   {
     "name": "bdwgc",
@@ -127,7 +132,7 @@
   {
     "name": "berlios-can-utils",
     "version": "v2021.06.0",
-    "license": "GPL-2.0"
+    "license": "GPL-2.0-only AND (GPL-2.0-only OR BSD-3-Clause)"
   },
   {
     "name": "bind",
@@ -492,7 +497,7 @@
   {
     "name": "ecryptfs-utils",
     "version": "111",
-    "license": "GPL-2.0-only"
+    "license": "GPL-2.0-or-later AND GPL-2.0-only"
   },
   {
     "name": "ed",
@@ -731,7 +736,7 @@
   },
   {
     "name": "glib",
-    "version": "2.82.4",
+    "version": "2.82.5",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -745,13 +750,18 @@
     "license": "LGPL-2.1-only AND GPL-2.0-only"
   },
   {
+    "name": "glm",
+    "version": "1.0.1",
+    "license": "MIT"
+  },
+  {
     "name": "glmark2",
     "version": "2023.01",
     "license": "GPL-3.0-only AND SGIv1"
   },
   {
     "name": "glslang",
-    "version": "1.4.304.0",
+    "version": "1.4.304.1",
     "license": "BSD-3-clause AND BSD-2-clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom"
   },
   {
@@ -761,7 +771,7 @@
   },
   {
     "name": "gnupg",
-    "version": "2.4.5",
+    "version": "2.5.3",
     "license": "GPL-2.0-or-later AND GPL-3.0-or-later AND LGPL-2.1-or-later AND LGPL-3.0-or-later AND MIT AND Spencer-86 AND BSD-2-Clause-Views AND Unicode-DFS-2016"
   },
   {
@@ -771,7 +781,7 @@
   },
   {
     "name": "gnutls",
-    "version": "3.7.7",
+    "version": "3.7.11",
     "license": "LGPL-3.0-or-later"
   },
   {
@@ -793,6 +803,11 @@
     "name": "gpsd",
     "version": "3.23.1",
     "license": "BSD-2-Clause"
+  },
+  {
+    "name": "gptfdisk",
+    "version": "1.0.10",
+    "license": "GPL-2.0-only"
   },
   {
     "name": "graphene",
@@ -821,57 +836,57 @@
   },
   {
     "name": "gst-devtools1",
-    "version": "1.24.11",
+    "version": "1.24.12",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-libav1",
-    "version": "1.24.11",
+    "version": "1.24.12",
     "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
   },
   {
     "name": "gst-plugins-bad1",
-    "version": "1.24.11",
+    "version": "1.24.12",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-plugins-base1",
-    "version": "1.24.11",
-    "license": "LGPL-2.0-or-later"
+    "version": "1.24.12",
+    "license": "LGPL-2.0-or-later AND BSD-3-Clause AND MIT"
   },
   {
     "name": "gst-plugins-good1",
-    "version": "1.24.11",
-    "license": "LGPL-2.1-or-later"
+    "version": "1.24.12",
+    "license": "LGPL-2.1-or-later AND BSD-3-Clause AND MIT"
   },
   {
     "name": "gst-plugins-rs",
-    "version": "1.24.11",
+    "version": "1.24.12",
     "license": "LGPL-2.0-or-later AND ( Apache-2.0 OR MIT ) AND MPL-2.0 AND MIT AND unknown"
   },
   {
     "name": "gst-plugins-ugly1",
-    "version": "1.24.11",
+    "version": "1.24.12",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-python1",
-    "version": "1.24.11",
+    "version": "1.24.12",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-rtsp-server1",
-    "version": "1.24.11",
+    "version": "1.24.12",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer-vaapi1",
-    "version": "1.24.11",
+    "version": "1.24.12",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer1",
-    "version": "1.24.11",
+    "version": "1.24.12",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -881,7 +896,7 @@
   },
   {
     "name": "gtk",
-    "version": "3.24.35",
+    "version": "3.24.48",
     "license": "LGPL-2.0-or-later"
   },
   {
@@ -956,7 +971,7 @@
   },
   {
     "name": "hwdata",
-    "version": "0.391",
+    "version": "0.392",
     "license": "GPL-2.0-or-later OR XFree86-1.0"
   },
   {
@@ -1021,7 +1036,7 @@
   },
   {
     "name": "inotify-tools",
-    "version": "3.13",
+    "version": "4.23.9.0",
     "license": "GPL-2.0-only"
   },
   {
@@ -1131,7 +1146,7 @@
   },
   {
     "name": "kexec-tools",
-    "version": "2.0.28",
+    "version": "2.0.30",
     "license": "GPL-2.0-only"
   },
   {
@@ -1256,7 +1271,7 @@
   },
   {
     "name": "libcamera",
-    "version": "0.2.0",
+    "version": "0.4.0",
     "license": "Apache-2.0 AND "
   },
   {
@@ -1271,7 +1286,7 @@
   },
   {
     "name": "libcdio",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -1316,7 +1331,7 @@
   },
   {
     "name": "libcurl",
-    "version": "8.11.1",
+    "version": "8.12.1",
     "license": "curl"
   },
   {
@@ -1411,7 +1426,7 @@
   },
   {
     "name": "libffi",
-    "version": "3.4.6",
+    "version": "3.4.7",
     "license": "MIT"
   },
   {
@@ -1446,7 +1461,7 @@
   },
   {
     "name": "libgpg-error",
-    "version": "1.50",
+    "version": "1.51",
     "license": "GPL-2.0-only AND LGPL-2.0-only"
   },
   {
@@ -1516,7 +1531,7 @@
   },
   {
     "name": "libkmod",
-    "version": "33",
+    "version": "34",
     "license": "GPL-2.0-only AND LGPL-2.0-only"
   },
   {
@@ -1731,8 +1746,8 @@
   },
   {
     "name": "libpng",
-    "version": "1.6.45",
-    "license": "Zlib"
+    "version": "1.6.47",
+    "license": "libpng-2.0"
   },
   {
     "name": "libpopt",
@@ -1776,7 +1791,7 @@
   },
   {
     "name": "libseccomp",
-    "version": "2.5.5",
+    "version": "2.6.0",
     "license": "LGPL-2.1-only"
   },
   {
@@ -1801,7 +1816,7 @@
   },
   {
     "name": "libslirp",
-    "version": "4.8.0",
+    "version": "4.9.0",
     "license": "BSD-3-Clause AND MIT"
   },
   {
@@ -1831,7 +1846,7 @@
   },
   {
     "name": "libssh2",
-    "version": "1.9.0",
+    "version": "1.11.1",
     "license": ""
   },
   {
@@ -1917,7 +1932,7 @@
   {
     "name": "libusb-compat",
     "version": "0.1.3",
-    "license": "LGPL-2.1-only"
+    "license": "LGPL-2.1-or-later"
   },
   {
     "name": "libusbgx",
@@ -1927,7 +1942,7 @@
   {
     "name": "libuv",
     "version": "1.47.0",
-    "license": "MIT"
+    "license": "MIT AND ISC"
   },
   {
     "name": "libva",
@@ -1986,12 +2001,12 @@
   },
   {
     "name": "libxkbcommon",
-    "version": "1.7.0",
+    "version": "1.8.0",
     "license": "MIT AND X11 AND HPND"
   },
   {
     "name": "libxml2",
-    "version": "2.13.4",
+    "version": "2.13.6",
     "license": "MIT AND ISC"
   },
   {
@@ -2031,7 +2046,7 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20250109",
+    "version": "20250211",
     "license": "proprietary"
   },
   {
@@ -2221,7 +2236,7 @@
   },
   {
     "name": "minicom",
-    "version": "2.9",
+    "version": "2.10",
     "license": "LGPL-2.0-or-later AND xinetd AND GPL-2.0-or-later"
   },
   {
@@ -2306,7 +2321,7 @@
   },
   {
     "name": "mtd-utils",
-    "version": "2.2.1",
+    "version": "2.3.0",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -2351,7 +2366,7 @@
   },
   {
     "name": "neatvnc",
-    "version": "0.8.1",
+    "version": "0.9.3",
     "license": "ISC"
   },
   {
@@ -2376,7 +2391,7 @@
   },
   {
     "name": "netcat",
-    "version": "1.105",
+    "version": "1.228",
     "license": "BSD"
   },
   {
@@ -2546,7 +2561,7 @@
   },
   {
     "name": "openldap",
-    "version": "2.6.3",
+    "version": "2.6.9",
     "license": "OLDAP-2.8"
   },
   {
@@ -2566,12 +2581,12 @@
   },
   {
     "name": "openssh",
-    "version": "9.9p1",
+    "version": "9.9p2",
     "license": "BSD AND BSD-2-Clause AND BSD-3-Clause AND MIT AND Beerware AND ISC"
   },
   {
     "name": "openssl",
-    "version": "3.4.0",
+    "version": "3.4.1",
     "license": "Apache-2.0"
   },
   {
@@ -2616,7 +2631,7 @@
   },
   {
     "name": "orc",
-    "version": "0.4.40",
+    "version": "0.4.41",
     "license": "BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -2671,7 +2686,7 @@
   },
   {
     "name": "pcre2",
-    "version": "10.44",
+    "version": "10.45",
     "license": "BSD-3-Clause"
   },
   {
@@ -2766,7 +2781,7 @@
   },
   {
     "name": "ppp",
-    "version": "2.4.9",
+    "version": "2.5.2",
     "license": "BSD AND GPL-2.0-only"
   },
   {
@@ -2826,8 +2841,8 @@
   },
   {
     "name": "pv",
-    "version": "1.4.12",
-    "license": ""
+    "version": "1.9.31",
+    "license": "GPL-3.0-or-later"
   },
   {
     "name": "pyserial3",
@@ -2836,7 +2851,7 @@
   },
   {
     "name": "python3",
-    "version": "3.11.10",
+    "version": "3.13.2",
     "license": ""
   },
   {
@@ -2851,7 +2866,7 @@
   },
   {
     "name": "python3-aiohttp",
-    "version": "3.8.4",
+    "version": "3.11.12",
     "license": "Apache-2.0"
   },
   {
@@ -2896,7 +2911,7 @@
   },
   {
     "name": "python3-cffi",
-    "version": "1.16.0",
+    "version": "1.17.1",
     "license": "MIT"
   },
   {
@@ -2935,13 +2950,18 @@
     "license": "BSD"
   },
   {
+    "name": "python3-dulwich",
+    "version": "0.22.7",
+    "license": "(Apache-2.0 OR GPL-2.0-or-later) AND unknown"
+  },
+  {
     "name": "python3-falcon",
-    "version": "3.1.3",
+    "version": "4.0.2",
     "license": "Apache-2.0"
   },
   {
     "name": "python3-frozenlist",
-    "version": "1.3.3",
+    "version": "1.5.0",
     "license": "Apache-2.0"
   },
   {
@@ -2951,8 +2971,13 @@
   },
   {
     "name": "python3-gi",
-    "version": "3.42.1",
+    "version": "3.50.0",
     "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "python3-greenlet",
+    "version": "3.1.1",
+    "license": "MIT AND PSF-2.0"
   },
   {
     "name": "python3-gunicorn",
@@ -3016,7 +3041,7 @@
   },
   {
     "name": "python3-lxml",
-    "version": "4.9.2",
+    "version": "5.3.0",
     "license": "BSD"
   },
   {
@@ -3036,12 +3061,12 @@
   },
   {
     "name": "python3-msgpack",
-    "version": "0.4.8",
+    "version": "1.1.0",
     "license": "Apache-2.0"
   },
   {
     "name": "python3-multidict",
-    "version": "4.7.6",
+    "version": "6.1.0",
     "license": "Apache-2.0"
   },
   {
@@ -3051,7 +3076,7 @@
   },
   {
     "name": "python3-numpy",
-    "version": "1.26.0",
+    "version": "1.26.4",
     "license": "BSD-3-Clause AND MIT AND Zlib"
   },
   {
@@ -3091,7 +3116,7 @@
   },
   {
     "name": "python3-pip",
-    "version": "21.0.1",
+    "version": "25.0.1",
     "license": "MIT"
   },
   {
@@ -3116,7 +3141,7 @@
   },
   {
     "name": "python3-psutil",
-    "version": "6.1.1",
+    "version": "7.0.0",
     "license": "BSD-3-Clause"
   },
   {
@@ -3131,7 +3156,7 @@
   },
   {
     "name": "python3-pyalsaaudio",
-    "version": "0.8.4",
+    "version": "0.11.0",
     "license": "PSF"
   },
   {
@@ -3141,7 +3166,7 @@
   },
   {
     "name": "python3-pybind11",
-    "version": "2.11.1",
+    "version": "2.13.6",
     "license": "BSD-3-Clause"
   },
   {
@@ -3162,6 +3187,16 @@
   {
     "name": "python3-pyparsing",
     "version": "2.4.7",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-pyperf",
+    "version": "2.8.1",
+    "license": "MIT"
+  },
+  {
+    "name": "python3-pyperformance",
+    "version": "1.11.0",
     "license": "MIT"
   },
   {
@@ -3196,7 +3231,7 @@
   },
   {
     "name": "python3-pyyaml",
-    "version": "6.0",
+    "version": "6.0.2",
     "license": "MIT"
   },
   {
@@ -3206,8 +3241,8 @@
   },
   {
     "name": "python3-scipy",
-    "version": "1.11.3",
-    "license": "BSD-3-Clause AND MIT AND BSD-3-Clause-LBNL AND BSL-1.0"
+    "version": "1.15.1",
+    "license": "BSD-2-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause-LBNL AND BSL-1.0 AND Apache-2.0 WITH LLVM-exception"
   },
   {
     "name": "python3-semantic-version",
@@ -3266,7 +3301,7 @@
   },
   {
     "name": "python3-tornado",
-    "version": "6.4",
+    "version": "6.4.2",
     "license": "Apache-2.0"
   },
   {
@@ -3286,7 +3321,7 @@
   },
   {
     "name": "python3-uvloop",
-    "version": "v0.17.0",
+    "version": "v0.21.0",
     "license": "Apache-2.0 OR MIT"
   },
   {
@@ -3306,7 +3341,7 @@
   },
   {
     "name": "python3-yarl",
-    "version": "1.8.2",
+    "version": "1.18.3",
     "license": "Apache-2.0"
   },
   {
@@ -3331,7 +3366,7 @@
   },
   {
     "name": "qemu",
-    "version": "9.2.0",
+    "version": "9.2.2",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND MIT AND BSD-1-Clause AND BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -3346,7 +3381,7 @@
   },
   {
     "name": "qt5",
-    "version": "5.15.15",
+    "version": "5.15.16",
     "license": "(LGPL-3.0-only OR GPL-2.0-only) AND GFDL-1.3-only"
   },
   {
@@ -3401,7 +3436,7 @@
   },
   {
     "name": "rng-tools",
-    "version": "6.14",
+    "version": "6.17",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -3491,12 +3526,12 @@
   },
   {
     "name": "sdl2",
-    "version": "2.30.11",
+    "version": "2.32.0",
     "license": "zlib"
   },
   {
     "name": "sdl2-image",
-    "version": "2.8.4",
+    "version": "2.8.5",
     "license": "zlib"
   },
   {
@@ -3641,17 +3676,17 @@
   },
   {
     "name": "spirv-headers",
-    "version": "1.4.304.0",
+    "version": "1.4.304.1",
     "license": "custom AND MIT"
   },
   {
     "name": "spirv-tools",
-    "version": "1.4.304.0",
+    "version": "1.4.304.1",
     "license": "Apache-2.0"
   },
   {
     "name": "sqlite",
-    "version": "3400000",
+    "version": "3.48.0",
     "license": "public_domain"
   },
   {
@@ -3686,7 +3721,7 @@
   },
   {
     "name": "strace",
-    "version": "6.12",
+    "version": "6.13",
     "license": "LGPL-2.1-or-later AND GPL-2.0-only WITH Linux-syscall-note"
   },
   {
@@ -3751,7 +3786,7 @@
   },
   {
     "name": "systemd",
-    "version": "256.8",
+    "version": "257.3",
     "license": "GPL-2.0-or-later AND LGPL-2.1-only"
   },
   {
@@ -3886,7 +3921,7 @@
   },
   {
     "name": "unzip",
-    "version": "6.00",
+    "version": "6.0",
     "license": "Info-ZIP"
   },
   {
@@ -3931,7 +3966,7 @@
   },
   {
     "name": "uvc-gadget",
-    "version": "2019-05-02-g105134f9",
+    "version": "v0.3.0",
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later AND MIT"
   },
   {
@@ -3955,6 +3990,11 @@
     "license": "Vim"
   },
   {
+    "name": "vkmark",
+    "version": "2025.01",
+    "license": "LGPL-2.1-or-later"
+  },
+  {
     "name": "vkrunner",
     "version": "2023-10-29-g93cbb7b1cca7",
     "license": "MIT AND Apache-2.0"
@@ -3966,7 +4006,7 @@
   },
   {
     "name": "volk",
-    "version": "1.4.304.0",
+    "version": "1.4.304.1",
     "license": "MIT"
   },
   {
@@ -3976,27 +4016,27 @@
   },
   {
     "name": "vulkan-headers",
-    "version": "1.4.304.0",
+    "version": "1.4.304.1",
     "license": "Apache-2.0 AND MIT"
   },
   {
     "name": "vulkan-loader",
-    "version": "1.4.304.0",
+    "version": "1.4.304.1",
     "license": "Apache-2.0"
   },
   {
     "name": "vulkan-tools",
-    "version": "1.4.304.0",
+    "version": "1.4.304.1",
     "license": "Apache-2.0"
   },
   {
     "name": "vulkan-utility-libraries",
-    "version": "1.4.304.0",
+    "version": "1.4.304.1",
     "license": "Apache-2.0 AND MIT"
   },
   {
     "name": "vulkan-validationlayers",
-    "version": "1.4.304.0",
+    "version": "1.4.304.1",
     "license": "Apache-2.0 AND MIT"
   },
   {
@@ -4021,7 +4061,7 @@
   },
   {
     "name": "wayland-protocols",
-    "version": "1.39",
+    "version": "1.41",
     "license": "MIT"
   },
   {
@@ -4031,7 +4071,7 @@
   },
   {
     "name": "wayvnc",
-    "version": "0.8.0",
+    "version": "0.9.1",
     "license": "ISC"
   },
   {
@@ -4746,7 +4786,7 @@
   },
   {
     "name": "zstd",
-    "version": "1.5.6",
+    "version": "1.5.7",
     "license": "BSD-3-clause OR GPL-2.0-only"
   },
   {
