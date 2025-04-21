@@ -731,7 +731,7 @@
   },
   {
     "name": "glib",
-    "version": "2.82.2",
+    "version": "2.82.3",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -821,57 +821,57 @@
   },
   {
     "name": "gst-devtools1",
-    "version": "1.24.9",
+    "version": "1.24.10",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-libav1",
-    "version": "1.24.9",
+    "version": "1.24.10",
     "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
   },
   {
     "name": "gst-plugins-bad1",
-    "version": "1.24.9",
+    "version": "1.24.10",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-plugins-base1",
-    "version": "1.24.9",
+    "version": "1.24.10",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gst-plugins-good1",
-    "version": "1.24.9",
+    "version": "1.24.10",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-plugins-rs",
-    "version": "1.24.9",
+    "version": "1.24.10",
     "license": "LGPL-2.0-or-later AND ( Apache-2.0 OR MIT ) AND MPL-2.0 AND MIT AND unknown"
   },
   {
     "name": "gst-plugins-ugly1",
-    "version": "1.24.9",
+    "version": "1.24.10",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-python1",
-    "version": "1.24.9",
+    "version": "1.24.10",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-rtsp-server1",
-    "version": "1.24.9",
+    "version": "1.24.10",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer-vaapi1",
-    "version": "1.24.9",
+    "version": "1.24.10",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer1",
-    "version": "1.24.9",
+    "version": "1.24.10",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -956,7 +956,7 @@
   },
   {
     "name": "hwdata",
-    "version": "0.389",
+    "version": "0.390",
     "license": "GPL-2.0-or-later OR XFree86-1.0"
   },
   {
@@ -1026,12 +1026,12 @@
   },
   {
     "name": "intel-gmmlib",
-    "version": "22.4.1",
+    "version": "22.5.4",
     "license": "MIT AND BSD-3-Clause"
   },
   {
     "name": "intel-media-driver",
-    "version": "24.2.5",
+    "version": "24.3.2",
     "license": "MIT AND BSD-3-Clause"
   },
   {
@@ -1261,7 +1261,7 @@
   },
   {
     "name": "libcap",
-    "version": "2.72",
+    "version": "2.73",
     "license": "BSD-3-Clause OR GPL-2.0-only"
   },
   {
@@ -1316,7 +1316,7 @@
   },
   {
     "name": "libcurl",
-    "version": "8.11.0",
+    "version": "8.11.1",
     "license": "curl"
   },
   {
@@ -1326,7 +1326,7 @@
   },
   {
     "name": "libdisplay-info",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "license": "MIT"
   },
   {
@@ -1336,7 +1336,7 @@
   },
   {
     "name": "libdrm",
-    "version": "2.4.123",
+    "version": "2.4.124",
     "license": "MIT"
   },
   {
@@ -1651,7 +1651,7 @@
   },
   {
     "name": "libnftnl",
-    "version": "1.2.7",
+    "version": "1.2.8",
     "license": "GPL-2.0-only AND GPL-2.0-or-later"
   },
   {
@@ -1871,7 +1871,12 @@
   },
   {
     "name": "libtraceevent",
-    "version": "1.8.2",
+    "version": "1.8.4",
+    "license": "LGPL-2.1 + GPL-2.0"
+  },
+  {
+    "name": "libtracefs",
+    "version": "1.8.1",
     "license": "LGPL-2.1 + GPL-2.0"
   },
   {
@@ -2021,7 +2026,7 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20241110",
+    "version": "20241210",
     "license": "proprietary"
   },
   {
@@ -2196,7 +2201,7 @@
   },
   {
     "name": "mesalib",
-    "version": "24.2.7",
+    "version": "24.3.1",
     "license": "MIT"
   },
   {
@@ -2406,7 +2411,7 @@
   },
   {
     "name": "nftables",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "license": "GPL-2.0-only AND GPL-2.0-or-later"
   },
   {
@@ -2581,22 +2586,22 @@
   },
   {
     "name": "optee",
-    "version": "4.0.0",
+    "version": "4.4.0",
     "license": "BSD-2-Clause AND BSD-3-Clause"
   },
   {
     "name": "optee-client",
-    "version": "4.0.0",
+    "version": "4.4.0",
     "license": "BSD-2-Clause"
   },
   {
     "name": "optee-examples",
-    "version": "4.0.0",
+    "version": "4.4.0",
     "license": "BSD-2-Clause"
   },
   {
     "name": "optee-test",
-    "version": "4.0.0",
+    "version": "4.4.0",
     "license": "BSD-2-Clause and GPL-2.0"
   },
   {
@@ -2701,7 +2706,7 @@
   },
   {
     "name": "pixman",
-    "version": "0.44.0",
+    "version": "0.44.2",
     "license": "MIT"
   },
   {
@@ -3471,7 +3476,7 @@
   },
   {
     "name": "sdl2",
-    "version": "2.30.9",
+    "version": "2.30.10",
     "license": "zlib"
   },
   {
@@ -3811,7 +3816,7 @@
   },
   {
     "name": "trace-cmd",
-    "version": "2.9.7",
+    "version": "3.3.1",
     "license": "GPL-2.0-only"
   },
   {
@@ -4041,7 +4046,7 @@
   },
   {
     "name": "wireplumber",
-    "version": "0.4.14",
+    "version": "0.5.7",
     "license": "MIT"
   },
   {
