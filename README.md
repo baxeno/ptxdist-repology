@@ -7,7 +7,7 @@ Repology JSON for PTXdist
 Apply out-of-tree changes to ptxdist, see [branch `repology_support` in `baxeno/ptxdist`](https://github.com/baxeno/ptxdist/tree/repology_support).
 
 ```bash
-ptxdist repology | tail -n +7 | jq > repology.json
+ptxdist repology | tail -n +7 | jq 'sort_by(.name)' > repology.json
 ```
 
 **JSON output:**
