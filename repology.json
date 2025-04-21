@@ -226,7 +226,7 @@
   },
   {
     "name": "cairo",
-    "version": "1.18.2",
+    "version": "1.18.4",
     "license": "LGPL-2.1-only OR MPL-1.1"
   },
   {
@@ -396,7 +396,7 @@
   },
   {
     "name": "dbus",
-    "version": "1.16.0",
+    "version": "1.16.2",
     "license": "(AFL-2.1 OR GPL-2.0-or-later) AND MIT"
   },
   {
@@ -453,6 +453,11 @@
     "name": "dosfstools",
     "version": "4.2",
     "license": "GPL-3.0-or-later"
+  },
+  {
+    "name": "drm-info",
+    "version": "2.7.0",
+    "license": "MIT"
   },
   {
     "name": "dropbear",
@@ -561,7 +566,7 @@
   },
   {
     "name": "expat",
-    "version": "2.6.4",
+    "version": "2.7.1",
     "license": "MIT"
   },
   {
@@ -606,7 +611,7 @@
   },
   {
     "name": "ffmpeg",
-    "version": "7.1",
+    "version": "7.1.1",
     "license": "LGPL-2.1-or-later AND BSD-3-Clause"
   },
   {
@@ -736,7 +741,7 @@
   },
   {
     "name": "glib",
-    "version": "2.82.5",
+    "version": "2.84.0",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -761,7 +766,7 @@
   },
   {
     "name": "glslang",
-    "version": "1.4.304.1",
+    "version": "1.4.309.0",
     "license": "BSD-3-clause AND BSD-2-clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom"
   },
   {
@@ -836,57 +841,57 @@
   },
   {
     "name": "gst-devtools1",
-    "version": "1.24.12",
+    "version": "1.26.0",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-libav1",
-    "version": "1.24.12",
+    "version": "1.26.0",
     "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
   },
   {
     "name": "gst-plugins-bad1",
-    "version": "1.24.12",
+    "version": "1.26.0",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-plugins-base1",
-    "version": "1.24.12",
+    "version": "1.26.0",
     "license": "LGPL-2.0-or-later AND BSD-3-Clause AND MIT"
   },
   {
     "name": "gst-plugins-good1",
-    "version": "1.24.12",
+    "version": "1.26.0",
     "license": "LGPL-2.1-or-later AND BSD-3-Clause AND MIT"
   },
   {
     "name": "gst-plugins-rs",
-    "version": "1.24.12",
+    "version": "1.26.0",
     "license": "LGPL-2.0-or-later AND ( Apache-2.0 OR MIT ) AND MPL-2.0 AND MIT AND unknown"
   },
   {
     "name": "gst-plugins-ugly1",
-    "version": "1.24.12",
+    "version": "1.26.0",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-python1",
-    "version": "1.24.12",
+    "version": "1.26.0",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-rtsp-server1",
-    "version": "1.24.12",
+    "version": "1.26.0",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer-vaapi1",
-    "version": "1.24.12",
+    "version": "1.26.0",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer1",
-    "version": "1.24.12",
+    "version": "1.26.0",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -971,7 +976,7 @@
   },
   {
     "name": "hwdata",
-    "version": "0.392",
+    "version": "0.393",
     "license": "GPL-2.0-or-later OR XFree86-1.0"
   },
   {
@@ -1041,12 +1046,12 @@
   },
   {
     "name": "intel-gmmlib",
-    "version": "22.5.4",
+    "version": "22.7.0",
     "license": "MIT AND BSD-3-Clause"
   },
   {
     "name": "intel-media-driver",
-    "version": "24.3.2",
+    "version": "24.4.4",
     "license": "MIT AND BSD-3-Clause"
   },
   {
@@ -1276,7 +1281,7 @@
   },
   {
     "name": "libcap",
-    "version": "2.73",
+    "version": "2.75",
     "license": "BSD-3-Clause OR GPL-2.0-only"
   },
   {
@@ -1371,7 +1376,7 @@
   },
   {
     "name": "libedit",
-    "version": "20160903-3.1",
+    "version": "20250104-3.1",
     "license": "BSD-3-Clause"
   },
   {
@@ -1396,7 +1401,7 @@
   },
   {
     "name": "libevdev",
-    "version": "1.13.3",
+    "version": "1.13.4",
     "license": "MIT"
   },
   {
@@ -1531,7 +1536,7 @@
   },
   {
     "name": "libkmod",
-    "version": "34",
+    "version": "34.2",
     "license": "GPL-2.0-only AND LGPL-2.0-only"
   },
   {
@@ -1881,7 +1886,7 @@
   },
   {
     "name": "libtiff",
-    "version": "4.3.0",
+    "version": "4.7.0",
     "license": "libtiff"
   },
   {
@@ -1926,7 +1931,7 @@
   },
   {
     "name": "libusb",
-    "version": "1.0.27",
+    "version": "1.0.28",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -2001,8 +2006,8 @@
   },
   {
     "name": "libxkbcommon",
-    "version": "1.8.0",
-    "license": "MIT AND X11 AND HPND"
+    "version": "1.8.1",
+    "license": "MIT AND MIT-open-group AND X11 AND HPND AND HPND-sell-variant"
   },
   {
     "name": "libxml2",
@@ -2046,7 +2051,7 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20250211",
+    "version": "20250311",
     "license": "proprietary"
   },
   {
@@ -2066,7 +2071,7 @@
   },
   {
     "name": "llvm",
-    "version": "17.0.6",
+    "version": "19.1.7",
     "license": "Apache-2.0 WITH LLVM-exception AND NCSA"
   },
   {
@@ -2221,7 +2226,7 @@
   },
   {
     "name": "mesalib",
-    "version": "24.3.4",
+    "version": "25.0.1",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -2366,7 +2371,7 @@
   },
   {
     "name": "neatvnc",
-    "version": "0.9.3",
+    "version": "0.9.4",
     "license": "ISC"
   },
   {
@@ -2721,7 +2726,7 @@
   },
   {
     "name": "pipewire",
-    "version": "1.2.7",
+    "version": "1.4.0",
     "license": "MIT AND LGPL-2.1-or-later"
   },
   {
@@ -3411,7 +3416,7 @@
   },
   {
     "name": "rauc",
-    "version": "1.12",
+    "version": "1.13",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -3591,7 +3596,7 @@
   },
   {
     "name": "shaderc",
-    "version": "v2024.4",
+    "version": "v2025.1",
     "license": ""
   },
   {
@@ -3676,12 +3681,12 @@
   },
   {
     "name": "spirv-headers",
-    "version": "1.4.304.1",
+    "version": "1.4.309.0",
     "license": "custom AND MIT"
   },
   {
     "name": "spirv-tools",
-    "version": "1.4.304.1",
+    "version": "1.4.309.0",
     "license": "Apache-2.0"
   },
   {
@@ -3766,7 +3771,7 @@
   },
   {
     "name": "sysklogd",
-    "version": "2.7.0",
+    "version": "2.7.1",
     "license": "BSD-3-Clause"
   },
   {
@@ -4006,7 +4011,7 @@
   },
   {
     "name": "volk",
-    "version": "1.4.304.1",
+    "version": "1.4.309.0",
     "license": "MIT"
   },
   {
@@ -4016,27 +4021,27 @@
   },
   {
     "name": "vulkan-headers",
-    "version": "1.4.304.1",
+    "version": "1.4.309.0",
     "license": "Apache-2.0 AND MIT"
   },
   {
     "name": "vulkan-loader",
-    "version": "1.4.304.1",
+    "version": "1.4.309.0",
     "license": "Apache-2.0"
   },
   {
     "name": "vulkan-tools",
-    "version": "1.4.304.1",
+    "version": "1.4.309.0",
     "license": "Apache-2.0"
   },
   {
     "name": "vulkan-utility-libraries",
-    "version": "1.4.304.1",
+    "version": "1.4.309.0",
     "license": "Apache-2.0 AND MIT"
   },
   {
     "name": "vulkan-validationlayers",
-    "version": "1.4.304.1",
+    "version": "1.4.309.0",
     "license": "Apache-2.0 AND MIT"
   },
   {
@@ -4773,6 +4778,11 @@
     "name": "zbar",
     "version": "0.23.90",
     "license": "LGPL-2.0-or-later"
+  },
+  {
+    "name": "zint",
+    "version": "2.15.0",
+    "license": "BSD-3-Clause AND GPL-3.0-or-later"
   },
   {
     "name": "zip",
