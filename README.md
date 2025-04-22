@@ -4,10 +4,10 @@ Repology JSON for PTXdist
 
 **Usage:**
 
-Apply out-of-tree changes to ptxdist, see [branch `repology_support` in `baxeno/ptxdist`](https://github.com/baxeno/ptxdist/tree/repology_support).
+Apply out-of-tree changes to ptxdist, see [branch `repology_support_v2` in `baxeno/ptxdist`](https://github.com/baxeno/ptxdist/tree/repology_support_v2).
 
 ```bash
-ptxdist repology | tail -n +7 | jq 'sort_by(.name)' > repology.json
+ptxdist repology | grep -v "make: Nothing to be done for" > repology.json
 ```
 
 **JSON output:**
