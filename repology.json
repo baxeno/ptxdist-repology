@@ -636,12 +636,6 @@
     "license": "LGPL-2.0-only"
   },
   {
-    "name": "electrum",
-    "version": "1.+",
-    "upstream_urls": "https://gitlab.com/kamstrup/concentrator/components/omnia/electrum",
-    "license": "proprietary"
-  },
-  {
     "name": "ensmallen",
     "version": "2.20.0",
     "upstream_urls": "https://www.ensmallen.org/files/ensmallen-2.20.0.tar.gz",
@@ -820,12 +814,6 @@
     "version": "4.1b",
     "upstream_urls": "http://frodo.cebix.net/downloads/FrodoV4_1b.Src.tar.gz",
     "license": "custom"
-  },
-  {
-    "name": "frontend-efm32",
-    "version": "2.4.0",
-    "upstream_urls": "https://gitlab.com/kamstrup/technology-hw/rf-communication/embedded/products/omnia_rf/rf20_concentratorFrontendEFM32",
-    "license": "proprietary"
   },
   {
     "name": "fscryptctl",
@@ -1446,12 +1434,6 @@
     "license": "GPL-3.0-or-later OR BSD-2-Clause"
   },
   {
-    "name": "lgapp",
-    "version": "4.+",
-    "upstream_urls": "https://gitlab.com/kamstrup/concentrator/components/omnia/lgapp",
-    "license": "proprietary"
-  },
-  {
     "name": "libaio",
     "version": "0.3.113",
     "upstream_urls": "https://pagure.io/libaio/archive/libaio-0.3.113/libaio-libaio-0.3.113.tar.gz",
@@ -1492,12 +1474,6 @@
     "version": "7.8.0",
     "upstream_urls": "https://github.com/ivmai/libatomic_ops/releases/download/v7.8.0/libatomic_ops-7.8.0.tar.gz",
     "license": "MIT AND Boehm-GC AND GPL-2.0-or-later"
-  },
-  {
-    "name": "libba",
-    "version": "2.+",
-    "upstream_urls": "https://gitlab.com/kamstrup/concentrator/components/libba",
-    "license": "proprietary"
   },
   {
     "name": "libblockdev",
@@ -1834,12 +1810,6 @@
     "version": "1.5.0",
     "upstream_urls": "https://github.com/smuellerDD/libkcapi/archive/refs/tags/v1.5.0.tar.gz",
     "license": "GPLv2+"
-  },
-  {
-    "name": "libklaus",
-    "version": "6.+",
-    "upstream_urls": "https://gitlab.com/kamstrup/concentrator/components/omnia/libklaus",
-    "license": "proprietary"
   },
   {
     "name": "libkmod",
@@ -2592,12 +2562,6 @@
     "license": "unknown"
   },
   {
-    "name": "lxfp",
-    "version": "00.04",
-    "upstream_urls": "http://www.telit.com/",
-    "license": "proprietary"
-  },
-  {
     "name": "lz4",
     "version": "1.9.4",
     "upstream_urls": "https://github.com/Cyan4973/lz4/archive/v1.9.4.tar.gz",
@@ -2734,18 +2698,6 @@
     "version": "20220725",
     "upstream_urls": "https://download.gnome.org/sources/mobile-broadband-provider-info/20220725/mobile-broadband-provider-info-20220725.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/mobile-broadband-provider-info/20220725/mobile-broadband-provider-info-20220725.tar.xz",
     "license": "public_domain"
-  },
-  {
-    "name": "modem-telit-le910-eu-v2",
-    "version": "20.00.406",
-    "upstream_urls": "http://www.telit.com/",
-    "license": "proprietary"
-  },
-  {
-    "name": "modem-telit-le910s1-ea",
-    "version": "39.00.014-P0K.010000",
-    "upstream_urls": "http://www.telit.com/",
-    "license": "proprietary"
   },
   {
     "name": "modemmanager",
@@ -3006,12 +2958,6 @@
     "license": "GPL-2.0-only"
   },
   {
-    "name": "nucleus",
-    "version": "5.+",
-    "upstream_urls": "https://gitlab.com/kamstrup/concentrator/components/omnia/nucleus",
-    "license": "proprietary"
-  },
-  {
     "name": "numactl",
     "version": "2.0.14",
     "upstream_urls": "https://github.com/numactl/numactl/releases/download/v2.0.14/numactl-2.0.14.tar.gz",
@@ -3036,22 +2982,10 @@
     "license": "GPL-3.0-or-later"
   },
   {
-    "name": "octopus",
-    "version": "4.+",
-    "upstream_urls": "https://gitlab.com/kamstrup/concentrator/components/omnia/octopus",
-    "license": "proprietary"
-  },
-  {
     "name": "ofono",
     "version": "1.32",
     "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/network/ofono/ofono-1.32.tar.xz https://www.kernel.org/pub/linux/network/ofono/ofono-1.32.tar.xz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND LGPL-2.1-or-later"
-  },
-  {
-    "name": "onem2m",
-    "version": "2.+",
-    "upstream_urls": "https://gitlab.com/kamstrup/concentrator/components/omnia/onem2m",
-    "license": "proprietary"
   },
   {
     "name": "open62541",
@@ -3172,12 +3106,6 @@
     "version": "0.4.41",
     "upstream_urls": "http://gstreamer.freedesktop.org/data/src/orc/orc-0.4.41.tar.xz",
     "license": "BSD-2-Clause AND BSD-3-Clause"
-  },
-  {
-    "name": "otp-fuser",
-    "version": "1.+",
-    "upstream_urls": "https://gitlab.com/kamstrup/concentrator/components/omnia/otp-fuser",
-    "license": "proprietary"
   },
   {
     "name": "owfs",
@@ -3619,8 +3547,8 @@
   },
   {
     "name": "python3-importlib-metadata",
-    "version": "8.4.0",
-    "upstream_urls": "https://files.pythonhosted.org/packages/source/i/importlib_metadata/importlib_metadata-8.4.0.tar.gz",
+    "version": "1.7.0",
+    "upstream_urls": "https://files.pythonhosted.org/packages/source/i/importlib_metadata/importlib_metadata-1.7.0.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -4027,8 +3955,8 @@
   },
   {
     "name": "python3-yoyo-migrations",
-    "version": "8.2.0",
-    "upstream_urls": "https://files.pythonhosted.org/packages/source/y/yoyo-migrations/yoyo-migrations-8.2.0.tar.gz",
+    "version": "7.3.2",
+    "upstream_urls": "https://files.pythonhosted.org/packages/source/y/yoyo-migrations/yoyo-migrations-7.3.2.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -4039,15 +3967,9 @@
   },
   {
     "name": "python3-zipp",
-    "version": "3.20.1",
-    "upstream_urls": "https://files.pythonhosted.org/packages/source/z/zipp/zipp-3.20.1.tar.gz",
+    "version": "3.1.0",
+    "upstream_urls": "https://files.pythonhosted.org/packages/source/z/zipp/zipp-3.1.0.tar.gz",
     "license": "MIT"
-  },
-  {
-    "name": "pyutils",
-    "version": "1.+",
-    "upstream_urls": "https://gitlab.com/kamstrup/concentrator/components/omnia/pyutils",
-    "license": "proprietary"
   },
   {
     "name": "qemu",
@@ -4788,12 +4710,6 @@
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later AND MIT"
   },
   {
-    "name": "uxfp",
-    "version": "1.10.0-0",
-    "upstream_urls": "http://www.telit.com",
-    "license": "proprietary"
-  },
-  {
     "name": "v4l-utils",
     "version": "1.28.1",
     "upstream_urls": "http://linuxtv.org/downloads/v4l-utils/v4l-utils-1.28.1.tar.xz",
@@ -4876,12 +4792,6 @@
     "version": "1.8.1",
     "upstream_urls": "https://mesa.pages.freedesktop.org/waffle/files/release/waffle-1.8.1/waffle-1.8.1.tar.xz",
     "license": "BSD-2-Clause"
-  },
-  {
-    "name": "warp",
-    "version": "3.+",
-    "upstream_urls": "https://gitlab.com/kamstrup/concentrator/components/warp",
-    "license": "proprietary"
   },
   {
     "name": "wavemon",
