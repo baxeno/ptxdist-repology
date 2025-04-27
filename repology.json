@@ -19,14 +19,14 @@
   },
   {
     "name": "alsa-lib",
-    "version": "1.2.13",
-    "upstream_urls": "https://www.alsa-project.org/files/pub/lib/alsa-lib-1.2.13.tar.bz2",
+    "version": "1.2.14",
+    "upstream_urls": "https://www.alsa-project.org/files/pub/lib/alsa-lib-1.2.14.tar.bz2",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "alsa-utils",
-    "version": "1.2.13",
-    "upstream_urls": "https://www.alsa-project.org/files/pub/utils/alsa-utils-1.2.13.tar.bz2",
+    "version": "1.2.14",
+    "upstream_urls": "https://www.alsa-project.org/files/pub/utils/alsa-utils-1.2.14.tar.bz2",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -265,8 +265,8 @@
   },
   {
     "name": "ca-certificates",
-    "version": "NSS_3_106_RTM",
-    "upstream_urls": "https://hg.mozilla.org/projects/nss/raw-file/NSS_3_106_RTM/lib/ckfw/builtins/certdata.txt",
+    "version": "NSS_3_110_RTM",
+    "upstream_urls": "https://hg.mozilla.org/projects/nss/raw-file/NSS_3_110_RTM/lib/ckfw/builtins/certdata.txt",
     "license": "MPL-2.0"
   },
   {
@@ -649,8 +649,8 @@
   },
   {
     "name": "ethtool",
-    "version": "6.11",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/../software/network/ethtool/ethtool-6.11.tar.xz https://www.kernel.org/pub/linux/../software/network/ethtool/ethtool-6.11.tar.xz",
+    "version": "6.14",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/../software/network/ethtool/ethtool-6.14.tar.xz https://www.kernel.org/pub/linux/../software/network/ethtool/ethtool-6.14.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -721,8 +721,8 @@
   },
   {
     "name": "fcgi",
-    "version": "2.4.2",
-    "upstream_urls": "https://github.com/FastCGI-Archives/fcgi2/archive/2.4.2.tar.gz",
+    "version": "2.4.5",
+    "upstream_urls": "https://github.com/FastCGI-Archives/fcgi2/archive/2.4.5.tar.gz",
     "license": "OML"
   },
   {
@@ -877,8 +877,8 @@
   },
   {
     "name": "glib",
-    "version": "2.84.0",
-    "upstream_urls": "https://download.gnome.org/sources/glib/2.84/glib-2.84.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/glib/2.84/glib-2.84.0.tar.xz",
+    "version": "2.84.1",
+    "upstream_urls": "https://download.gnome.org/sources/glib/2.84/glib-2.84.1.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/glib/2.84/glib-2.84.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -979,8 +979,8 @@
   },
   {
     "name": "grep",
-    "version": "3.11",
-    "upstream_urls": "https://ftp.gnu.org/gnu/grep/grep-3.11.tar.xz https://ftpmirror.gnu.org/grep/grep-3.11.tar.xz",
+    "version": "3.12",
+    "upstream_urls": "https://ftp.gnu.org/gnu/grep/grep-3.12.tar.xz https://ftpmirror.gnu.org/grep/grep-3.12.tar.xz",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -1159,8 +1159,8 @@
   },
   {
     "name": "hwdata",
-    "version": "0.393",
-    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.393.tar.gz",
+    "version": "0.394",
+    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.394.tar.gz",
     "license": "GPL-2.0-or-later OR XFree86-1.0"
   },
   {
@@ -1279,8 +1279,8 @@
   },
   {
     "name": "iproute2",
-    "version": "6.13.0",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.13.0.tar.xz https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.13.0.tar.xz",
+    "version": "6.14.0",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.14.0.tar.xz https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.14.0.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -1513,8 +1513,8 @@
   },
   {
     "name": "libcap",
-    "version": "2.75",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.75.tar.xz https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.75.tar.xz",
+    "version": "2.76",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.76.tar.xz https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.76.tar.xz",
     "license": "BSD-3-Clause OR GPL-2.0-only"
   },
   {
@@ -1579,8 +1579,8 @@
   },
   {
     "name": "libcurl",
-    "version": "8.12.1",
-    "upstream_urls": "https://curl.se/download/curl-8.12.1.tar.xz",
+    "version": "8.13.0",
+    "upstream_urls": "https://curl.se/download/curl-8.13.0.tar.xz",
     "license": "curl"
   },
   {
@@ -1693,8 +1693,8 @@
   },
   {
     "name": "libffi",
-    "version": "3.4.7",
-    "upstream_urls": "https://github.com/libffi/libffi/releases/download/v3.4.7/libffi-3.4.7.tar.gz",
+    "version": "3.4.8",
+    "upstream_urls": "https://github.com/libffi/libffi/releases/download/v3.4.8/libffi-3.4.8.tar.gz",
     "license": "MIT"
   },
   {
@@ -1743,7 +1743,7 @@
     "name": "libgpiod",
     "version": "2.1.3",
     "upstream_urls": "https://www.kernel.org/pub/software/libs/libgpiod/libgpiod-2.1.3.tar.gz",
-    "license": "LGPL-2.1-or-later AND GPL-2.0-only WITH Linux-syscall-note AND GPL-2.0-or-later"
+    "license": "LGPL-2.1-or-later AND GPL-2.0-only WITH Linux-syscall-note"
   },
   {
     "name": "libgsf",
@@ -1783,8 +1783,8 @@
   },
   {
     "name": "libinput",
-    "version": "1.27.1",
-    "upstream_urls": "https://gitlab.freedesktop.org/libinput/libinput/-/archive/1.27.1/libinput-1.27.1.tar.gz",
+    "version": "1.28.1",
+    "upstream_urls": "https://gitlab.freedesktop.org/libinput/libinput/-/archive/1.28.1/libinput-1.28.1.tar.gz",
     "license": "MIT"
   },
   {
@@ -1855,8 +1855,8 @@
   },
   {
     "name": "libmbim",
-    "version": "1.30.0",
-    "upstream_urls": "https://gitlab.freedesktop.org/mobile-broadband/libmbim/-/archive/1.30.0/libmbim-1.30.0.tar.bz2",
+    "version": "1.32.0",
+    "upstream_urls": "https://gitlab.freedesktop.org/mobile-broadband/libmbim/-/archive/1.32.0/libmbim-1.32.0.tar.bz2",
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
   },
   {
@@ -2101,8 +2101,8 @@
   },
   {
     "name": "libqmi",
-    "version": "1.34.0",
-    "upstream_urls": "https://gitlab.freedesktop.org/mobile-broadband/libqmi/-/archive/1.34.0/libqmi-1.34.0.tar.bz2",
+    "version": "1.36.0",
+    "upstream_urls": "https://gitlab.freedesktop.org/mobile-broadband/libqmi/-/archive/1.36.0/libqmi-1.36.0.tar.bz2",
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
   },
   {
@@ -2247,7 +2247,7 @@
     "name": "libtraceevent",
     "version": "1.8.4",
     "upstream_urls": "https://git.kernel.org/pub/scm/libs/libtrace/libtraceevent.git;tag=libtraceevent-1.8.4",
-    "license": "LGPL-2.1 + GPL-2.0"
+    "license": "LGPL-2.1 AND GPL-2.0"
   },
   {
     "name": "libtracefs",
@@ -2437,8 +2437,8 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20250311",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250311.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250311.tar.gz",
+    "version": "20250410",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250410.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250410.tar.gz",
     "license": "proprietary"
   },
   {
@@ -2461,8 +2461,8 @@
   },
   {
     "name": "llvm",
-    "version": "19.1.7",
-    "upstream_urls": "https://github.com/llvm/llvm-project/releases/download/llvmorg-19.1.7/llvm-19.1.7.src.tar.xz",
+    "version": "20.1.2",
+    "upstream_urls": "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.2/llvm-20.1.2.src.tar.xz",
     "license": "Apache-2.0 WITH LLVM-exception AND NCSA"
   },
   {
@@ -2641,8 +2641,8 @@
   },
   {
     "name": "mesalib",
-    "version": "25.0.1",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.0.1.tar.xz",
+    "version": "25.0.4",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.0.4.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -2929,8 +2929,8 @@
   },
   {
     "name": "nss",
-    "version": "3.106",
-    "upstream_urls": "https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_106_RTM/src/nss-3.106.tar.gz",
+    "version": "3.110",
+    "upstream_urls": "https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_110_RTM/src/nss-3.110.tar.gz",
     "license": "MPL-2.0"
   },
   {
@@ -3043,14 +3043,14 @@
   },
   {
     "name": "openssh",
-    "version": "9.9p2",
-    "upstream_urls": "https://ftp.halifax.rwth-aachen.de/openbsd/OpenSSH/portable/openssh-9.9p2.tar.gz https://mirror.hs-esslingen.de/pub/OpenBSD/OpenSSH/portable/openssh-9.9p2.tar.gz https://ftp.lysator.liu.se/pub/OpenBSD/OpenSSH/portable/openssh-9.9p2.tar.gz",
+    "version": "10.0p1",
+    "upstream_urls": "https://ftp.halifax.rwth-aachen.de/openbsd/OpenSSH/portable/openssh-10.0p1.tar.gz https://mirror.hs-esslingen.de/pub/OpenBSD/OpenSSH/portable/openssh-10.0p1.tar.gz https://ftp.lysator.liu.se/pub/OpenBSD/OpenSSH/portable/openssh-10.0p1.tar.gz",
     "license": "BSD AND BSD-2-Clause AND BSD-3-Clause AND MIT AND Beerware AND ISC"
   },
   {
     "name": "openssl",
-    "version": "3.4.1",
-    "upstream_urls": "https://github.com/openssl/openssl/releases/download/openssl-3.4.1/openssl-3.4.1.tar.gz https://www.openssl.org/source/openssl-3.4.1.tar.gz https://www.openssl.org/source/old/3.4/openssl-3.4.1.tar.gz",
+    "version": "3.5.0",
+    "upstream_urls": "https://github.com/openssl/openssl/releases/download/openssl-3.5.0/openssl-3.5.0.tar.gz https://www.openssl.org/source/openssl-3.5.0.tar.gz https://www.openssl.org/source/old/3.5/openssl-3.5.0.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -3756,6 +3756,12 @@
     "license": "Unlicense AND BSD-2-Clause"
   },
   {
+    "name": "python3-pymodbus",
+    "version": "3.8.6",
+    "upstream_urls": "https://files.pythonhosted.org/packages/source/p/pymodbus/pymodbus-3.8.6.tar.gz",
+    "license": "BSD-3-Clause"
+  },
+  {
     "name": "python3-pyopenssl",
     "version": "24.0.0",
     "upstream_urls": "https://files.pythonhosted.org/packages/source/p/pyopenssl/pyOpenSSL-24.0.0.tar.gz",
@@ -3973,8 +3979,8 @@
   },
   {
     "name": "qemu",
-    "version": "9.2.2",
-    "upstream_urls": "https://download.qemu.org/qemu-9.2.2.tar.xz",
+    "version": "9.2.3",
+    "upstream_urls": "https://download.qemu.org/qemu-9.2.3.tar.xz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND MIT AND BSD-1-Clause AND BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -4165,14 +4171,14 @@
   },
   {
     "name": "sdl2",
-    "version": "2.32.0",
-    "upstream_urls": "https://www.libsdl.org/release/SDL2-2.32.0.tar.gz",
+    "version": "2.32.4",
+    "upstream_urls": "https://www.libsdl.org/release/SDL2-2.32.4.tar.gz",
     "license": "zlib"
   },
   {
     "name": "sdl2-image",
-    "version": "2.8.5",
-    "upstream_urls": "https://github.com/libsdl-org/SDL_image/releases/download/release-2.8.5/SDL2_image-2.8.5.tar.gz",
+    "version": "2.8.8",
+    "upstream_urls": "https://github.com/libsdl-org/SDL_image/releases/download/release-2.8.8/SDL2_image-2.8.8.tar.gz",
     "license": "zlib"
   },
   {
@@ -4189,8 +4195,8 @@
   },
   {
     "name": "sdl2-test",
-    "version": "2.32.0",
-    "upstream_urls": "https://www.libsdl.org/release/SDL2-2.32.0.tar.gz",
+    "version": "2.32.4",
+    "upstream_urls": "https://www.libsdl.org/release/SDL2-2.32.4.tar.gz",
     "license": ""
   },
   {
@@ -4316,7 +4322,7 @@
   {
     "name": "softhsm",
     "version": "2.6.1",
-    "upstream_urls": "https://dist.opendnssec.org/source/softhsm-2.6.1.tar.gz",
+    "upstream_urls": "https://github.com/softhsm/SoftHSMv2/archive/refs/tags/2.6.1.tar.gz",
     "license": "BSD-2-Clause"
   },
   {
@@ -4405,8 +4411,8 @@
   },
   {
     "name": "strace",
-    "version": "6.13",
-    "upstream_urls": "https://strace.io/files/6.13/strace-6.13.tar.xz",
+    "version": "6.14",
+    "upstream_urls": "https://strace.io/files/6.14/strace-6.14.tar.xz",
     "license": "LGPL-2.1-or-later AND GPL-2.0-only WITH Linux-syscall-note"
   },
   {
@@ -4425,7 +4431,7 @@
     "name": "strongswan",
     "version": "5.9.14",
     "upstream_urls": "https://download.strongswan.org/strongswan-5.9.14.tar.bz2",
-    "license": "GPL"
+    "license": "GPL-2.0-only"
   },
   {
     "name": "stunnel",
@@ -4459,8 +4465,8 @@
   },
   {
     "name": "sysklogd",
-    "version": "2.7.1",
-    "upstream_urls": "https://github.com/troglobit/sysklogd/releases/download/v2.7.1/sysklogd-2.7.1.tar.gz",
+    "version": "2.7.2",
+    "upstream_urls": "https://github.com/troglobit/sysklogd/releases/download/v2.7.2/sysklogd-2.7.2.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
@@ -4471,8 +4477,8 @@
   },
   {
     "name": "syslogng",
-    "version": "3.25.1",
-    "upstream_urls": "https://github.com/balabit/syslog-ng/releases/download/syslog-ng-3.25.1/syslog-ng-3.25.1.tar.gz",
+    "version": "4.8.1",
+    "upstream_urls": "https://github.com/balabit/syslog-ng/releases/download/syslog-ng-4.8.1/syslog-ng-4.8.1.tar.gz",
     "license": "GPL-2.0-or-later AND LGPL-2.1-only"
   },
   {
@@ -4531,8 +4537,8 @@
   },
   {
     "name": "tf-a",
-    "version": "v2.10",
-    "upstream_urls": "https://github.com/ARM-software/arm-trusted-firmware/archive/refs/tags/v2.10.tar.gz",
+    "version": "v2.12",
+    "upstream_urls": "https://github.com/ARM-software/arm-trusted-firmware/archive/refs/tags/v2.12.tar.gz",
     "license": "BSD-3-Clause AND BSD-2-Clause AND (GPL-2.0-or-later OR BSD-2-Clause) AND (NCSA OR MIT) AND Zlib AND (GPL-2.0-or-later OR BSD-3-Clause)"
   },
   {
@@ -4699,13 +4705,13 @@
   },
   {
     "name": "util-linux",
-    "version": "2.40.4",
-    "upstream_urls": "https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git/snapshot/util-linux-2.40.4.tar.gz",
+    "version": "2.41",
+    "upstream_urls": "https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git/snapshot/util-linux-2.41.tar.gz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND BSD-4-Clause AND MIT AND ISC AND public_domain"
   },
   {
     "name": "uvc-gadget",
-    "version": "v0.3.0",
+    "version": "0.3.0",
     "upstream_urls": "git://git.ideasonboard.org/uvc-gadget.git;tag=v0.3.0 https://gitlab.freedesktop.org/camera/uvc-gadget.git;tag=v0.3.0",
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later AND MIT"
   },
@@ -4807,8 +4813,8 @@
   },
   {
     "name": "wayland-protocols",
-    "version": "1.41",
-    "upstream_urls": "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.41/downloads/wayland-protocols-1.41.tar.xz",
+    "version": "1.42",
+    "upstream_urls": "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.42/downloads/wayland-protocols-1.42.tar.xz",
     "license": "MIT"
   },
   {
