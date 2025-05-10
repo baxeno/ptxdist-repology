@@ -104,7 +104,7 @@
   {
     "name": "audiofile",
     "version": "0.3.6",
-    "upstream_urls": "http://audiofile.68k.org/audiofile-0.3.6.tar.gz",
+    "upstream_urls": "https://audiofile.68k.org/audiofile-0.3.6.tar.gz",
     "license": "GPL-2.0-only AND LGPL-2.0-only"
   },
   {
@@ -118,6 +118,54 @@
     "version": "0.8",
     "upstream_urls": "http://avahi.org/download/avahi-0.8.tar.gz",
     "license": "LGPL-2.1-or-later"
+  },
+  {
+    "name": "barebox-am335x",
+    "version": "2025.03.0",
+    "upstream_urls": "http://www.barebox.org/download/barebox-2025.03.0.tar.bz2",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "barebox-am335x-mlo",
+    "version": "2025.03.0",
+    "upstream_urls": "http://www.barebox.org/download/barebox-2025.03.0.tar.bz2",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "barebox-at91",
+    "version": "2025.03.0",
+    "upstream_urls": "http://www.barebox.org/download/barebox-2025.03.0.tar.bz2",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "barebox-common",
+    "version": "2025.03.0",
+    "upstream_urls": "http://www.barebox.org/download/barebox-2025.03.0.tar.bz2",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "barebox-mx6",
+    "version": "2025.03.0",
+    "upstream_urls": "http://www.barebox.org/download/barebox-2025.03.0.tar.bz2",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "barebox-rpi2",
+    "version": "2025.03.0",
+    "upstream_urls": "http://www.barebox.org/download/barebox-2025.03.0.tar.bz2",
+    "license": "GPL-2.0-only"
+  },
+  {
+    "name": "barebox-stm32mp",
+    "version": "2025.03.0",
+    "upstream_urls": "http://www.barebox.org/download/barebox-2025.03.0.tar.bz2",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "barebox-vexpress",
+    "version": "2025.03.0",
+    "upstream_urls": "http://www.barebox.org/download/barebox-2025.03.0.tar.bz2",
+    "license": "GPL-2.0-only"
   },
   {
     "name": "bash",
@@ -553,8 +601,8 @@
   },
   {
     "name": "dropbear",
-    "version": "2022.83",
-    "upstream_urls": "https://matt.ucc.asn.au/dropbear/releases/dropbear-2022.83.tar.bz2",
+    "version": "2025.88",
+    "upstream_urls": "https://matt.ucc.asn.au/dropbear/releases/dropbear-2025.88.tar.bz2 https://dropbear.nl/mirror/releases/dropbear-2025.88.tar.bz2",
     "license": "MIT AND BSD-2-Clause AND SSH-short AND (custom OR WTFPL) AND Unlicense"
   },
   {
@@ -721,8 +769,8 @@
   },
   {
     "name": "fcgi",
-    "version": "2.4.5",
-    "upstream_urls": "https://github.com/FastCGI-Archives/fcgi2/archive/2.4.5.tar.gz",
+    "version": "2.4.6",
+    "upstream_urls": "https://github.com/FastCGI-Archives/fcgi2/archive/2.4.6.tar.gz",
     "license": "OML"
   },
   {
@@ -907,8 +955,8 @@
   },
   {
     "name": "glslang",
-    "version": "1.4.309.0",
-    "upstream_urls": "https://github.com/KhronosGroup/glslang/archive/vulkan-sdk-1.4.309.0.tar.gz",
+    "version": "1.4.313.0",
+    "upstream_urls": "https://github.com/KhronosGroup/glslang/archive/vulkan-sdk-1.4.313.0.tar.gz",
     "license": "BSD-3-clause AND BSD-2-clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom"
   },
   {
@@ -1879,8 +1927,8 @@
   },
   {
     "name": "libmicrohttpd",
-    "version": "0.9.75",
-    "upstream_urls": "https://ftp.gnu.org/gnu/libmicrohttpd/libmicrohttpd-0.9.75.tar.gz https://ftpmirror.gnu.org/libmicrohttpd/libmicrohttpd-0.9.75.tar.gz",
+    "version": "1.0.1",
+    "upstream_urls": "https://ftp.gnu.org/gnu/libmicrohttpd/libmicrohttpd-1.0.1.tar.gz https://ftpmirror.gnu.org/libmicrohttpd/libmicrohttpd-1.0.1.tar.gz",
     "license": "LGPL-2.1-only OR GPL-2.0-only WITH eCos-exception-2.0"
   },
   {
@@ -2071,8 +2119,8 @@
   },
   {
     "name": "libpng",
-    "version": "1.6.47",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libpng/libpng-1.6.47.tar.xz",
+    "version": "1.6.48",
+    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libpng/libpng-1.6.48.tar.xz",
     "license": "libpng-2.0"
   },
   {
@@ -2383,8 +2431,8 @@
   },
   {
     "name": "libxkbcommon",
-    "version": "1.8.1",
-    "upstream_urls": "https://github.com/xkbcommon/libxkbcommon/archive/refs/tags/xkbcommon-1.8.1.tar.gz",
+    "version": "1.9.2",
+    "upstream_urls": "https://github.com/xkbcommon/libxkbcommon/archive/refs/tags/xkbcommon-1.9.2.tar.gz",
     "license": "MIT AND MIT-open-group AND X11 AND HPND AND HPND-sell-variant"
   },
   {
@@ -2485,8 +2533,8 @@
   },
   {
     "name": "logrotate",
-    "version": "3.17.0",
-    "upstream_urls": "https://github.com/logrotate/logrotate/releases/download/3.17.0/logrotate-3.17.0.tar.xz",
+    "version": "3.22.0",
+    "upstream_urls": "https://github.com/logrotate/logrotate/releases/download/3.22.0/logrotate-3.22.0.tar.xz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -2504,7 +2552,7 @@
   {
     "name": "lshw",
     "version": "B.02.19.2",
-    "upstream_urls": "http://www.ezix.org/software/files/lshw-B.02.19.2.tar.gz",
+    "upstream_urls": "https://www.ezix.org/software/files/lshw-B.02.19.2.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -2641,8 +2689,8 @@
   },
   {
     "name": "mesalib",
-    "version": "25.0.4",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.0.4.tar.xz",
+    "version": "25.0.5",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.0.5.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -3205,14 +3253,14 @@
   },
   {
     "name": "pipewire",
-    "version": "1.4.0",
-    "upstream_urls": "https://gitlab.freedesktop.org/pipewire/pipewire/-/archive/1.4.0/pipewire-1.4.0.tar.bz2",
+    "version": "1.4.2",
+    "upstream_urls": "https://gitlab.freedesktop.org/pipewire/pipewire/-/archive/1.4.2/pipewire-1.4.2.tar.bz2",
     "license": "MIT AND LGPL-2.1-or-later"
   },
   {
     "name": "pixman",
-    "version": "0.44.2",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/pixman-0.44.2.tar.xz https://xorg.freedesktop.org/releases/individual/lib/pixman-0.44.2.tar.xz",
+    "version": "0.46.0",
+    "upstream_urls": "https://ftp.x.org/archive/individual/lib/pixman-0.46.0.tar.xz https://xorg.freedesktop.org/releases/individual/lib/pixman-0.46.0.tar.xz",
     "license": "MIT"
   },
   {
@@ -3847,8 +3895,8 @@
   },
   {
     "name": "python3-setuptools",
-    "version": "67.4.0",
-    "upstream_urls": "https://files.pythonhosted.org/packages/source/s/setuptools/setuptools-67.4.0.tar.gz",
+    "version": "71.1.0",
+    "upstream_urls": "https://files.pythonhosted.org/packages/source/s/setuptools/setuptools-71.1.0.tar.gz",
     "license": "MIT"
   },
   {
@@ -4239,7 +4287,7 @@
     "name": "serdisplib",
     "version": "1.97.9",
     "upstream_urls": "http://downloads.sourceforge.net/sourceforge/project/serdisplib/serdisplib/1.97.9/serdisplib-1.97.9.tar.gz",
-    "license": "GPL"
+    "license": "GPL-2.0-or-later"
   },
   {
     "name": "setmixer",
@@ -4255,8 +4303,8 @@
   },
   {
     "name": "shaderc",
-    "version": "v2025.1",
-    "upstream_urls": "https://github.com/google/shaderc/archive/v2025.1.tar.gz",
+    "version": "v2025.2",
+    "upstream_urls": "https://github.com/google/shaderc/archive/v2025.2.tar.gz",
     "license": "Apache-2.0 AND (BSD-3-clause AND BSD-2-clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom) AND (Apache-2.0)"
   },
   {
@@ -4357,14 +4405,14 @@
   },
   {
     "name": "spirv-headers",
-    "version": "1.4.309.0",
-    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Headers/archive/vulkan-sdk-1.4.309.0.tar.gz",
+    "version": "1.4.313.0",
+    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Headers/archive/vulkan-sdk-1.4.313.0.tar.gz",
     "license": "custom AND MIT"
   },
   {
     "name": "spirv-tools",
-    "version": "1.4.309.0",
-    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Tools/archive/vulkan-sdk-1.4.309.0.tar.gz",
+    "version": "1.4.313.0",
+    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Tools/archive/vulkan-sdk-1.4.313.0.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -4407,7 +4455,7 @@
     "name": "stm32flash",
     "version": "0.5",
     "upstream_urls": "http://downloads.sourceforge.net/sourceforge/stm32flash/stm32flash-0.5.tar.gz",
-    "license": "GPLv2"
+    "license": "GPL-2.0-or-later"
   },
   {
     "name": "strace",
@@ -4542,6 +4590,12 @@
     "license": "BSD-3-Clause AND BSD-2-Clause AND (GPL-2.0-or-later OR BSD-2-Clause) AND (NCSA OR MIT) AND Zlib AND (GPL-2.0-or-later OR BSD-3-Clause)"
   },
   {
+    "name": "tf-a-stm32mp13",
+    "version": "v2.12",
+    "upstream_urls": "https://github.com/ARM-software/arm-trusted-firmware/archive/refs/tags/v2.12.tar.gz",
+    "license": "BSD-3-Clause AND BSD-2-Clause AND (GPL-2.0-or-later OR BSD-2-Clause) AND (NCSA OR MIT) AND Zlib AND (GPL-2.0-or-later OR BSD-3-Clause)"
+  },
+  {
     "name": "timeout",
     "version": "1.18",
     "upstream_urls": "http://www.porcupine.org/forensics/tct-1.18.tar.gz",
@@ -4581,7 +4635,7 @@
     "name": "tomoyo-tools",
     "version": "2.5.0-20130406",
     "upstream_urls": "http://jaist.dl.sourceforge.jp/tomoyo/53357/tomoyo-tools-2.5.0-20130406.tar.gz",
-    "license": "GPL"
+    "license": "GPL-2.0-only"
   },
   {
     "name": "tpm2-abrmd",
@@ -4675,8 +4729,8 @@
   },
   {
     "name": "usb-modeswitch",
-    "version": "2.6.1",
-    "upstream_urls": "http://www.draisberghof.de/usb_modeswitch/usb-modeswitch-2.6.1.tar.bz2",
+    "version": "2.6.2",
+    "upstream_urls": "https://www.draisberghof.de/usb_modeswitch/usb-modeswitch-2.6.2.tar.bz2",
     "license": "GPL-2.0-only"
   },
   {
@@ -4753,8 +4807,8 @@
   },
   {
     "name": "volk",
-    "version": "1.4.309.0",
-    "upstream_urls": "https://github.com/zeux/volk/archive/refs/tags/vulkan-sdk-1.4.309.0.tar.gz",
+    "version": "1.4.313.0",
+    "upstream_urls": "https://github.com/zeux/volk/archive/refs/tags/vulkan-sdk-1.4.313.0.tar.gz",
     "license": "MIT"
   },
   {
@@ -4765,33 +4819,33 @@
   },
   {
     "name": "vulkan-headers",
-    "version": "1.4.309.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Headers/archive/vulkan-sdk-1.4.309.0.tar.gz",
+    "version": "1.4.313.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Headers/archive/vulkan-sdk-1.4.313.0.tar.gz",
     "license": "Apache-2.0 AND MIT"
   },
   {
     "name": "vulkan-loader",
-    "version": "1.4.309.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Loader/archive/vulkan-sdk-1.4.309.0.tar.gz",
+    "version": "1.4.313.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Loader/archive/vulkan-sdk-1.4.313.0.tar.gz",
     "license": "Apache-2.0"
   },
   {
     "name": "vulkan-tools",
-    "version": "1.4.309.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Tools/archive/vulkan-sdk-1.4.309.0.tar.gz",
+    "version": "1.4.313.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Tools/archive/vulkan-sdk-1.4.313.0.tar.gz",
     "license": "Apache-2.0"
   },
   {
     "name": "vulkan-utility-libraries",
-    "version": "1.4.309.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries/archive/vulkan-sdk-1.4.309.0.tar.gz",
+    "version": "1.4.313.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries/archive/vulkan-sdk-1.4.313.0.tar.gz",
     "license": "Apache-2.0 AND MIT"
   },
   {
     "name": "vulkan-validationlayers",
-    "version": "1.4.309.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-ValidationLayers/archive/vulkan-sdk-1.4.309.0.tar.gz",
-    "license": "Apache-2.0 AND MIT"
+    "version": "1.4.313.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-ValidationLayers/archive/vulkan-sdk-1.4.313.0.tar.gz",
+    "license": "Apache-2.0 AND MIT AND BSL-1.0"
   },
   {
     "name": "waffle",
@@ -4803,7 +4857,7 @@
     "name": "wavemon",
     "version": "0.7.5",
     "upstream_urls": "https://github.com/uoaerg/wavemon/releases/download/v0.7.5/wavemon-0.7.5.tar.bz2",
-    "license": "GPL"
+    "license": "GPL-3.0-or-later"
   },
   {
     "name": "wayland",
@@ -4813,8 +4867,8 @@
   },
   {
     "name": "wayland-protocols",
-    "version": "1.42",
-    "upstream_urls": "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.42/downloads/wayland-protocols-1.42.tar.xz",
+    "version": "1.44",
+    "upstream_urls": "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.44/downloads/wayland-protocols-1.44.tar.xz",
     "license": "MIT"
   },
   {
@@ -4849,8 +4903,8 @@
   },
   {
     "name": "weston",
-    "version": "14.0.1",
-    "upstream_urls": "https://gitlab.freedesktop.org/wayland/weston/-/archive/14.0.1/weston-14.0.1.tar.gz",
+    "version": "14.0.2",
+    "upstream_urls": "https://gitlab.freedesktop.org/wayland/weston/-/archive/14.0.2/weston-14.0.2.tar.gz",
     "license": "MIT"
   },
   {
