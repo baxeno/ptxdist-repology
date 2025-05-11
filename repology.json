@@ -1045,32 +1045,32 @@
   },
   {
     "name": "gst-devtools1",
-    "version": "1.26.0",
-    "upstream_urls": "http://gstreamer.freedesktop.org/data/src/gst-devtools/gst-devtools-1.26.0.tar.xz",
+    "version": "1.26.1",
+    "upstream_urls": "http://gstreamer.freedesktop.org/data/src/gst-devtools/gst-devtools-1.26.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-libav1",
-    "version": "1.26.0",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.26.0.tar.xz",
+    "version": "1.26.1",
+    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.26.1.tar.xz",
     "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
   },
   {
     "name": "gst-plugins-bad1",
-    "version": "1.26.0",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-plugins-bad/gst-plugins-bad-1.26.0.tar.xz",
+    "version": "1.26.1",
+    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-plugins-bad/gst-plugins-bad-1.26.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-plugins-base1",
-    "version": "1.26.0",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-1.26.0.tar.xz",
+    "version": "1.26.1",
+    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-1.26.1.tar.xz",
     "license": "LGPL-2.0-or-later AND BSD-3-Clause AND MIT"
   },
   {
     "name": "gst-plugins-good1",
-    "version": "1.26.0",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-1.26.0.tar.xz",
+    "version": "1.26.1",
+    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-1.26.1.tar.xz",
     "license": "LGPL-2.1-or-later AND BSD-3-Clause AND MIT"
   },
   {
@@ -1081,32 +1081,32 @@
   },
   {
     "name": "gst-plugins-ugly1",
-    "version": "1.26.0",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.26.0.tar.xz",
+    "version": "1.26.1",
+    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.26.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-python1",
-    "version": "1.26.0",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-python/gst-python-1.26.0.tar.xz",
+    "version": "1.26.1",
+    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-python/gst-python-1.26.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-rtsp-server1",
-    "version": "1.26.0",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-rtsp/gst-rtsp-server-1.26.0.tar.xz",
+    "version": "1.26.1",
+    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-rtsp/gst-rtsp-server-1.26.1.tar.xz",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer-vaapi1",
-    "version": "1.26.0",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gstreamer-vaapi/gstreamer-vaapi-1.26.0.tar.xz",
+    "version": "1.26.1",
+    "upstream_urls": "http://gstreamer.freedesktop.org/src/gstreamer-vaapi/gstreamer-vaapi-1.26.1.tar.xz",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer1",
-    "version": "1.26.0",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gstreamer/gstreamer-1.26.0.tar.xz",
+    "version": "1.26.1",
+    "upstream_urls": "http://gstreamer.freedesktop.org/src/gstreamer/gstreamer-1.26.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
