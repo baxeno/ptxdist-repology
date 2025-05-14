@@ -14,7 +14,7 @@
   {
     "name": "alfred",
     "version": "2017.1",
-    "upstream_urls": "http://downloads.open-mesh.org/batman/stable/sources/alfred/alfred-2017.1.tar.gz",
+    "upstream_urls": "https://downloads.open-mesh.org/batman/stable/sources/alfred/alfred-2017.1.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "atop",
     "version": "2.10.0",
-    "upstream_urls": "http://www.atoptool.nl/download/atop-2.10.0.tar.gz",
+    "upstream_urls": "https://www.atoptool.nl/download/atop-2.10.0.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -176,7 +176,7 @@
   {
     "name": "batctl",
     "version": "2024.3",
-    "upstream_urls": "http://downloads.open-mesh.org/batman/stable/sources/batctl/batctl-2024.3.tar.gz",
+    "upstream_urls": "https://downloads.open-mesh.org/batman/stable/sources/batctl/batctl-2024.3.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -224,7 +224,7 @@
   {
     "name": "blktrace",
     "version": "1.2.0",
-    "upstream_urls": "http://brick.kernel.dk/snaps/blktrace-1.2.0.tar.bz2",
+    "upstream_urls": "https://brick.kernel.dk/snaps/blktrace-1.2.0.tar.bz2",
     "license": "GPL-2.0-only"
   },
   {
@@ -428,7 +428,7 @@
   {
     "name": "cppunit",
     "version": "1.14.0",
-    "upstream_urls": "http://dev-www.libreoffice.org/src/cppunit-1.14.0.tar.gz",
+    "upstream_urls": "https://dev-www.libreoffice.org/src/cppunit-1.14.0.tar.gz",
     "license": "LGPL-2.1-only"
   },
   {
@@ -1046,31 +1046,31 @@
   {
     "name": "gst-devtools1",
     "version": "1.26.1",
-    "upstream_urls": "http://gstreamer.freedesktop.org/data/src/gst-devtools/gst-devtools-1.26.1.tar.xz",
+    "upstream_urls": "https://gstreamer.freedesktop.org/data/src/gst-devtools/gst-devtools-1.26.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-libav1",
     "version": "1.26.1",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.26.1.tar.xz",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.26.1.tar.xz",
     "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
   },
   {
     "name": "gst-plugins-bad1",
     "version": "1.26.1",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-plugins-bad/gst-plugins-bad-1.26.1.tar.xz",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-bad/gst-plugins-bad-1.26.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-plugins-base1",
     "version": "1.26.1",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-1.26.1.tar.xz",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-1.26.1.tar.xz",
     "license": "LGPL-2.0-or-later AND BSD-3-Clause AND MIT"
   },
   {
     "name": "gst-plugins-good1",
     "version": "1.26.1",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-1.26.1.tar.xz",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-1.26.1.tar.xz",
     "license": "LGPL-2.1-or-later AND BSD-3-Clause AND MIT"
   },
   {
@@ -1082,31 +1082,31 @@
   {
     "name": "gst-plugins-ugly1",
     "version": "1.26.1",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.26.1.tar.xz",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.26.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-python1",
     "version": "1.26.1",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-python/gst-python-1.26.1.tar.xz",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-python/gst-python-1.26.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-rtsp-server1",
     "version": "1.26.1",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gst-rtsp/gst-rtsp-server-1.26.1.tar.xz",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-rtsp/gst-rtsp-server-1.26.1.tar.xz",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer-vaapi1",
     "version": "1.26.1",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gstreamer-vaapi/gstreamer-vaapi-1.26.1.tar.xz",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gstreamer-vaapi/gstreamer-vaapi-1.26.1.tar.xz",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer1",
     "version": "1.26.1",
-    "upstream_urls": "http://gstreamer.freedesktop.org/src/gstreamer/gstreamer-1.26.1.tar.xz",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gstreamer/gstreamer-1.26.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -1207,8 +1207,8 @@
   },
   {
     "name": "hwdata",
-    "version": "0.394",
-    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.394.tar.gz",
+    "version": "0.395",
+    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.395.tar.gz",
     "license": "GPL-2.0-or-later OR XFree86-1.0"
   },
   {
@@ -1334,7 +1334,7 @@
   {
     "name": "iptables",
     "version": "1.8.11",
-    "upstream_urls": "http://ftp.netfilter.org/pub/iptables/iptables-1.8.11.tar.xz",
+    "upstream_urls": "https://ftp.netfilter.org/pub/iptables/iptables-1.8.11.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -1520,7 +1520,7 @@
   {
     "name": "libatomic_ops",
     "version": "7.8.0",
-    "upstream_urls": "https://github.com/ivmai/libatomic_ops/releases/download/v7.8.0/libatomic_ops-7.8.0.tar.gz",
+    "upstream_urls": "https://github.com/bdwgc/libatomic_ops/releases/download/v7.8.0/libatomic_ops-7.8.0.tar.gz",
     "license": "MIT AND Boehm-GC AND GPL-2.0-or-later"
   },
   {
@@ -1952,7 +1952,7 @@
   {
     "name": "libmnl",
     "version": "1.0.5",
-    "upstream_urls": "http://ftp.netfilter.org/pub/libmnl/libmnl-1.0.5.tar.bz2",
+    "upstream_urls": "https://ftp.netfilter.org/pub/libmnl/libmnl-1.0.5.tar.bz2",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -2930,7 +2930,7 @@
   {
     "name": "nftables",
     "version": "1.1.1",
-    "upstream_urls": "http://ftp.netfilter.org/pub/nftables/nftables-1.1.1.tar.xz",
+    "upstream_urls": "https://ftp.netfilter.org/pub/nftables/nftables-1.1.1.tar.xz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later"
   },
   {
@@ -3152,7 +3152,7 @@
   {
     "name": "orc",
     "version": "0.4.41",
-    "upstream_urls": "http://gstreamer.freedesktop.org/data/src/orc/orc-0.4.41.tar.xz",
+    "upstream_urls": "https://gstreamer.freedesktop.org/data/src/orc/orc-0.4.41.tar.xz",
     "license": "BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -4027,8 +4027,8 @@
   },
   {
     "name": "qemu",
-    "version": "9.2.3",
-    "upstream_urls": "https://download.qemu.org/qemu-9.2.3.tar.xz",
+    "version": "10.0.0",
+    "upstream_urls": "https://download.qemu.org/qemu-10.0.0.tar.xz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND MIT AND BSD-1-Clause AND BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -4417,8 +4417,8 @@
   },
   {
     "name": "sqlite",
-    "version": "3.48.0",
-    "upstream_urls": "https://www.sqlite.org/2025/sqlite-autoconf-3480000.tar.gz",
+    "version": "3.49.2",
+    "upstream_urls": "https://www.sqlite.org/2025/sqlite-autoconf-3490200.tar.gz",
     "license": "public_domain"
   },
   {
