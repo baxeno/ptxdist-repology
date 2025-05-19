@@ -247,8 +247,8 @@
   },
   {
     "name": "boost",
-    "version": "1_83_0",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/boost/boost_1_83_0.tar.bz2",
+    "version": "1_86_0",
+    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/boost/boost_1_86_0.tar.bz2",
     "license": "BSL-1.0"
   },
   {
@@ -574,12 +574,6 @@
     "version": "3.10",
     "upstream_urls": "https://ftp.gnu.org/gnu/diffutils/diffutils-3.10.tar.xz https://ftpmirror.gnu.org/diffutils/diffutils-3.10.tar.xz",
     "license": "GPL-3.0-or-later"
-  },
-  {
-    "name": "digest-hmac-perl",
-    "version": "1.03",
-    "upstream_urls": "http://search.cpan.org/CPAN/authors/id/G/GA/GAAS/Digest-HMAC-1.03.tar.gz",
-    "license": "unknown"
   },
   {
     "name": "dnsmasq",
@@ -1237,8 +1231,8 @@
   },
   {
     "name": "igt-gpu-tools",
-    "version": "1.30",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/igt-gpu-tools-1.30.tar.xz https://xorg.freedesktop.org/releases/individual/app/igt-gpu-tools-1.30.tar.xz",
+    "version": "2.0",
+    "upstream_urls": "https://ftp.x.org/archive/individual/app/igt-gpu-tools-2.0.tar.xz https://xorg.freedesktop.org/releases/individual/app/igt-gpu-tools-2.0.tar.xz",
     "license": "MIT AND ISC"
   },
   {
@@ -1300,12 +1294,6 @@
     "version": "24.4.4",
     "upstream_urls": "https://github.com/intel/media-driver/archive/intel-media-24.4.4.tar.gz",
     "license": "MIT AND BSD-3-Clause"
-  },
-  {
-    "name": "io-socket-inet6-perl",
-    "version": "2.72",
-    "upstream_urls": "http://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/IO-Socket-INET6-2.72.tar.gz",
-    "license": "unknown"
   },
   {
     "name": "iozone",
@@ -1615,8 +1603,8 @@
   },
   {
     "name": "libconfig",
-    "version": "1.7.2",
-    "upstream_urls": "http://hyperrealm.github.io/libconfig/dist/libconfig-1.7.2.tar.gz",
+    "version": "1.8",
+    "upstream_urls": "https://github.com/hyperrealm/libconfig/archive/refs/tags/v1.8.tar.gz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -2143,8 +2131,8 @@
   },
   {
     "name": "libpwm",
-    "version": "2024-04-09-gf7a7496fcb9d",
-    "upstream_urls": "https://git.kernel.org/pub/scm/linux/kernel/git/ukleinek/libpwm.git/snapshot/2024-04-09-gf7a7496fcb9d.tar.gz",
+    "version": "1.0-rc1",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/people/ukleinek/libpwm/libpwm-1.0-rc1.tar.xz",
     "license": "LGPL-2.1-only AND 0BSD"
   },
   {
@@ -2437,8 +2425,8 @@
   },
   {
     "name": "libxml2",
-    "version": "2.13.6",
-    "upstream_urls": "https://download.gnome.org/sources/libxml2/2.13/libxml2-2.13.6.tar.xz",
+    "version": "2.14.2",
+    "upstream_urls": "https://download.gnome.org/sources/libxml2/2.14/libxml2-2.14.2.tar.xz",
     "license": "MIT AND ISC"
   },
   {
@@ -2485,8 +2473,8 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20250410",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250410.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250410.tar.gz",
+    "version": "20250509",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250509.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250509.tar.gz",
     "license": "proprietary"
   },
   {
@@ -2664,12 +2652,6 @@
     "license": "GPL-2.0-only"
   },
   {
-    "name": "memtest86p",
-    "version": "4.20",
-    "upstream_urls": "http://www.memtest.org/download/archives/4.20/memtest86+-4.20.tar.gz",
-    "license": "GPL-2"
-  },
-  {
     "name": "memtester",
     "version": "4.5.0",
     "upstream_urls": "http://pyropus.ca/software/memtester/old-versions/memtester-4.5.0.tar.gz",
@@ -2689,8 +2671,8 @@
   },
   {
     "name": "mesalib",
-    "version": "25.0.5",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.0.5.tar.xz",
+    "version": "25.0.6",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.0.6.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -2808,12 +2790,6 @@
     "license": "MIT"
   },
   {
-    "name": "munin",
-    "version": "2.0.20",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/munin/munin-2.0.20.tar.gz",
-    "license": "GPL-2.0-only"
-  },
-  {
     "name": "mxt-app",
     "version": "1.28",
     "upstream_urls": "https://github.com/atmel-maxtouch/mxt-app/archive/v1.28.tar.gz",
@@ -2854,24 +2830,6 @@
     "version": "0.9.4",
     "upstream_urls": "https://github.com/any1/neatvnc/archive/refs/tags/v0.9.4.tar.gz",
     "license": "ISC"
-  },
-  {
-    "name": "net-dns-perl",
-    "version": "0.74",
-    "upstream_urls": "http://www.net-dns.org/download/Net-DNS-0.74.tar.gz",
-    "license": "unknown"
-  },
-  {
-    "name": "net-ip-perl",
-    "version": "1.26",
-    "upstream_urls": "http://search.cpan.org/CPAN/authors/id/M/MA/MANU//Net-IP-1.26.tar.gz",
-    "license": "unknown"
-  },
-  {
-    "name": "net-server-perl",
-    "version": "2.007",
-    "upstream_urls": "http://cpan.metacpan.org/authors/id/R/RH/RHANDOM/Net-Server-2.007.tar.gz",
-    "license": "unknown"
   },
   {
     "name": "net-snmp",
@@ -3114,12 +3072,6 @@
     "license": "GPL-2.0-or-later"
   },
   {
-    "name": "oprofile",
-    "version": "1.4.0",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/oprofile/oprofile-1.4.0.tar.gz",
-    "license": ""
-  },
-  {
     "name": "optee",
     "version": "4.4.0",
     "upstream_urls": "https://github.com/OP-TEE/optee_os/archive/4.4.0.tar.gz",
@@ -3226,12 +3178,6 @@
     "version": "0.0.1",
     "upstream_urls": "http://www.pengutronix.de/software/pelts/download/utils/pelts_tests-0.0.1.tar.bz2",
     "license": ""
-  },
-  {
-    "name": "perl",
-    "version": "5.18.2",
-    "upstream_urls": "http://cpan.perl.org/src/5.0/perl-5.18.2.tar.gz",
-    "license": "GPL-1.0-only"
   },
   {
     "name": "php8",
@@ -3346,12 +3292,6 @@
     "version": "4.0.5",
     "upstream_urls": "http://downloads.sourceforge.net/sourceforge/procps-ng/Production/procps-ng-4.0.5.tar.xz",
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
-  },
-  {
-    "name": "proftpd",
-    "version": "1.3.5",
-    "upstream_urls": "ftp://ftp.proftpd.org/distrib/source/proftpd-1.3.5.tar.gz",
-    "license": ""
   },
   {
     "name": "protobuf",
@@ -4039,8 +3979,8 @@
   },
   {
     "name": "qrencode",
-    "version": "3.4.4",
-    "upstream_urls": "https://fukuchi.org/works/qrencode/qrencode-3.4.4.tar.gz",
+    "version": "4.1.1",
+    "upstream_urls": "https://github.com/fukuchi/libqrencode/archive/refs/tags/v4.1.1.tar.gz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -4189,8 +4129,8 @@
   },
   {
     "name": "screen",
-    "version": "5.0.0",
-    "upstream_urls": "https://ftp.gnu.org/gnu/screen/screen-5.0.0.tar.gz https://ftpmirror.gnu.org/screen/screen-5.0.0.tar.gz",
+    "version": "5.0.1",
+    "upstream_urls": "https://ftp.gnu.org/gnu/screen/screen-5.0.1.tar.gz https://ftpmirror.gnu.org/screen/screen-5.0.1.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -4354,12 +4294,6 @@
     "version": "1.7.3.2",
     "upstream_urls": "http://www.dest-unreach.org/socat/download/socat-1.7.3.2.tar.gz http://www.dest-unreach.org/socat/download/Archive/socat-1.7.3.2.tar.gz",
     "license": "GPL-2.0-only"
-  },
-  {
-    "name": "socket6-perl",
-    "version": "0.25",
-    "upstream_urls": "http://cpan.metacpan.org/authors/id/U/UM/UMEMOTO/Socket6-0.25.tar.gz",
-    "license": "unknown"
   },
   {
     "name": "sockperf",
@@ -4537,8 +4471,8 @@
   },
   {
     "name": "systemd",
-    "version": "257.3",
-    "upstream_urls": "https://github.com/systemd/systemd/archive/v257.3.tar.gz",
+    "version": "257.5",
+    "upstream_urls": "https://github.com/systemd/systemd/archive/v257.5.tar.gz",
     "license": "GPL-2.0-or-later AND LGPL-2.1-only"
   },
   {
@@ -4681,8 +4615,8 @@
   },
   {
     "name": "u-boot-tools",
-    "version": "2020.07",
-    "upstream_urls": "https://ftp.denx.de/pub/u-boot/u-boot-2020.07.tar.bz2",
+    "version": "2025.04",
+    "upstream_urls": "https://ftp.denx.de/pub/u-boot/u-boot-2025.04.tar.bz2",
     "license": "GPL-2.0-or-later AND Zlib"
   },
   {
@@ -4702,12 +4636,6 @@
     "version": "2.5.0",
     "upstream_urls": "https://github.com/mvp/uhubctl/archive/v2.5.0.tar.gz",
     "license": "GPL-2.0-only"
-  },
-  {
-    "name": "unixbench",
-    "version": "5.1.2",
-    "upstream_urls": "https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/byte-unixbench/unixbench-5.1.2.tar.gz",
-    "license": "unknown"
   },
   {
     "name": "unzip",
