@@ -307,9 +307,9 @@
   },
   {
     "name": "c-ares",
-    "version": "1.19.0",
-    "upstream_urls": "https://github.com/c-ares/c-ares/releases/download/cares-1_19_0/c-ares-1.19.0.tar.gz",
-    "license": "MIT"
+    "version": "1.34.5",
+    "upstream_urls": "https://github.com/c-ares/c-ares/releases/download/v1.34.5/c-ares-1.34.5.tar.gz",
+    "license": "MIT AND BSD-3-Clause"
   },
   {
     "name": "ca-certificates",
@@ -529,8 +529,8 @@
   },
   {
     "name": "dbus-glib",
-    "version": "0.104",
-    "upstream_urls": "http://dbus.freedesktop.org/releases/dbus-glib/dbus-glib-0.104.tar.gz",
+    "version": "0.114",
+    "upstream_urls": "http://dbus.freedesktop.org/releases/dbus-glib/dbus-glib-0.114.tar.gz",
     "license": "AFL-2.1 AND GPL-2.0-or-later"
   },
   {
@@ -973,8 +973,8 @@
   },
   {
     "name": "gnutls",
-    "version": "3.7.11",
-    "upstream_urls": "https://www.gnupg.org/ftp/gcrypt/gnutls/v3.7/gnutls-3.7.11.tar.xz",
+    "version": "3.8.9",
+    "upstream_urls": "https://www.gnupg.org/ftp/gcrypt/gnutls/v3.8/gnutls-3.8.9.tar.xz",
     "license": "LGPL-3.0-or-later"
   },
   {
@@ -1315,8 +1315,8 @@
   },
   {
     "name": "iproute2",
-    "version": "6.14.0",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.14.0.tar.xz https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.14.0.tar.xz",
+    "version": "6.15.0",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.15.0.tar.xz https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.15.0.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -1363,8 +1363,8 @@
   },
   {
     "name": "jq",
-    "version": "1.7.1",
-    "upstream_urls": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-1.7.1.tar.gz",
+    "version": "1.8.0",
+    "upstream_urls": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-1.8.0.tar.gz",
     "license": "MIT AND CC-BY-3.0 AND ICU"
   },
   {
@@ -1615,8 +1615,8 @@
   },
   {
     "name": "libcurl",
-    "version": "8.13.0",
-    "upstream_urls": "https://curl.se/download/curl-8.13.0.tar.xz",
+    "version": "8.14.0",
+    "upstream_urls": "https://curl.se/download/curl-8.14.0.tar.xz",
     "license": "curl"
   },
   {
@@ -2046,6 +2046,12 @@
     "license": "BSD-3-Clause"
   },
   {
+    "name": "libonig",
+    "version": "6.9.10",
+    "upstream_urls": "https://github.com/kkos/oniguruma/releases/download/v6.9.10/onig-6.9.10.tar.gz",
+    "license": "BSD-2-Clause"
+  },
+  {
     "name": "liboop",
     "version": "1.0.1",
     "upstream_urls": "http://ftp.lysator.liu.se/pub/liboop/liboop-1.0.1.tar.gz",
@@ -2054,7 +2060,7 @@
   {
     "name": "liboping",
     "version": "1.10.0",
-    "upstream_urls": "http://verplant.org/liboping/files/liboping-1.10.0.tar.gz",
+    "upstream_urls": "https://noping.cc/files/liboping-1.10.0.tar.gz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -2071,8 +2077,8 @@
   },
   {
     "name": "libp11",
-    "version": "0.4.12",
-    "upstream_urls": "https://github.com/OpenSC/libp11/releases/download/libp11-0.4.12/libp11-0.4.12.tar.gz",
+    "version": "0.4.14",
+    "upstream_urls": "https://github.com/OpenSC/libp11/releases/download/libp11-0.4.14/libp11-0.4.14.tar.gz",
     "license": "LGPL-2.1-only"
   },
   {
@@ -2166,12 +2172,6 @@
     "license": "LGPL-2.1-only"
   },
   {
-    "name": "libsepol",
-    "version": "2.1.8",
-    "upstream_urls": "https://raw.githubusercontent.com/wiki/SELinuxProject/selinux/files/releases/20120924/libsepol-2.1.8.tar.gz",
-    "license": "LGPL-2.1-or-later"
-  },
-  {
     "name": "libserialport",
     "version": "0.1.1",
     "upstream_urls": "http://sigrok.org/download/source/libserialport/libserialport-0.1.1.tar.gz",
@@ -2191,8 +2191,8 @@
   },
   {
     "name": "libslirp",
-    "version": "4.9.0",
-    "upstream_urls": "https://gitlab.freedesktop.org/slirp/libslirp/-/archive/v4.9.0/libslirp-v4.9.0.tar.bz2",
+    "version": "4.9.1",
+    "upstream_urls": "https://gitlab.freedesktop.org/slirp/libslirp/-/archive/v4.9.1/libslirp-v4.9.1.tar.bz2",
     "license": "BSD-3-Clause AND MIT"
   },
   {
@@ -2229,7 +2229,7 @@
     "name": "libssh2",
     "version": "1.11.1",
     "upstream_urls": "http://www.libssh2.org/download/libssh2-1.11.1.tar.gz",
-    "license": ""
+    "license": "BSD-3-Clause AND MIT AND SAX-PD-2.0 AND BSD-2-Clause"
   },
   {
     "name": "libsysfs",
@@ -2305,8 +2305,8 @@
   },
   {
     "name": "libunwind",
-    "version": "1.8.1",
-    "upstream_urls": "https://github.com/libunwind/libunwind/releases/download/v1.8.1/libunwind-1.8.1.tar.gz",
+    "version": "1.8.2",
+    "upstream_urls": "https://github.com/libunwind/libunwind/releases/download/v1.8.2/libunwind-1.8.2.tar.gz",
     "license": "MIT"
   },
   {
@@ -2419,8 +2419,8 @@
   },
   {
     "name": "libxkbcommon",
-    "version": "1.9.2",
-    "upstream_urls": "https://github.com/xkbcommon/libxkbcommon/archive/refs/tags/xkbcommon-1.9.2.tar.gz",
+    "version": "1.10.0",
+    "upstream_urls": "https://github.com/xkbcommon/libxkbcommon/archive/refs/tags/xkbcommon-1.10.0.tar.gz",
     "license": "MIT AND MIT-open-group AND X11 AND HPND AND HPND-sell-variant"
   },
   {
@@ -2611,8 +2611,8 @@
   },
   {
     "name": "mariadb",
-    "version": "11.4.4",
-    "upstream_urls": "https://archive.mariadb.org/mariadb-11.4.4/source/mariadb-11.4.4.tar.gz",
+    "version": "11.4.7",
+    "upstream_urls": "https://archive.mariadb.org/mariadb-11.4.7/source/mariadb-11.4.7.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -2671,8 +2671,8 @@
   },
   {
     "name": "mesalib",
-    "version": "25.0.6",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.0.6.tar.xz",
+    "version": "25.1.1",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.1.1.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -2917,8 +2917,8 @@
   },
   {
     "name": "nodejs",
-    "version": "v20.18.1",
-    "upstream_urls": "http://nodejs.org/dist/v20.18.1/node-v20.18.1.tar.xz",
+    "version": "v20.19.2",
+    "upstream_urls": "http://nodejs.org/dist/v20.19.2/node-v20.19.2.tar.xz",
     "license": "MIT AND ISC AND BSD-3-Clause AND BSD-2-Clause AND Apache-2.0 AND Unicode-3.0 and NAIST-2003"
   },
   {
@@ -3043,14 +3043,14 @@
   },
   {
     "name": "opensc",
-    "version": "0.23.0",
-    "upstream_urls": "https://github.com/OpenSC/OpenSC/releases/download/0.23.0/OpenSC-0.23.0.tar.gz",
+    "version": "0.26.1",
+    "upstream_urls": "https://github.com/OpenSC/OpenSC/releases/download/0.26.1/OpenSC-0.26.1.tar.gz",
     "license": "LGPL-2.1-or-later AND Expat AND ISC"
   },
   {
     "name": "openssh",
-    "version": "10.0p1",
-    "upstream_urls": "https://ftp.halifax.rwth-aachen.de/openbsd/OpenSSH/portable/openssh-10.0p1.tar.gz https://mirror.hs-esslingen.de/pub/OpenBSD/OpenSSH/portable/openssh-10.0p1.tar.gz https://ftp.lysator.liu.se/pub/OpenBSD/OpenSSH/portable/openssh-10.0p1.tar.gz",
+    "version": "10.0p2",
+    "upstream_urls": "https://ftp.halifax.rwth-aachen.de/openbsd/OpenSSH/portable/openssh-10.0p2.tar.gz https://mirror.hs-esslingen.de/pub/OpenBSD/OpenSSH/portable/openssh-10.0p2.tar.gz https://ftp.lysator.liu.se/pub/OpenBSD/OpenSSH/portable/openssh-10.0p2.tar.gz",
     "license": "BSD AND BSD-2-Clause AND BSD-3-Clause AND MIT AND Beerware AND ISC"
   },
   {
@@ -3115,8 +3115,8 @@
   },
   {
     "name": "p11-kit",
-    "version": "0.23.15",
-    "upstream_urls": "https://github.com/p11-glue/p11-kit/releases/download/0.23.15/p11-kit-0.23.15.tar.gz",
+    "version": "0.25.5",
+    "upstream_urls": "https://github.com/p11-glue/p11-kit/releases/download/0.25.5/p11-kit-0.25.5.tar.xz",
     "license": "BSD-3-Clause"
   },
   {
@@ -3259,8 +3259,8 @@
   },
   {
     "name": "postgresql",
-    "version": "13.3",
-    "upstream_urls": "https://ftp.postgresql.org/pub/source/v13.3/postgresql-13.3.tar.bz2",
+    "version": "13.21",
+    "upstream_urls": "https://ftp.postgresql.org/pub/source/v13.21/postgresql-13.21.tar.bz2",
     "license": "PostgreSQL"
   },
   {
@@ -3919,8 +3919,8 @@
   },
   {
     "name": "python3-tornado",
-    "version": "6.4.2",
-    "upstream_urls": "https://files.pythonhosted.org/packages/source/t/tornado/tornado-6.4.2.tar.gz",
+    "version": "6.5.1",
+    "upstream_urls": "https://files.pythonhosted.org/packages/source/t/tornado/tornado-6.5.1.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -3997,8 +3997,8 @@
   },
   {
     "name": "qemu",
-    "version": "10.0.0",
-    "upstream_urls": "https://download.qemu.org/qemu-10.0.0.tar.xz",
+    "version": "10.0.2",
+    "upstream_urls": "https://download.qemu.org/qemu-10.0.2.tar.xz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND MIT AND BSD-1-Clause AND BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -4429,8 +4429,8 @@
   },
   {
     "name": "strace",
-    "version": "6.14",
-    "upstream_urls": "https://strace.io/files/6.14/strace-6.14.tar.xz",
+    "version": "6.15",
+    "upstream_urls": "https://strace.io/files/6.15/strace-6.15.tar.xz",
     "license": "LGPL-2.1-or-later AND GPL-2.0-only WITH Linux-syscall-note"
   },
   {
@@ -4513,8 +4513,8 @@
   },
   {
     "name": "systemd-bootchart",
-    "version": "233",
-    "upstream_urls": "https://github.com/systemd/systemd-bootchart/releases/download/v233/systemd-bootchart-233.tar.xz",
+    "version": "235",
+    "upstream_urls": "https://github.com/systemd/systemd-bootchart/archive/refs/tags/v235.tar.gz",
     "license": "GPL-2.0-or-later AND LGPL-2.1-only"
   },
   {
