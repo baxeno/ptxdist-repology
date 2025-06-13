@@ -1201,8 +1201,8 @@
   },
   {
     "name": "hwdata",
-    "version": "0.395",
-    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.395.tar.gz",
+    "version": "0.396",
+    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.396.tar.gz",
     "license": "GPL-2.0-or-later OR XFree86-1.0"
   },
   {
@@ -1615,8 +1615,8 @@
   },
   {
     "name": "libcurl",
-    "version": "8.14.0",
-    "upstream_urls": "https://curl.se/download/curl-8.14.0.tar.xz",
+    "version": "8.14.1",
+    "upstream_urls": "https://curl.se/download/curl-8.14.1.tar.xz",
     "license": "curl"
   },
   {
@@ -1639,8 +1639,8 @@
   },
   {
     "name": "libdrm",
-    "version": "2.4.124",
-    "upstream_urls": "http://dri.freedesktop.org/libdrm/libdrm-2.4.124.tar.xz",
+    "version": "2.4.125",
+    "upstream_urls": "http://dri.freedesktop.org/libdrm/libdrm-2.4.125.tar.xz",
     "license": "MIT"
   },
   {
@@ -1729,8 +1729,8 @@
   },
   {
     "name": "libffi",
-    "version": "3.4.8",
-    "upstream_urls": "https://github.com/libffi/libffi/releases/download/v3.4.8/libffi-3.4.8.tar.gz",
+    "version": "3.5.1",
+    "upstream_urls": "https://github.com/libffi/libffi/releases/download/v3.5.1/libffi-3.5.1.tar.gz",
     "license": "MIT"
   },
   {
@@ -1837,8 +1837,8 @@
   },
   {
     "name": "libjpeg",
-    "version": "3.1.0",
-    "upstream_urls": "https://github.com/libjpeg-turbo/libjpeg-turbo/archive/refs/tags/3.1.0.tar.gz",
+    "version": "3.1.1",
+    "upstream_urls": "https://github.com/libjpeg-turbo/libjpeg-turbo/archive/refs/tags/3.1.1.tar.gz",
     "license": "IJG AND BSD-3-Clause"
   },
   {
@@ -2209,8 +2209,8 @@
   },
   {
     "name": "libsodium",
-    "version": "1.0.18",
-    "upstream_urls": "https://download.libsodium.org/libsodium/releases/libsodium-1.0.18.tar.gz",
+    "version": "1.0.20",
+    "upstream_urls": "https://download.libsodium.org/libsodium/releases/libsodium-1.0.20.tar.gz",
     "license": "ISC"
   },
   {
@@ -2323,8 +2323,8 @@
   },
   {
     "name": "libusb",
-    "version": "1.0.28",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libusb/libusb-1.0.28.tar.bz2",
+    "version": "1.0.29",
+    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libusb/libusb-1.0.29.tar.bz2",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -3205,8 +3205,8 @@
   },
   {
     "name": "pixman",
-    "version": "0.46.0",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/pixman-0.46.0.tar.xz https://xorg.freedesktop.org/releases/individual/lib/pixman-0.46.0.tar.xz",
+    "version": "0.46.2",
+    "upstream_urls": "https://ftp.x.org/archive/individual/lib/pixman-0.46.2.tar.xz https://xorg.freedesktop.org/releases/individual/lib/pixman-0.46.2.tar.xz",
     "license": "MIT"
   },
   {
@@ -3331,9 +3331,9 @@
   },
   {
     "name": "pureftpd",
-    "version": "1.0.36",
-    "upstream_urls": "http://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.36.tar.bz2 http://download.pureftpd.org/pub/pure-ftpd/releases/obsolete/pure-ftpd-1.0.36.tar.bz2",
-    "license": ""
+    "version": "1.0.52",
+    "upstream_urls": "http://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.52.tar.bz2 http://download.pureftpd.org/pub/pure-ftpd/releases/obsolete/pure-ftpd-1.0.52.tar.bz2",
+    "license": "ISC AND BSD-2-Clause AND BSD-3-Clause AND BSD-4-Clause"
   },
   {
     "name": "pv",
@@ -4195,8 +4195,8 @@
   },
   {
     "name": "sdl2",
-    "version": "2.32.4",
-    "upstream_urls": "https://www.libsdl.org/release/SDL2-2.32.4.tar.gz",
+    "version": "2.32.8",
+    "upstream_urls": "https://www.libsdl.org/release/SDL2-2.32.8.tar.gz",
     "license": "zlib"
   },
   {
@@ -4219,8 +4219,8 @@
   },
   {
     "name": "sdl2-test",
-    "version": "2.32.4",
-    "upstream_urls": "https://www.libsdl.org/release/SDL2-2.32.4.tar.gz",
+    "version": "2.32.8",
+    "upstream_urls": "https://www.libsdl.org/release/SDL2-2.32.8.tar.gz",
     "license": ""
   },
   {
