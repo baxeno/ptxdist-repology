@@ -367,8 +367,8 @@
   },
   {
     "name": "chrony",
-    "version": "4.6.1",
-    "upstream_urls": "https://chrony-project.org/releases/chrony-4.6.1.tar.gz",
+    "version": "4.7",
+    "upstream_urls": "https://chrony-project.org/releases/chrony-4.7.tar.gz",
     "license": "GPL-2.0-only AND RSA-MD"
   },
   {
@@ -919,8 +919,8 @@
   },
   {
     "name": "glib",
-    "version": "2.84.2",
-    "upstream_urls": "https://download.gnome.org/sources/glib/2.84/glib-2.84.2.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/glib/2.84/glib-2.84.2.tar.xz",
+    "version": "2.84.3",
+    "upstream_urls": "https://download.gnome.org/sources/glib/2.84/glib-2.84.3.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/glib/2.84/glib-2.84.3.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -1203,7 +1203,7 @@
     "name": "hwdata",
     "version": "0.396",
     "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.396.tar.gz",
-    "license": "GPL-2.0-or-later OR XFree86-1.0"
+    "license": "GPL-2.0-or-later OR X11"
   },
   {
     "name": "i2c-tools",
@@ -2425,8 +2425,8 @@
   },
   {
     "name": "libxml2",
-    "version": "2.14.3",
-    "upstream_urls": "https://download.gnome.org/sources/libxml2/2.14/libxml2-2.14.3.tar.xz",
+    "version": "2.14.4",
+    "upstream_urls": "https://download.gnome.org/sources/libxml2/2.14/libxml2-2.14.4.tar.xz",
     "license": "MIT AND ISC"
   },
   {
@@ -2671,8 +2671,8 @@
   },
   {
     "name": "mesalib",
-    "version": "25.1.1",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.1.1.tar.xz",
+    "version": "25.1.4",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.1.4.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -3001,8 +3001,8 @@
   },
   {
     "name": "openblas",
-    "version": "0.3.24",
-    "upstream_urls": "https://github.com/OpenMathLib/OpenBLAS/archive/refs/tags/v0.3.24.tar.gz",
+    "version": "0.3.29",
+    "upstream_urls": "https://github.com/OpenMathLib/OpenBLAS/archive/refs/tags/v0.3.29.tar.gz",
     "license": "BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -3127,9 +3127,9 @@
   },
   {
     "name": "paho-mqtt-cpp",
-    "version": "1.2.0",
-    "upstream_urls": "https://github.com/eclipse/paho.mqtt.cpp/archive/v1.2.0.tar.gz",
-    "license": "EPL-1.0 AND BSD-3-Clause"
+    "version": "1.5.3",
+    "upstream_urls": "https://github.com/eclipse/paho.mqtt.cpp/archive/v1.5.3.tar.gz",
+    "license": "EPL-2.0 AND BSD-3-Clause"
   },
   {
     "name": "pam",
@@ -3273,7 +3273,7 @@
     "name": "ppp",
     "version": "2.5.2",
     "upstream_urls": "https://www.samba.org/ftp/ppp/ppp-2.5.2.tar.gz",
-    "license": "BSD AND GPL-2.0-only"
+    "license": "BSD-3-Clause AND GPL-2.0-only AND Apache-2.0 AND BSD-4.3TAHOE AND BSD-Attribution-HPND-disclaimer AND Mackerras-3-Clause AND FSFAP AND (GPL-2.0-or-later OR BSD-4-Clause OR BSD-3-Clause OR BSD-2-Clause) AND GPL-2.0-or-later WITH Autoconf-exception-generic AND HPND-Fenneberg-Livingston AND UMich-Merit AND HPND-INRIA-IMAG AND ISC AND LGPL-2.1-or-later AND MIT AND Mackerras-3-Clause-acknowledgment AND public_domain AND Sun-PPP AND Sun-PPP-2000"
   },
   {
     "name": "pps-tools",
@@ -3601,8 +3601,8 @@
   },
   {
     "name": "python3-lxml",
-    "version": "5.3.0",
-    "upstream_urls": "https://files.pythonhosted.org/packages/source/l/lxml/lxml-5.3.0.tar.gz",
+    "version": "5.4.0",
+    "upstream_urls": "https://files.pythonhosted.org/packages/source/l/lxml/lxml-5.4.0.tar.gz",
     "license": "BSD"
   },
   {
@@ -3705,7 +3705,7 @@
     "name": "python3-ply",
     "version": "3.11",
     "upstream_urls": "https://files.pythonhosted.org/packages/source/p/ply/ply-3.11.tar.gz",
-    "license": "BSD"
+    "license": "BSD-3-Clause"
   },
   {
     "name": "python3-posix_ipc",
@@ -3963,7 +3963,7 @@
     "name": "python3-websockets",
     "version": "6.0",
     "upstream_urls": "https://github.com/aaugustin/websockets/archive/6.0.tar.gz",
-    "license": "BSD"
+    "license": "BSD-3-Clause"
   },
   {
     "name": "python3-werkzeug",
@@ -4831,8 +4831,8 @@
   },
   {
     "name": "wayland-protocols",
-    "version": "1.44",
-    "upstream_urls": "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.44/downloads/wayland-protocols-1.44.tar.xz",
+    "version": "1.45",
+    "upstream_urls": "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.45/downloads/wayland-protocols-1.45.tar.xz",
     "license": "MIT"
   },
   {
