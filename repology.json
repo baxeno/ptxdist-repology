@@ -313,8 +313,8 @@
   },
   {
     "name": "ca-certificates",
-    "version": "NSS_3_110_RTM",
-    "upstream_urls": "https://hg.mozilla.org/projects/nss/raw-file/NSS_3_110_RTM/lib/ckfw/builtins/certdata.txt",
+    "version": "NSS_3_113_RTM",
+    "upstream_urls": "https://hg.mozilla.org/projects/nss/raw-file/NSS_3_113_RTM/lib/ckfw/builtins/certdata.txt",
     "license": "MPL-2.0"
   },
   {
@@ -691,8 +691,8 @@
   },
   {
     "name": "ethtool",
-    "version": "6.14",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/../software/network/ethtool/ethtool-6.14.tar.xz https://www.kernel.org/pub/linux/../software/network/ethtool/ethtool-6.14.tar.xz",
+    "version": "6.15",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/../software/network/ethtool/ethtool-6.15.tar.xz https://www.kernel.org/pub/linux/../software/network/ethtool/ethtool-6.15.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -1039,32 +1039,32 @@
   },
   {
     "name": "gst-devtools1",
-    "version": "1.26.1",
-    "upstream_urls": "https://gstreamer.freedesktop.org/data/src/gst-devtools/gst-devtools-1.26.1.tar.xz",
+    "version": "1.26.3",
+    "upstream_urls": "https://gstreamer.freedesktop.org/data/src/gst-devtools/gst-devtools-1.26.3.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-libav1",
-    "version": "1.26.1",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.26.1.tar.xz",
+    "version": "1.26.3",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.26.3.tar.xz",
     "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
   },
   {
     "name": "gst-plugins-bad1",
-    "version": "1.26.1",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-bad/gst-plugins-bad-1.26.1.tar.xz",
+    "version": "1.26.3",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-bad/gst-plugins-bad-1.26.3.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-plugins-base1",
-    "version": "1.26.1",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-1.26.1.tar.xz",
+    "version": "1.26.3",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-1.26.3.tar.xz",
     "license": "LGPL-2.0-or-later AND BSD-3-Clause AND MIT"
   },
   {
     "name": "gst-plugins-good1",
-    "version": "1.26.1",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-1.26.1.tar.xz",
+    "version": "1.26.3",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-1.26.3.tar.xz",
     "license": "LGPL-2.1-or-later AND BSD-3-Clause AND MIT"
   },
   {
@@ -1075,32 +1075,32 @@
   },
   {
     "name": "gst-plugins-ugly1",
-    "version": "1.26.1",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.26.1.tar.xz",
+    "version": "1.26.3",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.26.3.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-python1",
-    "version": "1.26.1",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-python/gst-python-1.26.1.tar.xz",
+    "version": "1.26.3",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-python/gst-python-1.26.3.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-rtsp-server1",
-    "version": "1.26.1",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-rtsp/gst-rtsp-server-1.26.1.tar.xz",
+    "version": "1.26.3",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-rtsp/gst-rtsp-server-1.26.3.tar.xz",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer-vaapi1",
-    "version": "1.26.1",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gstreamer-vaapi/gstreamer-vaapi-1.26.1.tar.xz",
+    "version": "1.26.3",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gstreamer-vaapi/gstreamer-vaapi-1.26.3.tar.xz",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer1",
-    "version": "1.26.1",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gstreamer/gstreamer-1.26.1.tar.xz",
+    "version": "1.26.3",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gstreamer/gstreamer-1.26.3.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -1201,8 +1201,8 @@
   },
   {
     "name": "hwdata",
-    "version": "0.396",
-    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.396.tar.gz",
+    "version": "0.397",
+    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.397.tar.gz",
     "license": "GPL-2.0-or-later OR X11"
   },
   {
@@ -2473,8 +2473,8 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20250509",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250509.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250509.tar.gz",
+    "version": "20250627",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250627.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250627.tar.gz",
     "license": "proprietary"
   },
   {
@@ -2935,8 +2935,8 @@
   },
   {
     "name": "nss",
-    "version": "3.110",
-    "upstream_urls": "https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_110_RTM/src/nss-3.110.tar.gz",
+    "version": "3.113",
+    "upstream_urls": "https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_113_RTM/src/nss-3.113.tar.gz",
     "license": "MPL-2.0"
   },
   {
@@ -3055,8 +3055,8 @@
   },
   {
     "name": "openssl",
-    "version": "3.5.0",
-    "upstream_urls": "https://github.com/openssl/openssl/releases/download/openssl-3.5.0/openssl-3.5.0.tar.gz https://www.openssl.org/source/openssl-3.5.0.tar.gz https://www.openssl.org/source/old/3.5/openssl-3.5.0.tar.gz",
+    "version": "3.5.1",
+    "upstream_urls": "https://github.com/openssl/openssl/releases/download/openssl-3.5.1/openssl-3.5.1.tar.gz https://www.openssl.org/source/openssl-3.5.1.tar.gz https://www.openssl.org/source/old/3.5/openssl-3.5.1.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -3073,26 +3073,26 @@
   },
   {
     "name": "optee",
-    "version": "4.4.0",
-    "upstream_urls": "https://github.com/OP-TEE/optee_os/archive/4.4.0.tar.gz",
+    "version": "4.6.0",
+    "upstream_urls": "https://github.com/OP-TEE/optee_os/archive/4.6.0.tar.gz",
     "license": "BSD-2-Clause AND BSD-3-Clause"
   },
   {
     "name": "optee-client",
-    "version": "4.4.0",
-    "upstream_urls": "https://github.com/OP-TEE/optee_client/archive/4.4.0.tar.gz",
+    "version": "4.6.0",
+    "upstream_urls": "https://github.com/OP-TEE/optee_client/archive/4.6.0.tar.gz",
     "license": "BSD-2-Clause"
   },
   {
     "name": "optee-examples",
-    "version": "4.4.0",
-    "upstream_urls": "https://github.com/linaro-swg/optee_examples/archive/4.4.0.tar.gz",
+    "version": "4.6.0",
+    "upstream_urls": "https://github.com/linaro-swg/optee_examples/archive/4.6.0.tar.gz",
     "license": "BSD-2-Clause"
   },
   {
     "name": "optee-test",
-    "version": "4.4.0",
-    "upstream_urls": "https://github.com/OP-TEE/optee_test/archive/4.4.0.tar.gz",
+    "version": "4.6.0",
+    "upstream_urls": "https://github.com/OP-TEE/optee_test/archive/4.6.0.tar.gz",
     "license": "BSD-2-Clause and GPL-2.0"
   },
   {
@@ -3151,8 +3151,8 @@
   },
   {
     "name": "pciutils",
-    "version": "3.13.0",
-    "upstream_urls": "https://github.com/pciutils/pciutils/archive/refs/tags/v3.13.0.tar.gz",
+    "version": "3.14.0",
+    "upstream_urls": "https://github.com/pciutils/pciutils/archive/refs/tags/v3.14.0.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -3218,7 +3218,7 @@
   {
     "name": "platsch",
     "version": "v2024.08.0",
-    "upstream_urls": "https://github.com/pengutronix/platsch/archive/refs/tags//v2024.08.0.tar.gz",
+    "upstream_urls": "https://github.com/pengutronix/platsch/archive/refs/tags/v2024.08.0.tar.gz",
     "license": "0BSD"
   },
   {
@@ -4459,8 +4459,8 @@
   },
   {
     "name": "sudo",
-    "version": "1.9.15p5",
-    "upstream_urls": "https://www.sudo.ws/sudo/dist/sudo-1.9.15p5.tar.gz https://www.sudo.ws/sudo/dist/OLD/sudo-1.9.15p5.tar.gz",
+    "version": "1.9.17p1",
+    "upstream_urls": "https://www.sudo.ws/sudo/dist/sudo-1.9.17p1.tar.gz https://www.sudo.ws/sudo/dist/OLD/sudo-1.9.17p1.tar.gz",
     "license": "ISC AND BSD-3-Clause AND BSD-2-Clause-NetBSD AND Zlib"
   },
   {
@@ -4723,8 +4723,8 @@
   },
   {
     "name": "util-linux",
-    "version": "2.41",
-    "upstream_urls": "https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git/snapshot/util-linux-2.41.tar.gz",
+    "version": "2.41.1",
+    "upstream_urls": "https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git/snapshot/util-linux-2.41.1.tar.gz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND BSD-4-Clause AND MIT AND ISC AND public_domain"
   },
   {
