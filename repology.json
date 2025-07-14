@@ -169,14 +169,14 @@
   },
   {
     "name": "bash",
-    "version": "5.2.37",
-    "upstream_urls": "https://ftp.gnu.org/gnu/bash/bash-5.2.37.tar.gz https://ftpmirror.gnu.org/bash/bash-5.2.37.tar.gz",
+    "version": "5.3",
+    "upstream_urls": "https://ftp.gnu.org/gnu/bash/bash-5.3.tar.gz https://ftpmirror.gnu.org/bash/bash-5.3.tar.gz",
     "license": "GPL-3.0-or-later"
   },
   {
     "name": "batctl",
-    "version": "2024.3",
-    "upstream_urls": "https://downloads.open-mesh.org/batman/stable/sources/batctl/batctl-2024.3.tar.gz",
+    "version": "2025.2",
+    "upstream_urls": "https://downloads.open-mesh.org/batman/stable/sources/batctl/batctl-2025.2.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -414,6 +414,12 @@
     "license": "GPL-2.0-only"
   },
   {
+    "name": "composefs",
+    "version": "1.0.8",
+    "upstream_urls": "https://github.com/composefs/composefs/releases/download/v1.0.8/composefs-1.0.8.tar.xz",
+    "license": "(GPL-2.0-or-later OR Apache-2.0) AND LGPL-2.1-or-later"
+  },
+  {
     "name": "connman",
     "version": "1.35",
     "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/network/connman/connman-1.35.tar.gz https://www.kernel.org/pub/linux/network/connman/connman-1.35.tar.gz",
@@ -577,8 +583,8 @@
   },
   {
     "name": "dnsmasq",
-    "version": "2.89",
-    "upstream_urls": "https://thekelleys.org.uk/dnsmasq/dnsmasq-2.89.tar.xz",
+    "version": "2.91",
+    "upstream_urls": "https://thekelleys.org.uk/dnsmasq/dnsmasq-2.91.tar.xz",
     "license": "GPL-2.0-only OR GPL-3.0-only"
   },
   {
@@ -631,8 +637,8 @@
   },
   {
     "name": "e2fsprogs",
-    "version": "1.47.2",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.47.2/e2fsprogs-1.47.2.tar.gz https://www.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.47.2/e2fsprogs-1.47.2.tar.gz",
+    "version": "1.47.3",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.47.3/e2fsprogs-1.47.3.tar.gz https://www.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.47.3/e2fsprogs-1.47.3.tar.gz",
     "license": "GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND MIT"
   },
   {
@@ -1483,8 +1489,8 @@
   },
   {
     "name": "libarchive",
-    "version": "3.7.4",
-    "upstream_urls": "https://www.libarchive.org/downloads/libarchive-3.7.4.tar.gz",
+    "version": "3.8.1",
+    "upstream_urls": "https://www.libarchive.org/downloads/libarchive-3.8.1.tar.gz",
     "license": "BSD-2-Clause AND BSD-3-Clause AND public_domain AND (CC-0-1.0 OR OpenSSL OR Apache-2.0)"
   },
   {
@@ -2113,8 +2119,8 @@
   },
   {
     "name": "libpng",
-    "version": "1.6.48",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libpng/libpng-1.6.48.tar.xz",
+    "version": "1.6.50",
+    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libpng/libpng-1.6.50.tar.xz",
     "license": "libpng-2.0"
   },
   {
@@ -4051,8 +4057,8 @@
   },
   {
     "name": "rauc",
-    "version": "1.13",
-    "upstream_urls": "https://github.com/rauc/rauc/releases/download/v1.13/rauc-1.13.tar.xz",
+    "version": "1.14",
+    "upstream_urls": "https://github.com/rauc/rauc/releases/download/v1.14/rauc-1.14.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -4507,8 +4513,8 @@
   },
   {
     "name": "systemd",
-    "version": "257.5",
-    "upstream_urls": "https://github.com/systemd/systemd/archive/v257.5.tar.gz",
+    "version": "257.7",
+    "upstream_urls": "https://github.com/systemd/systemd/archive/v257.7.tar.gz",
     "license": "GPL-2.0-or-later AND LGPL-2.1-only"
   },
   {
@@ -4825,8 +4831,8 @@
   },
   {
     "name": "wayland",
-    "version": "1.23.1",
-    "upstream_urls": "https://gitlab.freedesktop.org/wayland/wayland/-/releases/1.23.1/downloads/wayland-1.23.1.tar.xz",
+    "version": "1.24.0",
+    "upstream_urls": "https://gitlab.freedesktop.org/wayland/wayland/-/releases/1.24.0/downloads/wayland-1.24.0.tar.xz",
     "license": "MIT"
   },
   {
