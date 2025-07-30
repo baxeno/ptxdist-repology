@@ -1045,32 +1045,32 @@
   },
   {
     "name": "gst-devtools1",
-    "version": "1.26.3",
-    "upstream_urls": "https://gstreamer.freedesktop.org/data/src/gst-devtools/gst-devtools-1.26.3.tar.xz",
+    "version": "1.26.4",
+    "upstream_urls": "https://gstreamer.freedesktop.org/data/src/gst-devtools/gst-devtools-1.26.4.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-libav1",
-    "version": "1.26.3",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.26.3.tar.xz",
+    "version": "1.26.4",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.26.4.tar.xz",
     "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
   },
   {
     "name": "gst-plugins-bad1",
-    "version": "1.26.3",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-bad/gst-plugins-bad-1.26.3.tar.xz",
+    "version": "1.26.4",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-bad/gst-plugins-bad-1.26.4.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-plugins-base1",
-    "version": "1.26.3",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-1.26.3.tar.xz",
+    "version": "1.26.4",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-1.26.4.tar.xz",
     "license": "LGPL-2.0-or-later AND BSD-3-Clause AND MIT"
   },
   {
     "name": "gst-plugins-good1",
-    "version": "1.26.3",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-1.26.3.tar.xz",
+    "version": "1.26.4",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-1.26.4.tar.xz",
     "license": "LGPL-2.1-or-later AND BSD-3-Clause AND MIT"
   },
   {
@@ -1081,32 +1081,32 @@
   },
   {
     "name": "gst-plugins-ugly1",
-    "version": "1.26.3",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.26.3.tar.xz",
+    "version": "1.26.4",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.26.4.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-python1",
-    "version": "1.26.3",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-python/gst-python-1.26.3.tar.xz",
+    "version": "1.26.4",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-python/gst-python-1.26.4.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-rtsp-server1",
-    "version": "1.26.3",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-rtsp/gst-rtsp-server-1.26.3.tar.xz",
+    "version": "1.26.4",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-rtsp/gst-rtsp-server-1.26.4.tar.xz",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer-vaapi1",
-    "version": "1.26.3",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gstreamer-vaapi/gstreamer-vaapi-1.26.3.tar.xz",
+    "version": "1.26.4",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gstreamer-vaapi/gstreamer-vaapi-1.26.4.tar.xz",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer1",
-    "version": "1.26.3",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gstreamer/gstreamer-1.26.3.tar.xz",
+    "version": "1.26.4",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gstreamer/gstreamer-1.26.4.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -1621,8 +1621,8 @@
   },
   {
     "name": "libcurl",
-    "version": "8.14.1",
-    "upstream_urls": "https://curl.se/download/curl-8.14.1.tar.xz",
+    "version": "8.15.0",
+    "upstream_urls": "https://curl.se/download/curl-8.15.0.tar.xz",
     "license": "curl"
   },
   {
@@ -1783,8 +1783,8 @@
   },
   {
     "name": "libgpiod",
-    "version": "2.1.3",
-    "upstream_urls": "https://www.kernel.org/pub/software/libs/libgpiod/libgpiod-2.1.3.tar.gz",
+    "version": "2.2.2",
+    "upstream_urls": "https://www.kernel.org/pub/software/libs/libgpiod/libgpiod-2.2.2.tar.gz",
     "license": "LGPL-2.1-or-later AND GPL-2.0-only WITH Linux-syscall-note"
   },
   {
@@ -2431,8 +2431,8 @@
   },
   {
     "name": "libxml2",
-    "version": "2.14.4",
-    "upstream_urls": "https://download.gnome.org/sources/libxml2/2.14/libxml2-2.14.4.tar.xz",
+    "version": "2.14.5",
+    "upstream_urls": "https://download.gnome.org/sources/libxml2/2.14/libxml2-2.14.5.tar.xz",
     "license": "MIT AND ISC"
   },
   {
@@ -2479,8 +2479,8 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20250627",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250627.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250627.tar.gz",
+    "version": "20250708",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250708.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250708.tar.gz",
     "license": "proprietary"
   },
   {
@@ -2677,8 +2677,8 @@
   },
   {
     "name": "mesalib",
-    "version": "25.1.4",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.1.4.tar.xz",
+    "version": "25.1.6",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.1.6.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -3211,8 +3211,8 @@
   },
   {
     "name": "pixman",
-    "version": "0.46.2",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/pixman-0.46.2.tar.xz https://xorg.freedesktop.org/releases/individual/lib/pixman-0.46.2.tar.xz",
+    "version": "0.46.4",
+    "upstream_urls": "https://ftp.x.org/archive/individual/lib/pixman-0.46.4.tar.xz https://xorg.freedesktop.org/releases/individual/lib/pixman-0.46.4.tar.xz",
     "license": "MIT"
   },
   {
@@ -4021,8 +4021,8 @@
   },
   {
     "name": "qt5",
-    "version": "5.15.16",
-    "upstream_urls": "http://download.qt-project.org/archive/qt/5.15/5.15.16/single/qt-everywhere-opensource-src-5.15.16.tar.xz http://download.qt-project.org/development_releases/qt/5.15/5.15.16/single/qt-everywhere-opensource-src-5.15.16.tar.xz",
+    "version": "5.15.17",
+    "upstream_urls": "http://download.qt-project.org/archive/qt/5.15/5.15.17/single/qt-everywhere-opensource-src-5.15.17.tar.xz http://download.qt-project.org/development_releases/qt/5.15/5.15.17/single/qt-everywhere-opensource-src-5.15.17.tar.xz",
     "license": "(LGPL-3.0-only OR GPL-2.0-only) AND GFDL-1.3-only"
   },
   {
@@ -4063,8 +4063,8 @@
   },
   {
     "name": "rauc-hawkbit-updater",
-    "version": "1.2",
-    "upstream_urls": "https://github.com/rauc/rauc-hawkbit-updater/releases/download/v1.2/rauc-hawkbit-updater-1.2.tar.gz",
+    "version": "1.4",
+    "upstream_urls": "https://github.com/rauc/rauc-hawkbit-updater/releases/download/v1.4/rauc-hawkbit-updater-1.4.tar.xz",
     "license": "LGPL-2.1-only"
   },
   {
@@ -5587,8 +5587,8 @@
   },
   {
     "name": "xorg-lib-xrender",
-    "version": "0.9.10",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXrender-0.9.10.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXrender-0.9.10.tar.bz2",
+    "version": "0.9.12",
+    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXrender-0.9.12.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libXrender-0.9.12.tar.xz",
     "license": "MIT"
   },
   {
