@@ -367,8 +367,8 @@
   },
   {
     "name": "chrony",
-    "version": "4.7",
-    "upstream_urls": "https://chrony-project.org/releases/chrony-4.7.tar.gz",
+    "version": "4.8",
+    "upstream_urls": "https://chrony-project.org/releases/chrony-4.8.tar.gz",
     "license": "GPL-2.0-only AND RSA-MD"
   },
   {
@@ -1207,8 +1207,8 @@
   },
   {
     "name": "hwdata",
-    "version": "0.398",
-    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.398.tar.gz",
+    "version": "0.399",
+    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.399.tar.gz",
     "license": "GPL-2.0-or-later OR X11"
   },
   {
@@ -1237,8 +1237,8 @@
   },
   {
     "name": "igt-gpu-tools",
-    "version": "2.0",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/igt-gpu-tools-2.0.tar.xz https://xorg.freedesktop.org/releases/individual/app/igt-gpu-tools-2.0.tar.xz",
+    "version": "2.1",
+    "upstream_urls": "https://ftp.x.org/archive/individual/app/igt-gpu-tools-2.1.tar.xz https://xorg.freedesktop.org/releases/individual/app/igt-gpu-tools-2.1.tar.xz",
     "license": "MIT AND ISC"
   },
   {
@@ -1339,8 +1339,8 @@
   },
   {
     "name": "iw",
-    "version": "6.9",
-    "upstream_urls": "https://www.kernel.org/pub/software/network/iw/iw-6.9.tar.xz",
+    "version": "6.17",
+    "upstream_urls": "https://www.kernel.org/pub/software/network/iw/iw-6.17.tar.xz",
     "license": "ISC"
   },
   {
@@ -1843,8 +1843,8 @@
   },
   {
     "name": "libjpeg",
-    "version": "3.1.1",
-    "upstream_urls": "https://github.com/libjpeg-turbo/libjpeg-turbo/archive/refs/tags/3.1.1.tar.gz",
+    "version": "3.1.2",
+    "upstream_urls": "https://github.com/libjpeg-turbo/libjpeg-turbo/archive/refs/tags/3.1.2.tar.gz",
     "license": "IJG AND BSD-3-Clause"
   },
   {
@@ -1879,8 +1879,8 @@
   },
   {
     "name": "libltdl",
-    "version": "2.5.3",
-    "upstream_urls": "https://ftp.gnu.org/gnu/libtool/libtool-2.5.3.tar.gz https://ftpmirror.gnu.org/libtool/libtool-2.5.3.tar.gz",
+    "version": "2.5.4",
+    "upstream_urls": "https://ftp.gnu.org/gnu/libtool/libtool-2.5.4.tar.gz https://ftpmirror.gnu.org/libtool/libtool-2.5.4.tar.gz",
     "license": "LGPL-2.0-or-later"
   },
   {
@@ -2497,8 +2497,8 @@
   },
   {
     "name": "lldpd",
-    "version": "1.0.13",
-    "upstream_urls": "http://media.luffy.cx/files/lldpd//lldpd-1.0.13.tar.gz",
+    "version": "1.0.19",
+    "upstream_urls": "http://media.luffy.cx/files/lldpd//lldpd-1.0.19.tar.gz",
     "license": "ISC"
   },
   {
@@ -3169,8 +3169,8 @@
   },
   {
     "name": "pcre2",
-    "version": "10.45",
-    "upstream_urls": "https://github.com/PCRE2Project/pcre2/releases/download/pcre2-10.45/pcre2-10.45.tar.bz2",
+    "version": "10.46",
+    "upstream_urls": "https://github.com/PCRE2Project/pcre2/releases/download/pcre2-10.46/pcre2-10.46.tar.bz2",
     "license": "BSD-3-Clause"
   },
   {
