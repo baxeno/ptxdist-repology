@@ -224,7 +224,7 @@
   {
     "name": "blktrace",
     "version": "1.2.0",
-    "upstream_urls": "https://brick.kernel.dk/snaps/blktrace-1.2.0.tar.bz2",
+    "upstream_urls": "https://git.kernel.org/pub/scm/linux/kernel/git/axboe/blktrace.git/snapshot/blktrace-1.2.0.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -266,7 +266,7 @@
   {
     "name": "bridge-utils",
     "version": "1.7.1",
-    "upstream_urls": "https://www.kernel.org/pub/linux/utils/net/bridge-utils/bridge-utils-1.7.1.tar.xz",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/net/bridge-utils/bridge-utils-1.7.1.tar.xz https://www.kernel.org/pub/linux/utils/net/bridge-utils/bridge-utils-1.7.1.tar.xz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -476,7 +476,7 @@
   {
     "name": "cryptsetup",
     "version": "2.7.4",
-    "upstream_urls": "https://www.kernel.org/pub/linux/utils/cryptsetup/v2.7/cryptsetup-2.7.4.tar.xz",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/cryptsetup/v2.7/cryptsetup-2.7.4.tar.xz https://www.kernel.org/pub/linux/utils/cryptsetup/v2.7/cryptsetup-2.7.4.tar.xz",
     "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
   },
   {
@@ -805,8 +805,8 @@
   },
   {
     "name": "fio",
-    "version": "3.32",
-    "upstream_urls": "https://brick.kernel.dk/snaps/fio-3.32.tar.gz",
+    "version": "3.41",
+    "upstream_urls": "https://github.com/axboe/fio/archive/refs/tags/fio-3.41.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -2078,7 +2078,7 @@
   {
     "name": "libosip2",
     "version": "3.6.0",
-    "upstream_urls": "http://ftp.gnu.org/gnu/osip/libosip2-3.6.0.tar.gz",
+    "upstream_urls": "https://ftp.gnu.org/gnu/osip/libosip2-3.6.0.tar.gz https://ftpmirror.gnu.org/osip/libosip2-3.6.0.tar.gz",
     "license": "LGPL"
   },
   {
@@ -2144,7 +2144,7 @@
   {
     "name": "libpwm",
     "version": "1.0-rc2",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/people/ukleinek/libpwm/libpwm-1.0-rc2.tar.xz",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/people/ukleinek/libpwm/libpwm-1.0-rc2.tar.xz https://www.kernel.org/pub/linux/kernel/people/ukleinek/libpwm/libpwm-1.0-rc2.tar.xz",
     "license": "LGPL-2.1-only AND 0BSD"
   },
   {
@@ -2438,7 +2438,7 @@
   {
     "name": "libxml2",
     "version": "2.15.0",
-    "upstream_urls": "https://download.gnome.org/sources/libxml2/2.15/libxml2-2.15.0.tar.xz",
+    "upstream_urls": "https://download.gnome.org/sources/libxml2/2.15/libxml2-2.15.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libxml2/2.15/libxml2-2.15.0.tar.xz",
     "license": "MIT AND ISC"
   },
   {
@@ -2450,7 +2450,7 @@
   {
     "name": "libxslt",
     "version": "1.1.42",
-    "upstream_urls": "https://download.gnome.org/sources/libxslt/1.1/libxslt-1.1.42.tar.xz",
+    "upstream_urls": "https://download.gnome.org/sources/libxslt/1.1/libxslt-1.1.42.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libxslt/1.1/libxslt-1.1.42.tar.xz",
     "license": "MIT"
   },
   {
@@ -4160,7 +4160,7 @@
   {
     "name": "sbc",
     "version": "1.3",
-    "upstream_urls": "https://www.kernel.org/pub/linux/bluetooth/sbc-1.3.tar.xz",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/bluetooth/sbc-1.3.tar.xz https://www.kernel.org/pub/linux/bluetooth/sbc-1.3.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -4724,7 +4724,7 @@
   {
     "name": "usbip",
     "version": "5.8",
-    "upstream_urls": "https://www.kernel.org/pub/linux/kernel/v5.x/linux-5.8.tar.xz",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/v5.x/linux-5.8.tar.xz https://www.kernel.org/pub/linux/kernel/v5.x/linux-5.8.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
