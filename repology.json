@@ -732,12 +732,6 @@
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
   },
   {
-    "name": "fake-overlayfs",
-    "version": "1.0",
-    "upstream_urls": "",
-    "license": ""
-  },
-  {
     "name": "fbgrab",
     "version": "1.3.1",
     "upstream_urls": "https://github.com/GunnarMonell/fbgrab/archive/1.3.1.tar.gz",
@@ -1462,12 +1456,6 @@
     "version": "2.16",
     "upstream_urls": "http://downloads.sourceforge.net/sourceforge/lcms/lcms2-2.16.tar.gz",
     "license": "MIT"
-  },
-  {
-    "name": "ldd",
-    "version": "2.7",
-    "upstream_urls": "",
-    "license": "LGPL-2.1-or-later"
   },
   {
     "name": "less",
@@ -4146,12 +4134,6 @@
     "license": "LGPL-2.1-or-later AND GPL-2.0-or-later"
   },
   {
-    "name": "rtps",
-    "version": "1.0",
-    "upstream_urls": "",
-    "license": "GPL-2.0-only"
-  },
-  {
     "name": "samba",
     "version": "4.14.6",
     "upstream_urls": "https://download.samba.org/pub/samba/stable/samba-4.14.6.tar.gz",
@@ -4594,12 +4576,6 @@
     "version": "2.3.0",
     "upstream_urls": "https://github.com/timescale/timescaledb/archive/2.3.0.tar.gz",
     "license": "Apache-2.0"
-  },
-  {
-    "name": "timezone",
-    "version": "1.0",
-    "upstream_urls": "",
-    "license": "public_domain"
   },
   {
     "name": "tiobench",
@@ -5115,12 +5091,6 @@
     "name": "xorg-app-xvinfo",
     "version": "1.1.4",
     "upstream_urls": "https://ftp.x.org/archive/individual/app/xvinfo-1.1.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/xvinfo-1.1.4.tar.bz2",
-    "license": ""
-  },
-  {
-    "name": "xorg-cursor",
-    "version": "0.0.1",
-    "upstream_urls": "",
     "license": ""
   },
   {
