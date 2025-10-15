@@ -79,8 +79,8 @@
   },
   {
     "name": "at-spi2-core",
-    "version": "2.52.0",
-    "upstream_urls": "https://download.gnome.org/sources/at-spi2-core/2.52/at-spi2-core-2.52.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/at-spi2-core/2.52/at-spi2-core-2.52.0.tar.xz",
+    "version": "2.58.1",
+    "upstream_urls": "https://download.gnome.org/sources/at-spi2-core/2.58/at-spi2-core-2.58.1.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/at-spi2-core/2.58/at-spi2-core-2.58.1.tar.xz",
     "license": "LGPL-2.0-or-later AND LGPL-2.1-or-later AND AFL-2.1"
   },
   {
@@ -241,8 +241,8 @@
   },
   {
     "name": "bluez",
-    "version": "5.77",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/bluetooth/bluez-5.77.tar.gz https://www.kernel.org/pub/linux/bluetooth/bluez-5.77.tar.gz",
+    "version": "5.84",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/bluetooth/bluez-5.84.tar.gz https://www.kernel.org/pub/linux/bluetooth/bluez-5.84.tar.gz",
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
   },
   {
@@ -259,8 +259,8 @@
   },
   {
     "name": "boost",
-    "version": "1_86_0",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/boost/boost_1_86_0.tar.bz2",
+    "version": "1_89_0",
+    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/boost/boost_1_89_0.tar.bz2",
     "license": "BSL-1.0"
   },
   {
@@ -727,9 +727,9 @@
   },
   {
     "name": "evtest",
-    "version": "1.35",
-    "upstream_urls": "https://gitlab.freedesktop.org/libevdev/evtest/-/archive/evtest-1.35/evtest-evtest-1.35.tar.bz2",
-    "license": "GPL-2.0-only"
+    "version": "1.36",
+    "upstream_urls": "https://gitlab.freedesktop.org/libevdev/evtest/-/archive/evtest-1.36/evtest-evtest-1.36.tar.bz2",
+    "license": "GPL-2.0-or-later"
   },
   {
     "name": "exfatprogs",
@@ -823,8 +823,8 @@
   },
   {
     "name": "flac",
-    "version": "1.3.3",
-    "upstream_urls": "http://downloads.xiph.org/releases/flac/flac-1.3.3.tar.xz",
+    "version": "1.5.0",
+    "upstream_urls": "http://downloads.xiph.org/releases/flac/flac-1.5.0.tar.xz",
     "license": "BSD-3-Clause AND GPL-2.0-or-later AND LGPL-2.0-or-later"
   },
   {
@@ -901,8 +901,8 @@
   },
   {
     "name": "gawk",
-    "version": "5.2.1",
-    "upstream_urls": "https://ftp.gnu.org/gnu/gawk/gawk-5.2.1.tar.xz https://ftpmirror.gnu.org/gawk/gawk-5.2.1.tar.xz",
+    "version": "5.3.2",
+    "upstream_urls": "https://ftp.gnu.org/gnu/gawk/gawk-5.3.2.tar.xz https://ftpmirror.gnu.org/gawk/gawk-5.3.2.tar.xz",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -973,8 +973,8 @@
   },
   {
     "name": "glslang",
-    "version": "1.4.328.0",
-    "upstream_urls": "https://github.com/KhronosGroup/glslang/archive/vulkan-sdk-1.4.328.0.tar.gz",
+    "version": "1.4.328.1",
+    "upstream_urls": "https://github.com/KhronosGroup/glslang/archive/vulkan-sdk-1.4.328.1.tar.gz",
     "license": "BSD-3-clause AND BSD-2-clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom"
   },
   {
@@ -985,8 +985,8 @@
   },
   {
     "name": "gnupg",
-    "version": "2.5.3",
-    "upstream_urls": "https://www.gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.3.tar.bz2",
+    "version": "2.4.8",
+    "upstream_urls": "https://www.gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.8.tar.bz2",
     "license": "GPL-2.0-or-later AND GPL-3.0-or-later AND LGPL-2.1-or-later AND LGPL-3.0-or-later AND MIT AND Spencer-86 AND BSD-2-Clause-Views AND Unicode-DFS-2016"
   },
   {
@@ -1159,8 +1159,8 @@
   },
   {
     "name": "harfbuzz",
-    "version": "8.3.0",
-    "upstream_urls": "https://github.com/harfbuzz/harfbuzz/releases/download/8.3.0/harfbuzz-8.3.0.tar.xz",
+    "version": "12.1.0",
+    "upstream_urls": "https://github.com/harfbuzz/harfbuzz/releases/download/12.1.0/harfbuzz-12.1.0.tar.xz",
     "license": "MIT"
   },
   {
@@ -1201,8 +1201,8 @@
   },
   {
     "name": "hostapd",
-    "version": "2.10",
-    "upstream_urls": "http://w1.fi/releases/hostapd-2.10.tar.gz",
+    "version": "2.11",
+    "upstream_urls": "http://w1.fi/releases/hostapd-2.11.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
@@ -1237,8 +1237,8 @@
   },
   {
     "name": "icu",
-    "version": "74.1",
-    "upstream_urls": "https://github.com/unicode-org/icu/releases/download/release-74-1/icu4c-74_1-src.tgz",
+    "version": "77.1",
+    "upstream_urls": "https://github.com/unicode-org/icu/releases/download/release-77-1/icu4c-77_1-src.tgz",
     "license": "MIT AND Unicode-3.0 AND public_domain AND BSD-3-Clause"
   },
   {
@@ -1483,14 +1483,14 @@
   },
   {
     "name": "lcms",
-    "version": "2.16",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/lcms/lcms2-2.16.tar.gz",
+    "version": "2.17",
+    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/lcms/lcms2-2.17.tar.gz",
     "license": "MIT"
   },
   {
     "name": "less",
-    "version": "668",
-    "upstream_urls": "https://greenwoodsoftware.com/less/less-668.tar.gz",
+    "version": "679",
+    "upstream_urls": "https://greenwoodsoftware.com/less/less-679.tar.gz",
     "license": "GPL-3.0-or-later OR BSD-2-Clause"
   },
   {
@@ -1519,8 +1519,8 @@
   },
   {
     "name": "libassuan",
-    "version": "3.0.1",
-    "upstream_urls": "https://www.gnupg.org/ftp/gcrypt/libassuan/libassuan-3.0.1.tar.bz2",
+    "version": "3.0.2",
+    "upstream_urls": "https://www.gnupg.org/ftp/gcrypt/libassuan/libassuan-3.0.2.tar.bz2",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -1543,9 +1543,9 @@
   },
   {
     "name": "libbsd",
-    "version": "0.11.7",
-    "upstream_urls": "http://libbsd.freedesktop.org/releases/libbsd-0.11.7.tar.xz",
-    "license": "BSD-4-Clause AND BSD-3-Clause AND BSD-2-Clause-NetBSD AND ISC AND MIT AND Beerware AND public_domain"
+    "version": "0.12.2",
+    "upstream_urls": "http://libbsd.freedesktop.org/releases/libbsd-0.12.2.tar.xz",
+    "license": "BSD-3-Clause AND BSD-2-Clause-NetBSD AND ISC AND MIT AND Beerware AND public_domain"
   },
   {
     "name": "libbson",
@@ -1651,8 +1651,8 @@
   },
   {
     "name": "libdisplay-info",
-    "version": "0.2.0",
-    "upstream_urls": "https://gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.2.0/downloads/libdisplay-info-0.2.0.tar.xz",
+    "version": "0.3.0",
+    "upstream_urls": "https://gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.3.0/downloads/libdisplay-info-0.3.0.tar.xz",
     "license": "MIT"
   },
   {
@@ -1795,8 +1795,8 @@
   },
   {
     "name": "libgpg-error",
-    "version": "1.51",
-    "upstream_urls": "http://artfiles.org/gnupg.org/libgpg-error/libgpg-error-1.51.tar.bz2 https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.51.tar.bz2",
+    "version": "1.56",
+    "upstream_urls": "http://artfiles.org/gnupg.org/libgpg-error/libgpg-error-1.56.tar.bz2 https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.56.tar.bz2",
     "license": "GPL-2.0-only AND LGPL-2.0-only"
   },
   {
@@ -2041,8 +2041,8 @@
   },
   {
     "name": "libnghttp2",
-    "version": "1.50.0",
-    "upstream_urls": "https://github.com/nghttp2/nghttp2/releases/download/v1.50.0/nghttp2-1.50.0.tar.xz",
+    "version": "1.67.1",
+    "upstream_urls": "https://github.com/nghttp2/nghttp2/releases/download/v1.67.1/nghttp2-1.67.1.tar.xz",
     "license": "MIT"
   },
   {
@@ -2149,8 +2149,8 @@
   },
   {
     "name": "libpsl",
-    "version": "0.21.2",
-    "upstream_urls": "https://github.com/rockdaboot/libpsl/releases/download/0.21.2/libpsl-0.21.2.tar.gz",
+    "version": "0.21.5",
+    "upstream_urls": "https://github.com/rockdaboot/libpsl/releases/download/0.21.5/libpsl-0.21.5.tar.gz",
     "license": "MIT"
   },
   {
@@ -2238,6 +2238,12 @@
     "license": "ISC"
   },
   {
+    "name": "libsolv",
+    "version": "0.7.35",
+    "upstream_urls": "https://github.com/openSUSE/libsolv/archive/0.7.35/libsolv-0.7.35.tar.gz",
+    "license": "BSD-3-Clause"
+  },
+  {
     "name": "libsoup",
     "version": "3.6.5",
     "upstream_urls": "https://download.gnome.org/sources/libsoup/3.6/libsoup-3.6.5.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libsoup/3.6/libsoup-3.6.5.tar.xz",
@@ -2245,8 +2251,8 @@
   },
   {
     "name": "libsrtp",
-    "version": "2.5.0",
-    "upstream_urls": "https://github.com/cisco/libsrtp/archive/v2.5.0.tar.gz",
+    "version": "2.7.0",
+    "upstream_urls": "https://github.com/cisco/libsrtp/archive/v2.7.0.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
@@ -2293,9 +2299,9 @@
   },
   {
     "name": "libtiff",
-    "version": "4.7.0",
-    "upstream_urls": "http://download.osgeo.org/libtiff/tiff-4.7.0.tar.gz",
-    "license": "libtiff"
+    "version": "4.7.1",
+    "upstream_urls": "http://download.osgeo.org/libtiff/tiff-4.7.1.tar.gz",
+    "license": "libtiff AND BSD-4.3TAHOE"
   },
   {
     "name": "libtirpc",
@@ -2407,8 +2413,8 @@
   },
   {
     "name": "libwebp",
-    "version": "1.3.2",
-    "upstream_urls": "http://downloads.webmproject.org/releases/webp/libwebp-1.3.2.tar.gz",
+    "version": "1.6.0",
+    "upstream_urls": "http://downloads.webmproject.org/releases/webp/libwebp-1.6.0.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
@@ -2449,8 +2455,8 @@
   },
   {
     "name": "libxkbcommon",
-    "version": "1.11.0",
-    "upstream_urls": "https://github.com/xkbcommon/libxkbcommon/archive/refs/tags/xkbcommon-1.11.0.tar.gz",
+    "version": "1.12.0",
+    "upstream_urls": "https://github.com/xkbcommon/libxkbcommon/archive/refs/tags/xkbcommon-1.12.0.tar.gz",
     "license": "MIT AND MIT-open-group AND X11 AND HPND AND HPND-sell-variant"
   },
   {
@@ -2467,8 +2473,8 @@
   },
   {
     "name": "libxslt",
-    "version": "1.1.42",
-    "upstream_urls": "https://download.gnome.org/sources/libxslt/1.1/libxslt-1.1.42.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libxslt/1.1/libxslt-1.1.42.tar.xz",
+    "version": "1.1.43",
+    "upstream_urls": "https://download.gnome.org/sources/libxslt/1.1/libxslt-1.1.43.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libxslt/1.1/libxslt-1.1.43.tar.xz",
     "license": "MIT"
   },
   {
@@ -2503,8 +2509,8 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20250917",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250917.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20250917.tar.gz",
+    "version": "20251011",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20251011.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20251011.tar.gz",
     "license": "proprietary"
   },
   {
@@ -2599,8 +2605,8 @@
   },
   {
     "name": "lua",
-    "version": "5.4.4",
-    "upstream_urls": "http://www.lua.org/ftp/lua-5.4.4.tar.gz",
+    "version": "5.4.8",
+    "upstream_urls": "http://www.lua.org/ftp/lua-5.4.8.tar.gz",
     "license": "MIT"
   },
   {
@@ -2629,8 +2635,8 @@
   },
   {
     "name": "lz4",
-    "version": "1.9.4",
-    "upstream_urls": "https://github.com/Cyan4973/lz4/archive/v1.9.4.tar.gz",
+    "version": "1.10.0",
+    "upstream_urls": "https://github.com/lz4/lz4/archive/v1.10.0.tar.gz",
     "license": "BSD-2-Clause AND GPL-2.0-or-later"
   },
   {
@@ -3079,8 +3085,8 @@
   },
   {
     "name": "openssh",
-    "version": "10.1p1",
-    "upstream_urls": "https://ftp.halifax.rwth-aachen.de/openbsd/OpenSSH/portable/openssh-10.1p1.tar.gz https://mirror.hs-esslingen.de/pub/OpenBSD/OpenSSH/portable/openssh-10.1p1.tar.gz https://ftp.lysator.liu.se/pub/OpenBSD/OpenSSH/portable/openssh-10.1p1.tar.gz",
+    "version": "10.2p1",
+    "upstream_urls": "https://ftp.halifax.rwth-aachen.de/openbsd/OpenSSH/portable/openssh-10.2p1.tar.gz https://mirror.hs-esslingen.de/pub/OpenBSD/OpenSSH/portable/openssh-10.2p1.tar.gz https://ftp.lysator.liu.se/pub/OpenBSD/OpenSSH/portable/openssh-10.2p1.tar.gz",
     "license": "BSD AND BSD-2-Clause AND BSD-3-Clause AND MIT AND Beerware AND ISC"
   },
   {
@@ -3097,8 +3103,8 @@
   },
   {
     "name": "opkg",
-    "version": "0.7.0",
-    "upstream_urls": "http://downloads.yoctoproject.org/releases/opkg/opkg-0.7.0.tar.gz",
+    "version": "0.9.0",
+    "upstream_urls": "https://git.yoctoproject.org/opkg/snapshot/opkg-0.9.0.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -3229,8 +3235,8 @@
   },
   {
     "name": "pipewire",
-    "version": "1.4.8",
-    "upstream_urls": "https://gitlab.freedesktop.org/pipewire/pipewire/-/archive/1.4.8/pipewire-1.4.8.tar.bz2",
+    "version": "1.4.9",
+    "upstream_urls": "https://gitlab.freedesktop.org/pipewire/pipewire/-/archive/1.4.9/pipewire-1.4.9.tar.bz2",
     "license": "MIT AND LGPL-2.1-or-later"
   },
   {
@@ -3799,8 +3805,8 @@
   },
   {
     "name": "python3-pymodbus",
-    "version": "3.8.6",
-    "upstream_urls": "https://files.pythonhosted.org/packages/source/p/pymodbus/pymodbus-3.8.6.tar.gz",
+    "version": "3.11.2",
+    "upstream_urls": "https://files.pythonhosted.org/packages/source/p/pymodbus/pymodbus-3.11.2.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
@@ -4027,8 +4033,8 @@
   },
   {
     "name": "qemu",
-    "version": "10.1.0",
-    "upstream_urls": "https://download.qemu.org/qemu-10.1.0.tar.xz",
+    "version": "10.1.1",
+    "upstream_urls": "https://download.qemu.org/qemu-10.1.1.tar.xz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND MIT AND BSD-1-Clause AND BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -4333,8 +4339,8 @@
   },
   {
     "name": "smartmontools",
-    "version": "7.2",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/smartmontools/smartmontools-7.2.tar.gz",
+    "version": "7.5",
+    "upstream_urls": "https://github.com/smartmontools/smartmontools/releases/download/RELEASE_7_5/smartmontools-7.5.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -4405,14 +4411,14 @@
   },
   {
     "name": "spirv-headers",
-    "version": "1.4.328.0",
-    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Headers/archive/vulkan-sdk-1.4.328.0.tar.gz",
+    "version": "1.4.328.1",
+    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Headers/archive/vulkan-sdk-1.4.328.1.tar.gz",
     "license": "custom AND MIT"
   },
   {
     "name": "spirv-tools",
-    "version": "1.4.328.0",
-    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Tools/archive/vulkan-sdk-1.4.328.0.tar.gz",
+    "version": "1.4.328.1",
+    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Tools/archive/vulkan-sdk-1.4.328.1.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -4429,8 +4435,8 @@
   },
   {
     "name": "squashfs-tools",
-    "version": "4.6.1",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/squashfs/squashfs4.6.1.tar.gz",
+    "version": "4.7.2",
+    "upstream_urls": "https://github.com/plougher/squashfs-tools/releases/download/4.7.2/squashfs-tools-4.7.2.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -4465,14 +4471,14 @@
   },
   {
     "name": "stress",
-    "version": "1.0.4",
-    "upstream_urls": "https://people.seas.harvard.edu/~apw/stress/stress-1.0.4.tar.gz",
+    "version": "1.0.7",
+    "upstream_urls": "https://github.com/resurrecting-open-source-projects/stress/archive/1.0.7.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
     "name": "stress-ng",
-    "version": "0.14.06",
-    "upstream_urls": "https://github.com/ColinIanKing/stress-ng/archive/refs/tags/V0.14.06.tar.gz",
+    "version": "0.19.05",
+    "upstream_urls": "https://github.com/ColinIanKing/stress-ng/archive/refs/tags/V0.19.05.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -4759,8 +4765,8 @@
   },
   {
     "name": "v4l-utils",
-    "version": "1.28.1",
-    "upstream_urls": "http://linuxtv.org/downloads/v4l-utils/v4l-utils-1.28.1.tar.xz",
+    "version": "1.32.0",
+    "upstream_urls": "http://linuxtv.org/downloads/v4l-utils/v4l-utils-1.32.0.tar.xz",
     "license": "GPL-2.0-or-later (tools); LGPL-2.1-or-later (libs)"
   },
   {
@@ -4795,8 +4801,8 @@
   },
   {
     "name": "volk",
-    "version": "1.4.328.0",
-    "upstream_urls": "https://github.com/zeux/volk/archive/refs/tags/vulkan-sdk-1.4.328.0.tar.gz",
+    "version": "1.4.328.1",
+    "upstream_urls": "https://github.com/zeux/volk/archive/refs/tags/vulkan-sdk-1.4.328.1.tar.gz",
     "license": "MIT"
   },
   {
@@ -4807,32 +4813,32 @@
   },
   {
     "name": "vulkan-headers",
-    "version": "1.4.328.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Headers/archive/vulkan-sdk-1.4.328.0.tar.gz",
+    "version": "1.4.328.1",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Headers/archive/vulkan-sdk-1.4.328.1.tar.gz",
     "license": "Apache-2.0 AND MIT"
   },
   {
     "name": "vulkan-loader",
-    "version": "1.4.328.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Loader/archive/vulkan-sdk-1.4.328.0.tar.gz",
+    "version": "1.4.328.1",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Loader/archive/vulkan-sdk-1.4.328.1.tar.gz",
     "license": "Apache-2.0"
   },
   {
     "name": "vulkan-tools",
-    "version": "1.4.328.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Tools/archive/vulkan-sdk-1.4.328.0.tar.gz",
+    "version": "1.4.328.1",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Tools/archive/vulkan-sdk-1.4.328.1.tar.gz",
     "license": "Apache-2.0"
   },
   {
     "name": "vulkan-utility-libraries",
-    "version": "1.4.328.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries/archive/vulkan-sdk-1.4.328.0.tar.gz",
+    "version": "1.4.328.1",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries/archive/vulkan-sdk-1.4.328.1.tar.gz",
     "license": "Apache-2.0 AND MIT"
   },
   {
     "name": "vulkan-validationlayers",
-    "version": "1.4.328.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-ValidationLayers/archive/vulkan-sdk-1.4.328.0.tar.gz",
+    "version": "1.4.328.1",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-ValidationLayers/archive/vulkan-sdk-1.4.328.1.tar.gz",
     "license": "Apache-2.0 AND MIT AND BSL-1.0"
   },
   {
@@ -4897,8 +4903,8 @@
   },
   {
     "name": "wget",
-    "version": "1.21.3",
-    "upstream_urls": "https://ftp.gnu.org/gnu/wget/wget-1.21.3.tar.gz https://ftpmirror.gnu.org/wget/wget-1.21.3.tar.gz",
+    "version": "1.25.0",
+    "upstream_urls": "https://ftp.gnu.org/gnu/wget/wget-1.25.0.tar.gz https://ftpmirror.gnu.org/wget/wget-1.25.0.tar.gz",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -4915,8 +4921,8 @@
   },
   {
     "name": "wireplumber",
-    "version": "0.5.7",
-    "upstream_urls": "https://gitlab.freedesktop.org/pipewire/wireplumber/-/archive/0.5.7/wireplumber-0.5.7.tar.gz",
+    "version": "0.5.12",
+    "upstream_urls": "https://gitlab.freedesktop.org/pipewire/wireplumber/-/archive/0.5.12/wireplumber-0.5.12.tar.gz",
     "license": "MIT"
   },
   {
@@ -4933,8 +4939,8 @@
   },
   {
     "name": "wpa_supplicant",
-    "version": "2.10",
-    "upstream_urls": "https://w1.fi/releases/wpa_supplicant-2.10.tar.gz",
+    "version": "2.11",
+    "upstream_urls": "https://w1.fi/releases/wpa_supplicant-2.11.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -5701,8 +5707,8 @@
   },
   {
     "name": "zbar",
-    "version": "0.23.90",
-    "upstream_urls": "https://linuxtv.org/downloads/zbar/zbar-0.23.90.tar.bz2",
+    "version": "0.23.93",
+    "upstream_urls": "https://linuxtv.org/downloads/zbar/zbar-0.23.93.tar.bz2",
     "license": "LGPL-2.0-or-later"
   },
   {
