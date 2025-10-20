@@ -385,8 +385,8 @@
   },
   {
     "name": "cifs-utils",
-    "version": "7.0",
-    "upstream_urls": "https://ftp.samba.org/pub/linux-cifs/cifs-utils/cifs-utils-7.0.tar.bz2",
+    "version": "7.4",
+    "upstream_urls": "https://ftp.samba.org/pub/linux-cifs/cifs-utils/cifs-utils-7.4.tar.bz2",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -1003,8 +1003,8 @@
   },
   {
     "name": "gobject-introspection",
-    "version": "1.72.0",
-    "upstream_urls": "https://download.gnome.org/sources/gobject-introspection/1.72/gobject-introspection-1.72.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/gobject-introspection/1.72/gobject-introspection-1.72.0.tar.xz",
+    "version": "1.86.0",
+    "upstream_urls": "https://download.gnome.org/sources/gobject-introspection/1.86/gobject-introspection-1.86.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/gobject-introspection/1.86/gobject-introspection-1.86.0.tar.xz",
     "license": "LGPL-2.1-or-later AND GPL-2.0-or-later"
   },
   {
@@ -1213,8 +1213,8 @@
   },
   {
     "name": "htop",
-    "version": "3.0.1",
-    "upstream_urls": "https://github.com/htop-dev/htop/archive/3.0.1.tar.gz",
+    "version": "3.4.1",
+    "upstream_urls": "https://github.com/htop-dev/htop/archive/3.4.1.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -1333,9 +1333,9 @@
   },
   {
     "name": "iperf3",
-    "version": "3.16",
-    "upstream_urls": "https://downloads.es.net/pub/iperf/iperf-3.16.tar.gz",
-    "license": "BSD"
+    "version": "3.19.1",
+    "upstream_urls": "https://downloads.es.net/pub/iperf/iperf-3.19.1.tar.gz",
+    "license": "BSD-3-Clause-LBNL AND MIT AND dtoa AND BSD-3-Clause AND NCSA AND public_domain"
   },
   {
     "name": "iproute2",
@@ -1369,9 +1369,9 @@
   },
   {
     "name": "jansson",
-    "version": "2.13.1",
-    "upstream_urls": "http://www.digip.org/jansson/releases/jansson-2.13.1.tar.bz2",
-    "license": "MIT"
+    "version": "2.14.1",
+    "upstream_urls": "https://github.com/akheron/jansson/archive/refs/tags/v2.14.1.tar.gz",
+    "license": "MIT AND dtoa"
   },
   {
     "name": "jimtcl",
@@ -1405,9 +1405,9 @@
   },
   {
     "name": "json-glib",
-    "version": "1.8.0",
-    "upstream_urls": "https://download.gnome.org/sources/json-glib/1.8/json-glib-1.8.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/json-glib/1.8/json-glib-1.8.0.tar.xz",
-    "license": "LGPL-2.1-only"
+    "version": "1.9.2",
+    "upstream_urls": "https://download.gnome.org/sources/json-glib/1.9/json-glib-1.9.2.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/json-glib/1.9/json-glib-1.9.2.tar.xz",
+    "license": "LGPL-2.1-or-later"
   },
   {
     "name": "jsoncpp",
@@ -1531,8 +1531,8 @@
   },
   {
     "name": "libatomic_ops",
-    "version": "7.8.0",
-    "upstream_urls": "https://github.com/bdwgc/libatomic_ops/releases/download/v7.8.0/libatomic_ops-7.8.0.tar.gz",
+    "version": "7.8.4",
+    "upstream_urls": "https://github.com/bdwgc/libatomic_ops/releases/download/v7.8.4/libatomic_ops-7.8.4.tar.gz",
     "license": "MIT AND Boehm-GC AND GPL-2.0-or-later"
   },
   {
@@ -1663,8 +1663,8 @@
   },
   {
     "name": "libdrm",
-    "version": "2.4.126",
-    "upstream_urls": "http://dri.freedesktop.org/libdrm/libdrm-2.4.126.tar.xz",
+    "version": "2.4.127",
+    "upstream_urls": "http://dri.freedesktop.org/libdrm/libdrm-2.4.127.tar.xz",
     "license": "MIT"
   },
   {
@@ -1825,8 +1825,8 @@
   },
   {
     "name": "libical",
-    "version": "3.0.17",
-    "upstream_urls": "https://github.com/libical/libical/releases/download/v3.0.17/libical-3.0.17.tar.gz",
+    "version": "3.0.20",
+    "upstream_urls": "https://github.com/libical/libical/releases/download/v3.0.20/libical-3.0.20.tar.gz",
     "license": "LGPL-2.1-only OR MPL-2.0"
   },
   {
@@ -2287,9 +2287,9 @@
   },
   {
     "name": "libtasn1",
-    "version": "4.19.0",
-    "upstream_urls": "https://ftp.gnu.org/gnu/libtasn1/libtasn1-4.19.0.tar.gz https://ftpmirror.gnu.org/libtasn1/libtasn1-4.19.0.tar.gz",
-    "license": "LGPL-2.1-only AND GPL-3.0-only"
+    "version": "4.20.0",
+    "upstream_urls": "https://ftp.gnu.org/gnu/libtasn1/libtasn1-4.20.0.tar.gz https://ftpmirror.gnu.org/libtasn1/libtasn1-4.20.0.tar.gz",
+    "license": "GPL-3.0-or-later or LGPL-2.1-or-later"
   },
   {
     "name": "libtheora",
@@ -2365,8 +2365,8 @@
   },
   {
     "name": "libusb-compat",
-    "version": "0.1.3",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libusb/libusb-compat-0.1.3.tar.bz2",
+    "version": "0.1.8",
+    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libusb/libusb-compat-0.1.8.tar.bz2",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -2407,8 +2407,8 @@
   },
   {
     "name": "libwacom",
-    "version": "2.9.0",
-    "upstream_urls": "https://github.com/linuxwacom/libwacom/archive/libwacom-2.9.0.tar.gz",
+    "version": "2.16.1",
+    "upstream_urls": "https://github.com/linuxwacom/libwacom/archive/libwacom-2.16.1.tar.gz",
     "license": "HPND"
   },
   {
@@ -2455,14 +2455,14 @@
   },
   {
     "name": "libxkbcommon",
-    "version": "1.12.0",
-    "upstream_urls": "https://github.com/xkbcommon/libxkbcommon/archive/refs/tags/xkbcommon-1.12.0.tar.gz",
+    "version": "1.12.1",
+    "upstream_urls": "https://github.com/xkbcommon/libxkbcommon/archive/refs/tags/xkbcommon-1.12.1.tar.gz",
     "license": "MIT AND MIT-open-group AND X11 AND HPND AND HPND-sell-variant"
   },
   {
     "name": "libxml2",
-    "version": "2.15.0",
-    "upstream_urls": "https://download.gnome.org/sources/libxml2/2.15/libxml2-2.15.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libxml2/2.15/libxml2-2.15.0.tar.xz",
+    "version": "2.15.1",
+    "upstream_urls": "https://download.gnome.org/sources/libxml2/2.15/libxml2-2.15.1.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libxml2/2.15/libxml2-2.15.1.tar.xz",
     "license": "MIT AND ISC"
   },
   {
@@ -2623,8 +2623,8 @@
   },
   {
     "name": "lvm2",
-    "version": "2.03.22",
-    "upstream_urls": "https://sourceware.org/pub/lvm2/LVM2.2.03.22.tgz https://sourceware.org/pub/lvm2/old/LVM2.2.03.22.tgz",
+    "version": "2.03.35",
+    "upstream_urls": "https://sourceware.org/pub/lvm2/LVM2.2.03.35.tgz https://sourceware.org/pub/lvm2/old/LVM2.2.03.35.tgz",
     "license": "GPL-2.0-only, LGPL-2.1-only"
   },
   {
@@ -2797,8 +2797,8 @@
   },
   {
     "name": "mpfr",
-    "version": "4.2.1",
-    "upstream_urls": "https://www.mpfr.org/mpfr-4.2.1/mpfr-4.2.1.tar.xz",
+    "version": "4.2.2",
+    "upstream_urls": "https://www.mpfr.org/mpfr-4.2.2/mpfr-4.2.2.tar.xz",
     "license": "LGPL-3.0-or-later"
   },
   {
@@ -2893,8 +2893,8 @@
   },
   {
     "name": "nettle",
-    "version": "3.8.1",
-    "upstream_urls": "http://www.lysator.liu.se/~nisse/archive/nettle-3.8.1.tar.gz https://ftp.gnu.org/gnu/nettle/nettle-3.8.1.tar.gz https://ftpmirror.gnu.org/nettle/nettle-3.8.1.tar.gz",
+    "version": "3.10.2",
+    "upstream_urls": "http://www.lysator.liu.se/~nisse/archive/nettle-3.10.2.tar.gz https://ftp.gnu.org/gnu/nettle/nettle-3.10.2.tar.gz https://ftpmirror.gnu.org/nettle/nettle-3.10.2.tar.gz",
     "license": "GPL-2.0-or-later OR LGPL-3.0-or-later"
   },
   {
@@ -2917,8 +2917,8 @@
   },
   {
     "name": "nfsutils",
-    "version": "2.6.2",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/nfs-utils/2.6.2/nfs-utils-2.6.2.tar.gz https://www.kernel.org/pub/linux/utils/nfs-utils/2.6.2/nfs-utils-2.6.2.tar.gz",
+    "version": "2.8.4",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/nfs-utils/2.8.4/nfs-utils-2.8.4.tar.gz https://www.kernel.org/pub/linux/utils/nfs-utils/2.8.4/nfs-utils-2.8.4.tar.gz",
     "license": "GPL-2.0-or-later AND BSD-3-Clause"
   },
   {
@@ -2959,8 +2959,8 @@
   },
   {
     "name": "npth",
-    "version": "1.7",
-    "upstream_urls": "https://www.gnupg.org/ftp/gcrypt/npth/npth-1.7.tar.bz2",
+    "version": "1.8",
+    "upstream_urls": "https://www.gnupg.org/ftp/gcrypt/npth/npth-1.8.tar.bz2",
     "license": "LGPL-2.1-only"
   },
   {
@@ -3061,8 +3061,8 @@
   },
   {
     "name": "openldap",
-    "version": "2.6.9",
-    "upstream_urls": "https://www.openldap.org/software/download/OpenLDAP/openldap-release/openldap-2.6.9.tgz",
+    "version": "2.6.10",
+    "upstream_urls": "https://www.openldap.org/software/download/OpenLDAP/openldap-release/openldap-2.6.10.tgz",
     "license": "OLDAP-2.8"
   },
   {
@@ -3175,8 +3175,8 @@
   },
   {
     "name": "pango",
-    "version": "1.50.12",
-    "upstream_urls": "https://download.gnome.org/sources/pango/1.50/pango-1.50.12.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/pango/1.50/pango-1.50.12.tar.xz",
+    "version": "1.57.0",
+    "upstream_urls": "https://download.gnome.org/sources/pango/1.57/pango-1.57.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/pango/1.57/pango-1.57.0.tar.xz",
     "license": "LGPL-2.0-or-later"
   },
   {
@@ -4105,8 +4105,8 @@
   },
   {
     "name": "readline",
-    "version": "8.2",
-    "upstream_urls": "https://ftp.gnu.org/gnu/readline/readline-8.2.tar.gz https://ftpmirror.gnu.org/readline/readline-8.2.tar.gz",
+    "version": "8.3",
+    "upstream_urls": "https://ftp.gnu.org/gnu/readline/readline-8.3.tar.gz https://ftpmirror.gnu.org/readline/readline-8.3.tar.gz",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -4129,8 +4129,8 @@
   },
   {
     "name": "rpcbind",
-    "version": "1.2.6",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/rpcbind/rpcbind-1.2.6.tar.bz2",
+    "version": "1.2.8",
+    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/rpcbind/rpcbind-1.2.8.tar.bz2",
     "license": "BSD-3-Clause"
   },
   {
@@ -4147,9 +4147,9 @@
   },
   {
     "name": "rsync3",
-    "version": "3.2.7",
-    "upstream_urls": "https://download.samba.org/pub/rsync/src/rsync-3.2.7.tar.gz",
-    "license": "GPL-3.0-only"
+    "version": "3.4.1",
+    "upstream_urls": "https://download.samba.org/pub/rsync/src/rsync-3.4.1.tar.gz",
+    "license": "GPL-3.0-or-later"
   },
   {
     "name": "rsyslog",
@@ -4357,9 +4357,9 @@
   },
   {
     "name": "socat",
-    "version": "1.7.3.2",
-    "upstream_urls": "http://www.dest-unreach.org/socat/download/socat-1.7.3.2.tar.gz http://www.dest-unreach.org/socat/download/Archive/socat-1.7.3.2.tar.gz",
-    "license": "GPL-2.0-only"
+    "version": "1.8.0.3",
+    "upstream_urls": "http://www.dest-unreach.org/socat/download/socat-1.8.0.3.tar.gz http://www.dest-unreach.org/socat/download/Archive/socat-1.8.0.3.tar.gz",
+    "license": "GPL-2.0-only AND MIT"
   },
   {
     "name": "sockperf",
@@ -4555,8 +4555,8 @@
   },
   {
     "name": "talloc",
-    "version": "2.3.4",
-    "upstream_urls": "https://www.samba.org/ftp/talloc/talloc-2.3.4.tar.gz",
+    "version": "2.4.3",
+    "upstream_urls": "https://www.samba.org/ftp/talloc/talloc-2.4.3.tar.gz",
     "license": "GPL-3.0-or-later AND LGPL-3.0-or-later"
   },
   {
