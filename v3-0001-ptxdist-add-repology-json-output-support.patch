@@ -1,0 +1,160 @@
+From cf6cca6676a7387dc2114afdbef2bd716b8f9a10 Mon Sep 17 00:00:00 2001
+From: Bruno Thomsen <bruno.thomsen@gmail.com>
+Date: Tue, 7 Oct 2025 20:53:09 +0200
+Subject: [PATCH v3] ptxdist: add repology json output support
+
+Improve ptxdist project visibility by adding it to repology.
+https://repology.org/
+
+This also allows components like rauc to showcase supported
+distributions and current packaged version.
+
+It also gives ptxdist users and maintainers an overview of packages
+with known CVEs that should be priotized for version bumpes.
+
+Generate JSON output about almost all packages in ptxdist for repology.
+Below is an output example for alsa-lib:
+
+{
+    "name": "alsa-lib",
+    "version": "1.2.13",
+    "upstream_urls": "https://www.alsa-project.org/files/pub/lib/alsa-lib-1.2.13.tar.bz2",
+    "license": "LGPL-2.1-or-later"
+},
+
+Add PTXdist support #1487:
+https://github.com/repology/repology-updater/issues/1487
+
+This have been running for the past few months here:
+https://github.com/baxeno/ptxdist-repology/blob/main/repology.json
+
+Using the following command with DistroKit:
+$ ptxdist repology > repology.json
+
+Signed-off-by: Bruno Thomsen <bruno.thomsen@gmail.com>
+Co-developed-by: Ladislav Michl <ladis@triops.cz>
+Co-developed-by: Roland Hieber <rhi@pengutronix.de>
+---
+v2-v3:
+- Clean JSON output without 'grep -v', thanks to Roland.
+
+v1-v2:
+- Keep Makefile implementation as Python implementation did not work
+- Filter out packages with empty URL
+- Filter out packages with empty or undefined version
+- Reduced number of hard-coded ignored packages from 33 to 2
+- View parsed output: https://repology.org/repository/ptxdist
+
+PATCH v2:
+https://lore.ptxdist.org/ptxdist/1759743993-018f2348c8b6069223089c68@pty/T/#mbdc9ce0a6541d0dce31a00a94ffb472c22410880
+
+PATCH v1:
+https://lore.ptxdist.org/ptxdist/20250422193456.26040-1-bruno.thomsen@gmail.com/
+
+PATCH RFC:
+https://lore.ptxdist.org/ptxdist/20250418113357.23654-1-bruno.thomsen@gmail.com/
+
+ bin/ptxdist                        |  6 ++++
+ rules/post/ptxd_make_repology.make | 50 ++++++++++++++++++++++++++++++
+ scripts/bash_completion            |  2 +-
+ 3 files changed, 57 insertions(+), 1 deletion(-)
+ create mode 100644 rules/post/ptxd_make_repology.make
+
+diff --git a/bin/ptxdist b/bin/ptxdist
+index 0e7af6142..868eb17b3 100755
+--- a/bin/ptxdist
++++ b/bin/ptxdist
+@@ -799,6 +799,7 @@ Misc:
+ 				variable and print the contents of this variable
+   licensecheck			check md5sums of license files for all packages
+   lint				run some basic checks for the bsp and PTXdist
++  repology			generate repology JSON for PTXdist
+   list-packages			print a list of all selected packages
+   local-src <pkg> [<directory>]	overwrite a package source with a locally provided
+ 				directory containing the sourcecode.
+@@ -1925,6 +1926,11 @@ EOF
+ 				ptxd_bailout "lint checks failed"
+ 			fi
+ 			;;
++		repology)
++			check_premake_compiler &&
++			ptxd_make_log ptxdist-repology
++			exit
++			;;
+ 		list-packages)
+ 			check_config &&
+ 			check_deps &&
+diff --git a/rules/post/ptxd_make_repology.make b/rules/post/ptxd_make_repology.make
+new file mode 100644
+index 000000000..3b8793d4d
+--- /dev/null
++++ b/rules/post/ptxd_make_repology.make
+@@ -0,0 +1,50 @@
++# -*-makefile-*-
++#
++# Copyright (C) 2025 by Bruno Thomsen <bruno.thomsen@gmail.com>
++#               2025 by Ladislav Michl <ladis@triops.cz>
++#
++# For further information about the PTXdist project and license conditions
++# see the README file.
++#
++
++PTX_PACKAGES_IGNORE	:= \
++	cross-llvm \
++	nodejs_packages
++
++PHONY += ptxdist-repology
++
++ptx_packages_reported:=$(sort $(filter-out host-system-%,$(filter-out host-%,$(filter-out image-%,$(PTX_PACKAGES_ALL)))))
++ptx_packages_reported:=$(filter-out $(PTX_PACKAGES_IGNORE),$(ptx_packages_reported))
++ptx_package_last:=$(lastword $(ptx_packages_reported))
++ptx_packages_reported:=$(filter-out $(ptx_package_last),$(ptx_packages_reported))
++
++ptx/repology-print = \
++	$(info $(space)   "name": "$(1)"$(comma)) \
++	$(info $(space)   "version": "$($(PTX_MAP_TO_PACKAGE_$(1))_VERSION)"$(comma)) \
++	$(info $(space)   "upstream_urls": "$($(PTX_MAP_TO_PACKAGE_$(1))_URL)"$(comma)) \
++	$(info $(space)   "license": "$($(PTX_MAP_TO_PACKAGE_$(1))_LICENSE)")
++
++ptx/repology-item = \
++	$(info $(space) {) \
++	$(call ptx/repology-print,$(1)) \
++	$(info $(space) }$(comma))
++
++ptx/repology-lastitem = \
++	$(info $(space) {) \
++	$(call ptx/repology-print,$(1)) \
++	$(info $(space) })
++
++ptx/repology = \
++	$(info [) \
++	$(foreach pkg,$(ptx_packages_reported), \
++		$(if $(subst undefined,,$($(PTX_MAP_TO_PACKAGE_$(pkg))_VERSION)), \
++			$(if $($(PTX_MAP_TO_PACKAGE_$(pkg))_URL), \
++				$(call ptx/repology-item,$(pkg))$(ptx/nl),),)) \
++	$(call ptx/repology-lastitem,$(ptx_package_last)) \
++	$(info ])
++
++ptxdist-repology:
++	@$(call ptx/repology)
++	@touch $(PTXDIST_TEMPDIR)/repology.done
++
++# vim: syntax=make
+diff --git a/scripts/bash_completion b/scripts/bash_completion
+index 4bff2d4b6..2bb21a848 100644
+--- a/scripts/bash_completion
++++ b/scripts/bash_completion
+@@ -123,7 +123,7 @@ _ptxdist_completion()
+ 	clean)
+ 		COMPREPLY=( $( compgen -W root -- $cur ) )
+ 		;&
+-	get|extract|prepare|compile|install|targetinstall|tags|urlcheck|licensecheck|package-info|cargosync)
++	get|extract|prepare|compile|install|targetinstall|tags|urlcheck|licensecheck|repology|package-info|cargosync)
+ 		COMPREPLY+=( $( compgen -W "$(__ptxdist_completion_packages)" -- $cur ) )
+ 		;;
+ 	drop)
+
+base-commit: de3afe806e398349482e92e812f6f69467070ec4
+-- 
+2.51.0
+
