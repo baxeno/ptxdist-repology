@@ -9,6 +9,20 @@ PTXdist releases every month using `YYYY.MM.bugfix` versioning, so used a tagged
 
 > Note: Initial version was `2024.12.0`, see git history for more info.
 
+**Status:**
+
+Upstream support in PTXdist is ongoing:
+
+- [[ptxdist] [PATCH v3] ptxdist: add repology json output support](https://www.mail-archive.com/ptxdist@pengutronix.de/msg26235.html)
+- [[ptxdist] [PATCH v2] ptxdist: add repology json output support](https://www.mail-archive.com/ptxdist@pengutronix.de/msg26107.html)
+- [[ptxdist] [PATCH] ptxdist: add repology json output support](https://www.mail-archive.com/ptxdist@pengutronix.de/msg25354.html)
+- [[ptxdist] [RFC PATCH] ptxdist: add repology sub command](https://www.mail-archive.com/ptxdist@pengutronix.de/msg25341.html)
+
+Upstream support in repology-updater is done:
+
+- [Add PTXdist support #1487](https://github.com/repology/repology-updater/issues/1487)
+- [parsers: add ptxdist support](https://github.com/repology/repology-updater/pull/1488)
+
 **Usage:**
 
 Apply out-of-tree changes to ptxdist, see [branch `repology` in `baxeno/ptxdist`](https://github.com/baxeno/ptxdist/tree/repology) or [PATCH v3](v3-0001-ptxdist-add-repology-json-output-support.patch).
