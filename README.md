@@ -34,11 +34,21 @@ echo "Setup local environment for generating repology.json"
 # git clone Distrokit
 # git clone PTXdist
 # cd ptxdist
-# git checkout repology && git am v3-0001-ptxdist-add-repology-json-output-support.patch
+# git checkout -b repology && git am v3-0001-ptxdist-add-repology-json-output-support.patch
 # ./autogen.sh && ./configure && make
 # cd Distrokit
 # ln -sf ../ptxdist/bin/ptxdist ptxdist
 # select toolchain + ptxconfig + platformconfig
 # ptxdist repology > repology.json
+
+echo "Using existing local environment for generating repology.json"
+toolbox enter
+cd ptxdist
+git checkout master
+git pull
+git checkout repology
+./autogen.sh && ./configure && make
+cd ../DistroKit
+ptxdist repology > ../ptxdist-repology/repology.json
 ```
 
