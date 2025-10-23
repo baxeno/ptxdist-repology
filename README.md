@@ -31,15 +31,16 @@ Apply out-of-tree changes to ptxdist, see [branch `repology` in `baxeno/ptxdist`
 echo "Setup local environment for generating repology.json"
 # Start toolbox Fedora
 # Install dependencies
-# git clone Distrokit
-# git clone PTXdist
-# cd ptxdist
-# git checkout -b repology && git am v3-0001-ptxdist-add-repology-json-output-support.patch
-# ./autogen.sh && ./configure && make
-# cd Distrokit
-# ln -sf ../ptxdist/bin/ptxdist ptxdist
+git clone https://git.pengutronix.de/git/DistroKit
+git clone https://git.pengutronix.de/git/ptxdist
+git clone git@github.com:baxeno/ptxdist-repology.git
+cd ptxdist
+git checkout -b repology && git am v3-0001-ptxdist-add-repology-json-output-support.patch
+./autogen.sh && ./configure && make
+cd ../Distrokit
+ln -sf ../ptxdist/bin/ptxdist p
 # select toolchain + ptxconfig + platformconfig
-# ptxdist repology > repology.json
+./p repology > ../ptxdist-repology/repology.json
 
 echo "Using existing local environment for generating repology.json"
 toolbox enter
@@ -47,8 +48,9 @@ cd ptxdist
 git checkout master
 git pull
 git checkout repology
+git rebase master
 ./autogen.sh && ./configure && make
 cd ../DistroKit
-ptxdist repology > ../ptxdist-repology/repology.json
+./p repology > ../ptxdist-repology/repology.json
 ```
 
