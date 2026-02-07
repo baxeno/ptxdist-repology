@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# PTXdist 2026.01.0
+# PTXdist 2026.02.0-00088-gd89fd15d9eff
 #
 
 #
@@ -73,7 +73,7 @@ PTXCONF_VIRTUAL=y
 PTXCONF_VIRTUAL_HOST_TOOLS=y
 PTXCONF_VIRTUAL_CROSS_TOOLS=y
 PTXCONF_VIRTUAL_AUTOGEN_TOOLS=y
-PTXCONF_CONFIGFILE_VERSION="2026.01.0"
+PTXCONF_CONFIGFILE_VERSION="2026.02.0-00088-gd89fd15d9eff"
 PTXCONF__ptxconfig_MAGIC__=y
 
 #
@@ -133,7 +133,9 @@ PTXCONF_CROSS_PKG_CONFIG_WRAPPER=y
 # PTXCONF_DEBUG_PACKAGES is not set
 # PTXCONF_DEBUG_PACKAGES_INSTALL is not set
 # PTXCONF_APITRACE is not set
-# PTXCONF_BINUTILS is not set
+PTXCONF_BINUTILS=y
+# PTXCONF_BINUTILS_READELF is not set
+# PTXCONF_BINUTILS_OBJDUMP is not set
 # PTXCONF_BOOTCHART is not set
 # PTXCONF_CPPUNIT is not set
 # PTXCONF_DROPWATCH is not set
@@ -218,7 +220,8 @@ PTXCONF_BASE=y
 #
 # gcc libraries                 
 #
-# PTXCONF_GCCLIBS_GCC_S is not set
+PTXCONF_GCCLIBS=y
+PTXCONF_GCCLIBS_GCC_S=y
 # PTXCONF_GCCLIBS_CXX is not set
 # PTXCONF_GCCLIBS_ATOMIC is not set
 # PTXCONF_GCCLIBS_GCJ is not set
@@ -284,7 +287,7 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_JQ is not set
 # PTXCONF_KBD is not set
 # PTXCONF_KEXEC_TOOLS is not set
-# PTXCONF_KILLPROC is not set
+# PTXCONF_KMSCON is not set
 # PTXCONF_LESS is not set
 # PTXCONF_LM_SENSORS is not set
 # PTXCONF_LSHW is not set
@@ -356,6 +359,7 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_PYTHON3_AIOSIGNAL is not set
 # PTXCONF_PYTHON3_AIOSQLITE is not set
 # PTXCONF_PYTHON3_ASGIREF is not set
+# PTXCONF_PYTHON3_ASTTOKENS is not set
 # PTXCONF_PYTHON3_ASYNC_TIMEOUT is not set
 # PTXCONF_PYTHON3_ASYNCUA is not set
 # PTXCONF_PYTHON3_ATTRS is not set
@@ -369,6 +373,7 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_PYTHON3_DATEUTIL is not set
 # PTXCONF_PYTHON3_DECORATOR is not set
 # PTXCONF_PYTHON3_DULWICH is not set
+# PTXCONF_PYTHON3_EXECUTING is not set
 # PTXCONF_PYTHON3_FALCON is not set
 # PTXCONF_PYTHON3_FLASK is not set
 # PTXCONF_PYTHON3_FROZENLIST is not set
@@ -407,15 +412,19 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_PYTHON3_PLUGGY is not set
 # PTXCONF_PYTHON3_PLY is not set
 # PTXCONF_PYTHON3_POSIX_IPC is not set
+# PTXCONF_PYTHON3_PROMPT_TOOLKIT is not set
 # PTXCONF_PYTHON3_PROTOBUF is not set
 # PTXCONF_PYTHON3_PSUTIL is not set
 # PTXCONF_PYTHON3_PTYPROCESS is not set
+# PTXCONF_PYTHON3_PURE_EVAL is not set
 # PTXCONF_PYTHON3_PY is not set
 # PTXCONF_PYTHON3_PYALSAAUDIO is not set
 # PTXCONF_PYTHON3_PYASN1 is not set
 # PTXCONF_PYTHON3_PYBIND11 is not set
 # PTXCONF_PYTHON3_PYCPARSER is not set
 # PTXCONF_PYTHON3_PYCRYPTODOMEX is not set
+# PTXCONF_PYTHON3_PYDOT is not set
+# PTXCONF_PYTHON3_PYGMENTS is not set
 # PTXCONF_PYTHON3_PYMODBUS is not set
 # PTXCONF_PYTHON3_PYOPENSSL is not set
 # PTXCONF_PYTHON3_PYPARSING is not set
@@ -438,6 +447,7 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_PYTHON3_SNMPCLITOOLS is not set
 # PTXCONF_PYTHON3_SORTEDCONTAINERS is not set
 # PTXCONF_PYTHON3_SQLPARSE is not set
+# PTXCONF_PYTHON3_STACK_DATA is not set
 # PTXCONF_PYTHON3_STATEMACHINE is not set
 # PTXCONF_PYTHON3_TABULATE is not set
 # PTXCONF_PYTHON3_TELNETLIB3 is not set
@@ -482,15 +492,12 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_CA_CERTIFICATES is not set
 # PTXCONF_CANFESTIVAL is not set
 # PTXCONF_CHRONY is not set
-# PTXCONF_COMGT is not set
 # PTXCONF_CONNMAN is not set
 # PTXCONF_CPPZMQ is not set
 # PTXCONF_CRDA is not set
 # PTXCONF_DHCP_HELPER is not set
-# PTXCONF_DHCP is not set
 # PTXCONF_DNSMASQ is not set
 # PTXCONF_DROPBEAR is not set
-# PTXCONF_DUMP1090FA is not set
 # PTXCONF_ETHERWAKE is not set
 # PTXCONF_ETHTOOL is not set
 # PTXCONF_FCGI is not set
@@ -501,8 +508,6 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_HOSTAPD is not set
 # PTXCONF_IFPLUGD is not set
 # PTXCONF_IFTOP is not set
-# PTXCONF_INADYN is not set
-# PTXCONF_INETUTILS is not set
 # PTXCONF_IPROUTE2 is not set
 # PTXCONF_IPTABLES is not set
 # PTXCONF_IPUTILS is not set
@@ -545,7 +550,6 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_NBD is not set
 # PTXCONF_NET_SNMP is not set
 # PTXCONF_NETCAT is not set
-# PTXCONF_NETKIT_FTP is not set
 # PTXCONF_NETSNIFF_NG is not set
 # PTXCONF_NETTLE is not set
 # PTXCONF_NETWORKMANAGER is not set
@@ -577,7 +581,6 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_PYTHON3_DJANGO is not set
 # PTXCONF_RADVD is not set
 # PTXCONF_RPCBIND is not set
-# PTXCONF_RSYNC is not set
 # PTXCONF_RSYNC3 is not set
 # PTXCONF_RSYSLOG is not set
 # PTXCONF_SMCROUTE is not set
@@ -621,7 +624,6 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_LOGROTATE is not set
 # PTXCONF_LVM2 is not set
 # PTXCONF_MMC_UTILS is not set
-# PTXCONF_NCDU is not set
 # PTXCONF_NTFS_3G is not set
 # PTXCONF_OPKG is not set
 # PTXCONF_QUOTA_TOOLS is not set
@@ -639,7 +641,6 @@ PTXCONF_NO_LIBC=y
 #
 # PTXCONF_BERLIOS_CAN_UTILS is not set
 # PTXCONF_BLUEZ is not set
-# PTXCONF_CKERMIT is not set
 # PTXCONF_EFAX is not set
 # PTXCONF_HEIRLOOM_MAILX is not set
 # PTXCONF_IMX_UUC is not set
@@ -649,7 +650,6 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_OPEN62541 is not set
 # PTXCONF_OPENSC is not set
 # PTXCONF_PCSC_LITE is not set
-# PTXCONF_POP3SPAM is not set
 # PTXCONF_SJINN is not set
 # end of Communication Utilities       
 
@@ -674,7 +674,6 @@ PTXCONF_NO_LIBC=y
 # Editors                       
 #
 # PTXCONF_HEXEDIT is not set
-# PTXCONF_JOE is not set
 # PTXCONF_NANO is not set
 # PTXCONF_POKE is not set
 # PTXCONF_VIM is not set
@@ -769,10 +768,10 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_LIBSOLV is not set
 # PTXCONF_LIBSYSFS is not set
 # PTXCONF_LIBTAHU is not set
-# PTXCONF_LIBTAR is not set
 # PTXCONF_LIBTASN1 is not set
 # PTXCONF_LIBTRACEEVENT is not set
 # PTXCONF_LIBTRACEFS is not set
+# PTXCONF_LIBTSM is not set
 # PTXCONF_LIBUBOOTENV is not set
 # PTXCONF_LIBUCDAEMON is not set
 # PTXCONF_LIBUNWIND is not set
@@ -825,7 +824,7 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_UPOWER is not set
 # PTXCONF_XXHASH is not set
 # PTXCONF_YAJL is not set
-# PTXCONF_ZLIB is not set
+PTXCONF_ZLIB=y
 # end of System Libraries              
 
 #
@@ -888,7 +887,6 @@ PTXCONF_NO_LIBC=y
 # Test Suites                   
 #
 # PTXCONF_CATCH2 is not set
-# PTXCONF_CBENCHSUITE is not set
 # PTXCONF_CMOCKA is not set
 # PTXCONF_CPPUTEST is not set
 # PTXCONF_CPUBURN_ARM is not set
@@ -898,11 +896,9 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_GLMARK2 is not set
 # PTXCONF_GOOGLETEST is not set
 # PTXCONF_HOST_PELTS is not set
-# PTXCONF_IOZONE is not set
 # PTXCONF_IPERF is not set
 # PTXCONF_IPERF3 is not set
 # PTXCONF_LINUX_SERIAL_TEST is not set
-# PTXCONF_LMBENCH is not set
 # PTXCONF_MBW is not set
 # PTXCONF_PELTS_TESTS is not set
 # PTXCONF_PIGLIT is not set
@@ -1043,7 +1039,6 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_GST_PLUGINS_UGLY1 is not set
 # PTXCONF_GST_PYTHON1 is not set
 # PTXCONF_GST_RTSP_SERVER1 is not set
-# PTXCONF_GSTREAMER_VAAPI1 is not set
 # PTXCONF_GSTREAMER1 is not set
 # end of gstreamer 1.0                 
 
@@ -1103,7 +1098,6 @@ PTXCONF_NO_LIBC=y
 # PTXCONF_LIBMAD is not set
 # PTXCONF_LIBTREMOR is not set
 # PTXCONF_MADPLAY is not set
-# PTXCONF_MPG123 is not set
 # PTXCONF_PULSEAUDIO is not set
 # PTXCONF_RAWREC is not set
 # PTXCONF_SETMIXER is not set
