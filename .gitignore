@@ -1,0 +1,5 @@
+platform-x86_64/
+src/
+ptxdist/
+configs/*.old
+
