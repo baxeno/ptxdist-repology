@@ -39,9 +39,9 @@ ptxdist_version=$("${PTXDIST}" --version)
   --ptxconfig="${here}/configs/ptxconfig" \
   --platformconfig="${here}/configs/platformconfig" \
   --toolchain="/usr/bin" \
-  bash ptxd_repology > "${JSON_OUTPUT}"
+  bash ptxd_repology 2> /dev/null > "${JSON_OUTPUT}"
 
-echo
+echo "---------------------------------------------------"
 echo "repology.json: ${ptxdist_version}"
 echo
 
