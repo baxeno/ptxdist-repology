@@ -44,4 +44,6 @@ ptxdist_version=$("${PTXDIST}" --version)
 echo "---------------------------------------------------"
 echo "repology.json: ${ptxdist_version}"
 echo
-
+if grep -c "version.*unknown" "${JSON_OUTPUT}"; then
+  echo "Warning unknown version found in output JSON!"
+fi
