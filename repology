@@ -1,12 +1,47 @@
-#!/bin/sh
+#!/bin/bash
 
-if [ -x "${1}" ]; then
-	PTXDIST=${1}
-fi
-if [ -z "${PTXDIST}" ]; then
-        PTXDIST=ptxdist
-fi
+set -e # Exit script if any statement returns a non-true value.
 
+PTXDIST_GIT_URL="https://git.pengutronix.de/git/ptxdist"
+PTXDIST="${PWD}/ptxdist/bin/ptxdist"
+JSON_OUTPUT="${PWD}/repology.json"
+
+if [ $# -ne 1 ]; then
+  echo "Usage: $0 <ptxdist tag/branch>"
+  echo
+  echo "Outputs repology.json in current working directory"
+  echo
+  echo "Examples:"
+  echo "$0 ptxdist-2026.01.0"
+  echo "$0 master"
+  exit 1
+fi
+git_ref="${1}"
 here="$(cd "$(dirname "$(realpath "${0}")")" && pwd)"
 
-${PTXDIST} --ptxconfig="${here}/configs/ptxconfig" --platformconfig="${here}/configs/platformconfig" --toolchain=/usr/bin bash ptxd_repology
+if [ ! -d ptxdist ]; then
+  git clone "${PTXDIST_GIT_URL}"
+fi
+cd ptxdist
+git checkout master
+git pull
+git checkout "${git_ref}"
+make clean
+./autogen.sh
+./configure
+make
+cd -
+
+ptxdist_version=$("${PTXDIST}" --version)
+
+"${PTXDIST}" \
+  --force \
+  --ptxconfig="${here}/configs/ptxconfig" \
+  --platformconfig="${here}/configs/platformconfig" \
+  --toolchain="/usr/bin" \
+  bash ptxd_repology > "${JSON_OUTPUT}"
+
+echo
+echo "repology.json: ${ptxdist_version}"
+echo
+
