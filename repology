@@ -1,0 +1,12 @@
+#!/bin/sh
+
+if [ -x ${1} ]; then
+	PTXDIST=${1}
+fi
+if [ -z "${PTXDIST}" ]; then
+        PTXDIST=ptxdist
+fi
+
+here="$(cd "$(dirname "$(realpath "${0}")")" && pwd)"
+
+${PTXDIST} --ptxconfig=${here}/ptxconfig --platformconfig=${here}/platformconfig --toolchain=/usr/bin bash ptxd_repology
