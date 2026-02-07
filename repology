@@ -44,6 +44,13 @@ ptxdist_version=$("${PTXDIST}" --version)
 echo "---------------------------------------------------"
 echo "repology.json: ${ptxdist_version}"
 echo
-if grep -c "version.*unknown" "${JSON_OUTPUT}"; then
+
+# Fixup binutils with OSELAS.Toolchain version as "$(CROSS_LD) -v" command does not work
+BINUTILS_VERSION="2.40"
+sed -i "/name.*binutils/!b;n;s/unknown/${BINUTILS_VERSION}/" "${JSON_OUTPUT}"
+sed -i "s/binutils-unknown/binutils-${BINUTILS_VERSION}/g" "${JSON_OUTPUT}"
+
+# Validate output
+if grep -c "version.*unknown" "${JSON_OUTPUT}" > /dev/null; then
   echo "Warning unknown version found in output JSON!"
 fi
