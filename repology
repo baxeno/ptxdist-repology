@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if [ -x ${1} ]; then
+if [ -x "${1}" ]; then
 	PTXDIST=${1}
 fi
 if [ -z "${PTXDIST}" ]; then
@@ -9,4 +9,4 @@ fi
 
 here="$(cd "$(dirname "$(realpath "${0}")")" && pwd)"
 
-${PTXDIST} --ptxconfig=${here}/ptxconfig --platformconfig=${here}/platformconfig --toolchain=/usr/bin bash ptxd_repology
+${PTXDIST} --ptxconfig="${here}/configs/ptxconfig" --platformconfig="${here}/configs/platformconfig" --toolchain=/usr/bin bash ptxd_repology
