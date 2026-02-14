@@ -1771,8 +1771,8 @@
   },
   {
     "name": "libinput",
-    "version": "1.30.1",
-    "upstream_urls": "https://gitlab.freedesktop.org/libinput/libinput/-/archive/1.30.1/libinput-1.30.1.tar.gz",
+    "version": "1.31.0",
+    "upstream_urls": "https://gitlab.freedesktop.org/libinput/libinput/-/archive/1.31.0/libinput-1.31.0.tar.gz",
     "license": "MIT"
   },
   {
@@ -2263,8 +2263,8 @@
   },
   {
     "name": "libubootenv",
-    "version": "0.3.6",
-    "upstream_urls": "https://github.com/sbabic/libubootenv/archive/refs/tags/v0.3.6.tar.gz",
+    "version": "0.3.7",
+    "upstream_urls": "https://github.com/sbabic/libubootenv/archive/refs/tags/v0.3.7.tar.gz",
     "license": "MIT AND CC0-1.0 AND LGPL-2.1-or-later"
   },
   {
@@ -2629,8 +2629,8 @@
   },
   {
     "name": "mesalib",
-    "version": "25.3.4",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.3.4.tar.xz",
+    "version": "25.3.5",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.3.5.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -2906,7 +2906,7 @@
   {
     "name": "ntfs-3g",
     "version": "2022.10.3",
-    "upstream_urls": "https://tuxera.com/opensource/ntfs-3g_ntfsprogs-2022.10.3.tgz",
+    "upstream_urls": "https://download.tuxera.com/opensource/ntfs-3g_ntfsprogs-2022.10.3.tgz",
     "license": "GPL-2.0-or-later AND LGPL-2.0-only"
   },
   {
