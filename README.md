@@ -18,6 +18,6 @@ echo "Setup local environment for generating repology.json"
 toolbox create --distro fedora --release 42 ptxdist-env
 toolbox enter ptxdist-env
 sudo dnf install autoconf automake make gcc ncurses-devel flex bison texinfo patch gcc-c++
-./repology.sh master
+./repology master
 ```
 
