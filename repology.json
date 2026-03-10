@@ -799,8 +799,8 @@
   },
   {
     "name": "freetype",
-    "version": "2.14.1",
-    "upstream_urls": "https://download.savannah.gnu.org/releases/freetype/freetype-2.14.1.tar.xz https://download.savannah.gnu.org/releases/freetype/freetype-old/freetype-2.14.1.tar.xz http://downloads.sourceforge.net/sourceforge/freetype/freetype2/2.14.1/freetype-2.14.1.tar.xz",
+    "version": "2.14.2",
+    "upstream_urls": "https://download.savannah.gnu.org/releases/freetype/freetype-2.14.2.tar.xz https://download.savannah.gnu.org/releases/freetype/freetype-old/freetype-2.14.2.tar.xz http://downloads.sourceforge.net/sourceforge/freetype/freetype2/2.14.2/freetype-2.14.2.tar.xz",
     "license": "BSD-2-Clause AND FTL AND GPL-2.0-or-later AND MIT"
   },
   {
@@ -1153,8 +1153,8 @@
   },
   {
     "name": "hwdata",
-    "version": "0.403",
-    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.403.tar.gz",
+    "version": "0.405",
+    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.405.tar.gz",
     "license": "GPL-2.0-or-later OR X11"
   },
   {
@@ -1267,14 +1267,14 @@
   },
   {
     "name": "iproute2",
-    "version": "6.18.0",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.18.0.tar.xz https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.18.0.tar.xz",
+    "version": "6.19.0",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.19.0.tar.xz https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.19.0.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
     "name": "iptables",
-    "version": "1.8.12",
-    "upstream_urls": "https://ftp.netfilter.org/pub/iptables/iptables-1.8.12.tar.xz",
+    "version": "1.8.13",
+    "upstream_urls": "https://ftp.netfilter.org/pub/iptables/iptables-1.8.13.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -2395,8 +2395,8 @@
   },
   {
     "name": "libxml2",
-    "version": "2.15.1",
-    "upstream_urls": "https://download.gnome.org/sources/libxml2/2.15/libxml2-2.15.1.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libxml2/2.15/libxml2-2.15.1.tar.xz",
+    "version": "2.15.2",
+    "upstream_urls": "https://download.gnome.org/sources/libxml2/2.15/libxml2-2.15.2.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libxml2/2.15/libxml2-2.15.2.tar.xz",
     "license": "MIT AND ISC"
   },
   {
@@ -2437,8 +2437,8 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20260110",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260110.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260110.tar.gz",
+    "version": "20260221",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260221.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260221.tar.gz",
     "license": "proprietary"
   },
   {
@@ -2629,8 +2629,8 @@
   },
   {
     "name": "mesalib",
-    "version": "25.3.5",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-25.3.5.tar.xz",
+    "version": "26.0.1",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.0.1.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -2647,8 +2647,8 @@
   },
   {
     "name": "minicom",
-    "version": "2.10",
-    "upstream_urls": "https://salsa.debian.org/minicom-team/minicom/-/archive/2.10/minicom-2.10.tar.bz2",
+    "version": "2.11.1",
+    "upstream_urls": "https://salsa.debian.org/minicom-team/minicom/-/archive/2.11.1/minicom-2.11.1.tar.bz2",
     "license": "LGPL-2.0-or-later AND xinetd AND GPL-2.0-or-later"
   },
   {
@@ -4308,6 +4308,12 @@
     "license": "BSD-3-Clause"
   },
   {
+    "name": "shared-mime-info",
+    "version": "2.4",
+    "upstream_urls": "https://gitlab.freedesktop.org/xdg/shared-mime-info/-/archive/2.4/shared-mime-info-2.4.tar.gz",
+    "license": "unknown"
+  },
+  {
     "name": "sharness",
     "version": "1.2.1",
     "upstream_urls": "https://github.com/felipec/sharness/archive/refs/tags/v1.2.1.tar.gz",
@@ -4447,14 +4453,14 @@
   },
   {
     "name": "stm32flash",
-    "version": "0.5",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/stm32flash/stm32flash-0.5.tar.gz",
+    "version": "0.7",
+    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/stm32flash/stm32flash-0.7.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
     "name": "strace",
-    "version": "6.18",
-    "upstream_urls": "https://strace.io/files/6.18/strace-6.18.tar.xz",
+    "version": "6.19",
+    "upstream_urls": "https://strace.io/files/6.19/strace-6.19.tar.xz",
     "license": "LGPL-2.1-or-later AND GPL-2.0-only WITH Linux-syscall-note"
   },
   {
@@ -4519,8 +4525,8 @@
   },
   {
     "name": "syslogng",
-    "version": "4.8.1",
-    "upstream_urls": "https://github.com/balabit/syslog-ng/releases/download/syslog-ng-4.8.1/syslog-ng-4.8.1.tar.gz",
+    "version": "4.10.2",
+    "upstream_urls": "https://github.com/balabit/syslog-ng/releases/download/syslog-ng-4.10.2/syslog-ng-4.10.2.tar.gz",
     "license": "GPL-2.0-or-later AND LGPL-2.1-only"
   },
   {
@@ -4867,8 +4873,8 @@
   },
   {
     "name": "weston",
-    "version": "14.0.2",
-    "upstream_urls": "https://gitlab.freedesktop.org/wayland/weston/-/archive/14.0.2/weston-14.0.2.tar.gz",
+    "version": "15.0.0",
+    "upstream_urls": "https://gitlab.freedesktop.org/wayland/weston/-/archive/15.0.0/weston-15.0.0.tar.gz",
     "license": "MIT"
   },
   {
@@ -4999,8 +5005,8 @@
   },
   {
     "name": "xkeyboard-config",
-    "version": "2.46",
-    "upstream_urls": "https://ftp.x.org/archive/individual/data/xkeyboard-config/xkeyboard-config-2.46.tar.xz https://xorg.freedesktop.org/releases/individual/data/xkeyboard-config/xkeyboard-config-2.46.tar.xz",
+    "version": "2.47",
+    "upstream_urls": "https://ftp.x.org/archive/individual/data/xkeyboard-config/xkeyboard-config-2.47.tar.xz https://xorg.freedesktop.org/releases/individual/data/xkeyboard-config/xkeyboard-config-2.47.tar.xz",
     "license": "HPND-sell-variant AND X11-distribute-modifications-variant AND MIT-open-group AND MIT AND X11 AND xkeyboard-config-Zinoviev"
   },
   {
