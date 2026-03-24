@@ -127,8 +127,8 @@
   },
   {
     "name": "batctl",
-    "version": "2025.2",
-    "upstream_urls": "https://downloads.open-mesh.org/batman/stable/sources/batctl/batctl-2025.2.tar.gz",
+    "version": "2026.0",
+    "upstream_urls": "https://downloads.open-mesh.org/batman/stable/sources/batctl/batctl-2026.0.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -595,8 +595,8 @@
   },
   {
     "name": "e2fsprogs",
-    "version": "1.47.3",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.47.3/e2fsprogs-1.47.3.tar.gz https://www.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.47.3/e2fsprogs-1.47.3.tar.gz",
+    "version": "1.47.4",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.47.4/e2fsprogs-1.47.4.tar.gz https://www.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.47.4/e2fsprogs-1.47.4.tar.gz",
     "license": "GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND MIT"
   },
   {
@@ -645,7 +645,7 @@
     "name": "ensmallen",
     "version": "2.20.0",
     "upstream_urls": "https://www.ensmallen.org/files/ensmallen-2.20.0.tar.gz",
-    "license": "BSD-3-clause"
+    "license": "BSD-3-Clause"
   },
   {
     "name": "etherwake",
@@ -655,8 +655,8 @@
   },
   {
     "name": "ethtool",
-    "version": "6.15",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/../software/network/ethtool/ethtool-6.15.tar.xz https://www.kernel.org/pub/linux/../software/network/ethtool/ethtool-6.15.tar.xz",
+    "version": "6.19",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/../software/network/ethtool/ethtool-6.19.tar.xz https://www.kernel.org/pub/linux/../software/network/ethtool/ethtool-6.19.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -741,7 +741,7 @@
     "name": "figlet",
     "version": "2.2.5",
     "upstream_urls": "https://github.com/cmatsuoka/figlet/archive/refs/tags/2.2.5.tar.gz",
-    "license": "BSD-3-clause"
+    "license": "BSD-3-Clause"
   },
   {
     "name": "file",
@@ -795,7 +795,7 @@
     "name": "fontconfig",
     "version": "2.17.1",
     "upstream_urls": "https://gitlab.freedesktop.org/fontconfig/fontconfig/-/archive/2.17.1/fontconfig-2.17.1.tar.gz",
-    "license": "HPND-sell-variant AND MIT AND custom AND MIT-Modern-Variant AND Unicode-TOU and public_domain"
+    "license": "HPND-sell-variant AND MIT AND custom AND MIT-Modern-Variant AND Unicode-TOU AND public_domain"
   },
   {
     "name": "freetype",
@@ -903,13 +903,13 @@
     "name": "glmark2",
     "version": "2023.01",
     "upstream_urls": "https://github.com/glmark2/glmark2/archive/2023.01.tar.gz",
-    "license": "GPL-3.0-only AND SGIv1"
+    "license": "GPL-3.0-only AND SGI-OpenGL"
   },
   {
     "name": "glslang",
     "version": "1.4.341.0",
     "upstream_urls": "https://github.com/KhronosGroup/glslang/archive/vulkan-sdk-1.4.341.0.tar.gz",
-    "license": "BSD-3-clause AND BSD-2-clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom"
+    "license": "BSD-3-Clause AND BSD-2-Clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom"
   },
   {
     "name": "glu",
@@ -951,7 +951,7 @@
     "name": "gpgme",
     "version": "1.23.2",
     "upstream_urls": "https://www.gnupg.org/ftp/gcrypt/gpgme/gpgme-1.23.2.tar.bz2",
-    "license": "LGPLv2.1+"
+    "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gpsd",
@@ -1443,7 +1443,7 @@
     "name": "libarchive",
     "version": "3.8.5",
     "upstream_urls": "https://www.libarchive.org/downloads/libarchive-3.8.5.tar.gz",
-    "license": "BSD-2-Clause AND BSD-3-Clause AND public_domain AND (CC-0-1.0 OR OpenSSL OR Apache-2.0)"
+    "license": "BSD-2-Clause AND BSD-3-Clause AND public_domain AND (CC0-1.0 OR OpenSSL OR Apache-2.0)"
   },
   {
     "name": "libass",
@@ -1647,7 +1647,7 @@
     "name": "libev",
     "version": "4.24",
     "upstream_urls": "http://dist.schmorp.de/libev/Attic/libev-4.24.tar.gz",
-    "license": "GPLv2+, BSD"
+    "license": "GPL-2.0-or-later AND BSD"
   },
   {
     "name": "libevdev",
@@ -1797,7 +1797,7 @@
     "name": "libkcapi",
     "version": "1.5.0",
     "upstream_urls": "https://github.com/smuellerDD/libkcapi/archive/refs/tags/v1.5.0.tar.gz",
-    "license": "GPLv2+"
+    "license": "GPL-2.0-or-later"
   },
   {
     "name": "libkmod",
@@ -2217,7 +2217,7 @@
     "name": "libtasn1",
     "version": "4.20.0",
     "upstream_urls": "https://ftp.gnu.org/gnu/libtasn1/libtasn1-4.20.0.tar.gz https://ftpmirror.gnu.org/libtasn1/libtasn1-4.20.0.tar.gz",
-    "license": "GPL-3.0-or-later or LGPL-2.1-or-later"
+    "license": "GPL-3.0-or-later OR LGPL-2.1-or-later"
   },
   {
     "name": "libtheora",
@@ -2259,7 +2259,7 @@
     "name": "libtsm",
     "version": "4.4.1",
     "upstream_urls": "https://github.com/kmscon/libtsm/archive/refs/tags/v4.4.1.tar.gz",
-    "license": "MIT and BSD-2-Clause"
+    "license": "MIT AND BSD-2-Clause"
   },
   {
     "name": "libubootenv",
@@ -2547,7 +2547,7 @@
     "name": "lvm2",
     "version": "2.03.35",
     "upstream_urls": "https://sourceware.org/pub/lvm2/LVM2.2.03.35.tgz https://sourceware.org/pub/lvm2/old/LVM2.2.03.35.tgz",
-    "license": "GPL-2.0-only, LGPL-2.1-only"
+    "license": "GPL-2.0-only AND LGPL-2.1-only"
   },
   {
     "name": "lxc",
@@ -2629,8 +2629,8 @@
   },
   {
     "name": "mesalib",
-    "version": "26.0.1",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.0.1.tar.xz",
+    "version": "26.0.2",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.0.2.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -2877,7 +2877,7 @@
     "name": "nodejs",
     "version": "v20.19.2",
     "upstream_urls": "http://nodejs.org/dist/v20.19.2/node-v20.19.2.tar.xz",
-    "license": "MIT AND ISC AND BSD-3-Clause AND BSD-2-Clause AND Apache-2.0 AND Unicode-3.0 and NAIST-2003"
+    "license": "MIT AND ISC AND BSD-3-Clause AND BSD-2-Clause AND Apache-2.0 AND Unicode-3.0 AND NAIST-2003"
   },
   {
     "name": "npth",
@@ -2893,8 +2893,8 @@
   },
   {
     "name": "nss",
-    "version": "3.120",
-    "upstream_urls": "https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_120_RTM/src/nss-3.120.tar.gz",
+    "version": "3.121",
+    "upstream_urls": "https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_121_RTM/src/nss-3.121.tar.gz",
     "license": "MPL-2.0"
   },
   {
@@ -2913,7 +2913,7 @@
     "name": "ntp",
     "version": "4.2.8p18",
     "upstream_urls": "http://www.eecis.udel.edu/~ntp/ntp_spool/ntp4/ntp-4.2/ntp-4.2.8p18.tar.gz https://downloads.nwtime.org/ntp/ntp-4.2.8p18.tar.gz",
-    "license": "ntp"
+    "license": "NTP"
   },
   {
     "name": "ntpclient",
@@ -2985,7 +2985,7 @@
     "name": "openh264",
     "version": "2.6.0",
     "upstream_urls": "https://github.com/cisco/openh264/archive/refs/tags/v2.6.0.tar.gz",
-    "license": "BSD 2-Clause"
+    "license": "BSD-2-Clause"
   },
   {
     "name": "openldap",
@@ -3045,7 +3045,7 @@
     "name": "optee-test",
     "version": "4.9.0",
     "upstream_urls": "https://github.com/OP-TEE/optee_test/archive/4.9.0.tar.gz",
-    "license": "BSD-2-Clause and GPL-2.0"
+    "license": "BSD-2-Clause AND GPL-2.0"
   },
   {
     "name": "opus",
@@ -3153,7 +3153,7 @@
     "name": "piglit",
     "version": "2024-09-13-g54f78df2bd6b",
     "upstream_urls": "https://gitlab.freedesktop.org/mesa/piglit/-/archive/2024-09-13-g54f78df2bd6b/piglit-2024-09-13-g54f78df2bd6b.tar.gz",
-    "license": "MIT AND GPLv2+ AND GPLv3 AND LGPLv2"
+    "license": "MIT AND GPL-2.0-or-later AND GPL-3.0-only AND LGPL-2.0-only"
   },
   {
     "name": "pipewire",
@@ -4209,31 +4209,31 @@
     "name": "sdl-ttf",
     "version": "2.0.11",
     "upstream_urls": "http://www.libsdl.org/projects/SDL_ttf/release/SDL_ttf-2.0.11.tar.gz",
-    "license": "zlib"
+    "license": "Zlib"
   },
   {
     "name": "sdl2",
     "version": "2.32.8",
     "upstream_urls": "https://www.libsdl.org/release/SDL2-2.32.8.tar.gz",
-    "license": "zlib"
+    "license": "Zlib"
   },
   {
     "name": "sdl2-image",
     "version": "2.8.8",
     "upstream_urls": "https://github.com/libsdl-org/SDL_image/releases/download/release-2.8.8/SDL2_image-2.8.8.tar.gz",
-    "license": "zlib"
+    "license": "Zlib"
   },
   {
     "name": "sdl2-mixer",
     "version": "2.0.4",
     "upstream_urls": "https://www.libsdl.org/projects/SDL_mixer/release/SDL2_mixer-2.0.4.tar.gz",
-    "license": "zlib"
+    "license": "Zlib"
   },
   {
     "name": "sdl2-net",
     "version": "2.0.1",
     "upstream_urls": "https://www.libsdl.org/projects/SDL_net/release/SDL2_net-2.0.1.tar.gz",
-    "license": "zlib"
+    "license": "Zlib"
   },
   {
     "name": "sdl2-test",
@@ -4245,7 +4245,7 @@
     "name": "sdl2-ttf",
     "version": "2.24.0",
     "upstream_urls": "https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-2.24.0.tar.gz",
-    "license": "zlib"
+    "license": "Zlib"
   },
   {
     "name": "sdl_image",
@@ -4299,7 +4299,7 @@
     "name": "shaderc",
     "version": "v2026.1",
     "upstream_urls": "https://github.com/google/shaderc/archive/v2026.1.tar.gz",
-    "license": "Apache-2.0 AND (BSD-3-clause AND BSD-2-clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom) AND (Apache-2.0)"
+    "license": "Apache-2.0 AND (BSD-3-Clause AND BSD-2-Clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom) AND (Apache-2.0)"
   },
   {
     "name": "shadow",
@@ -4743,7 +4743,7 @@
     "name": "v4l-utils",
     "version": "1.32.0",
     "upstream_urls": "http://linuxtv.org/downloads/v4l-utils/v4l-utils-1.32.0.tar.xz",
-    "license": "GPL-2.0-or-later (tools); LGPL-2.1-or-later (libs)"
+    "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
   },
   {
     "name": "valgrind",
@@ -5709,7 +5709,7 @@
     "name": "zstd",
     "version": "1.5.7",
     "upstream_urls": "https://github.com/facebook/zstd/archive/v1.5.7.tar.gz",
-    "license": "BSD-3-clause OR GPL-2.0-only"
+    "license": "BSD-3-Clause OR GPL-2.0-only"
   },
   {
     "name": "zsync",
