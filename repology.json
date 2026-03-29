@@ -265,8 +265,8 @@
   },
   {
     "name": "c-ares",
-    "version": "1.34.5",
-    "upstream_urls": "https://github.com/c-ares/c-ares/releases/download/v1.34.5/c-ares-1.34.5.tar.gz",
+    "version": "1.34.6",
+    "upstream_urls": "https://github.com/c-ares/c-ares/releases/download/v1.34.6/c-ares-1.34.6.tar.gz",
     "license": "MIT AND BSD-3-Clause"
   },
   {
@@ -679,8 +679,8 @@
   },
   {
     "name": "expat",
-    "version": "2.7.4",
-    "upstream_urls": "https://github.com/libexpat/libexpat/releases/download/R_2_7_4/expat-2.7.4.tar.bz2",
+    "version": "2.7.5",
+    "upstream_urls": "https://github.com/libexpat/libexpat/releases/download/R_2_7_5/expat-2.7.5.tar.bz2",
     "license": "MIT"
   },
   {
@@ -799,8 +799,8 @@
   },
   {
     "name": "freetype",
-    "version": "2.14.2",
-    "upstream_urls": "https://download.savannah.gnu.org/releases/freetype/freetype-2.14.2.tar.xz https://download.savannah.gnu.org/releases/freetype/freetype-old/freetype-2.14.2.tar.xz http://downloads.sourceforge.net/sourceforge/freetype/freetype2/2.14.2/freetype-2.14.2.tar.xz",
+    "version": "2.14.3",
+    "upstream_urls": "https://download.savannah.gnu.org/releases/freetype/freetype-2.14.3.tar.xz https://download.savannah.gnu.org/releases/freetype/freetype-old/freetype-2.14.3.tar.xz http://downloads.sourceforge.net/sourceforge/freetype/freetype2/2.14.3/freetype-2.14.3.tar.xz",
     "license": "BSD-2-Clause AND FTL AND GPL-2.0-or-later AND MIT"
   },
   {
@@ -877,8 +877,8 @@
   },
   {
     "name": "glib",
-    "version": "2.86.4",
-    "upstream_urls": "https://download.gnome.org/sources/glib/2.86/glib-2.86.4.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/glib/2.86/glib-2.86.4.tar.xz",
+    "version": "2.88.0",
+    "upstream_urls": "https://download.gnome.org/sources/glib/2.88/glib-2.88.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/glib/2.88/glib-2.88.0.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -997,62 +997,62 @@
   },
   {
     "name": "gst-devtools1",
-    "version": "1.28.0",
-    "upstream_urls": "https://gstreamer.freedesktop.org/data/src/gst-devtools/gst-devtools-1.28.0.tar.xz",
+    "version": "1.28.1",
+    "upstream_urls": "https://gstreamer.freedesktop.org/data/src/gst-devtools/gst-devtools-1.28.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-libav1",
-    "version": "1.28.0",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.28.0.tar.xz",
+    "version": "1.28.1",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.28.1.tar.xz",
     "license": "GPL-2.0-or-later AND LGPL-2.0-or-later"
   },
   {
     "name": "gst-plugins-bad1",
-    "version": "1.28.0",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-bad/gst-plugins-bad-1.28.0.tar.xz",
+    "version": "1.28.1",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-bad/gst-plugins-bad-1.28.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-plugins-base1",
-    "version": "1.28.0",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-1.28.0.tar.xz",
+    "version": "1.28.1",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-1.28.1.tar.xz",
     "license": "LGPL-2.0-or-later AND BSD-3-Clause AND MIT"
   },
   {
     "name": "gst-plugins-good1",
-    "version": "1.28.0",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-1.28.0.tar.xz",
+    "version": "1.28.1",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-1.28.1.tar.xz",
     "license": "LGPL-2.1-or-later AND BSD-3-Clause AND MIT"
   },
   {
     "name": "gst-plugins-rs",
-    "version": "1.28.0",
-    "upstream_urls": "https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/archive/gstreamer-1.28.0/gst-plugins-rs-gstreamer-1.28.0.tar.bz2",
+    "version": "0.15.1",
+    "upstream_urls": "https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/archive/0.15.1/gst-plugins-rs-0.15.1.tar.bz2",
     "license": "LGPL-2.0-or-later AND ( Apache-2.0 OR MIT ) AND MPL-2.0 AND MIT AND unknown"
   },
   {
     "name": "gst-plugins-ugly1",
-    "version": "1.28.0",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.28.0.tar.xz",
+    "version": "1.28.1",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.28.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-python1",
-    "version": "1.28.0",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-python/gst-python-1.28.0.tar.xz",
+    "version": "1.28.1",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-python/gst-python-1.28.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "gst-rtsp-server1",
-    "version": "1.28.0",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-rtsp/gst-rtsp-server-1.28.0.tar.xz",
+    "version": "1.28.1",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gst-rtsp/gst-rtsp-server-1.28.1.tar.xz",
     "license": "LGPL-2.0-or-later"
   },
   {
     "name": "gstreamer1",
-    "version": "1.28.0",
-    "upstream_urls": "https://gstreamer.freedesktop.org/src/gstreamer/gstreamer-1.28.0.tar.xz",
+    "version": "1.28.1",
+    "upstream_urls": "https://gstreamer.freedesktop.org/src/gstreamer/gstreamer-1.28.1.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -1460,7 +1460,7 @@
   {
     "name": "libatasmart",
     "version": "0.19",
-    "upstream_urls": "git+https://git.0pointer.net/clone/libatasmart.git;tag=v0.19",
+    "upstream_urls": "https://github.com/libatasmart/libatasmart/archive/refs/tags/v0.19.tar.gz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -1573,8 +1573,8 @@
   },
   {
     "name": "libcurl",
-    "version": "8.18.0",
-    "upstream_urls": "https://curl.se/download/curl-8.18.0.tar.xz",
+    "version": "8.19.0",
+    "upstream_urls": "https://curl.se/download/curl-8.19.0.tar.xz",
     "license": "curl"
   },
   {
@@ -2047,8 +2047,8 @@
   },
   {
     "name": "libpciaccess",
-    "version": "0.18.1",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libpciaccess-0.18.1.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libpciaccess-0.18.1.tar.xz",
+    "version": "0.19",
+    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libpciaccess-0.19.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libpciaccess-0.19.tar.xz",
     "license": "MIT"
   },
   {
@@ -2437,8 +2437,8 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20260221",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260221.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260221.tar.gz",
+    "version": "20260309",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260309.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260309.tar.gz",
     "license": "proprietary"
   },
   {
@@ -2629,8 +2629,8 @@
   },
   {
     "name": "mesalib",
-    "version": "26.0.2",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.0.2.tar.xz",
+    "version": "26.0.3",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.0.3.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -3498,6 +3498,12 @@
     "license": "MIT AND PSF-2.0"
   },
   {
+    "name": "python3-grpcio",
+    "version": "1.78.0",
+    "upstream_urls": "https://files.pythonhosted.org/packages/source/g/grpcio/grpcio-1.78.0.tar.gz",
+    "license": "BSD-3-Clause AND Apache-2.0 AND MPL-2.0"
+  },
+  {
     "name": "python3-gunicorn",
     "version": "23.0.0",
     "upstream_urls": "https://files.pythonhosted.org/packages/source/g/gunicorn/gunicorn-23.0.0.tar.gz",
@@ -3697,8 +3703,8 @@
   },
   {
     "name": "python3-protobuf",
-    "version": "5.26.1",
-    "upstream_urls": "https://files.pythonhosted.org/packages/source/p/protobuf/protobuf-5.26.1.tar.gz",
+    "version": "7.34.1",
+    "upstream_urls": "https://files.pythonhosted.org/packages/source/p/protobuf/protobuf-7.34.1.tar.gz",
     "license": "BSD-3-Clause AND custom-exception"
   },
   {
@@ -3960,6 +3966,12 @@
     "license": "MIT"
   },
   {
+    "name": "python3-typing-extensions",
+    "version": "4.15.0",
+    "upstream_urls": "https://files.pythonhosted.org/packages/source/t/typing-extensions/typing_extensions-4.15.0.tar.gz",
+    "license": "PSF-2.0"
+  },
+  {
     "name": "python3-urllib3",
     "version": "2.2.2",
     "upstream_urls": "https://files.pythonhosted.org/packages/source/u/urllib3/urllib3-2.2.2.tar.gz",
@@ -4090,6 +4102,12 @@
     "version": "0.9.98",
     "upstream_urls": "http://downloads.sourceforge.net/sourceforge/rawrec/rawrec-0.9.98.tar.gz",
     "license": ""
+  },
+  {
+    "name": "re2",
+    "version": "2025-11-05",
+    "upstream_urls": "https://github.com/google/re2/archive/2025-11-05.tar.gz",
+    "license": "BSD-3-Clause"
   },
   {
     "name": "readline",
