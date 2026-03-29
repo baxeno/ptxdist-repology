@@ -14,6 +14,7 @@ if [ $# -ne 1 ]; then
   echo "Examples:"
   echo "$0 ptxdist-2026.01.0"
   echo "$0 master"
+  echo "REPOLOGY_AUTO_COMMIT=1 $0 master"
   exit 1
 fi
 git_ref="${1}"
@@ -41,8 +42,9 @@ ptxdist_version=$("${PTXDIST}" --version)
   --toolchain="/usr/bin" \
   bash ptxd_repology 2> /dev/null > "${JSON_OUTPUT}"
 
+git_message="repology.json: ${ptxdist_version}"
 echo "---------------------------------------------------"
-echo "repology.json: ${ptxdist_version}"
+echo "${git_message}"
 echo
 
 # Fixup binutils with OSELAS.Toolchain version as "$(CROSS_LD) -v" command does not work
@@ -53,4 +55,9 @@ sed -i "s/binutils-unknown/binutils-${BINUTILS_VERSION}/g" "${JSON_OUTPUT}"
 # Validate output
 if grep -c "version.*unknown" "${JSON_OUTPUT}" > /dev/null; then
   echo "Warning unknown version found in output JSON!"
+fi
+
+if [ -v REPOLOGY_AUTO_COMMIT ]; then
+  git add repology.json
+  git commit -s -m "${git_message}"
 fi

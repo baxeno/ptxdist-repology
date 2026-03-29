@@ -21,3 +21,5 @@ sudo dnf install autoconf automake make gcc ncurses-devel flex bison texinfo pat
 ./repology master
 ```
 
+> Note: Auto comment changes with `REPOLOGY_AUTO_COMMIT=1 ./repology master`
+
