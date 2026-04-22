@@ -1,6 +1,8 @@
 # ptxdist-repology
 
-Repology JSON for PTXdist, see result here: [PTXdist repository information - Repology](https://repology.org/repository/ptxdist)
+Repology JSON source for PTXdist.
+
+[![Repository status](https://repology.org/badge/repository-big/ptxdist.svg)](https://repology.org/repository/ptxdist)
 
 **JSON output:**
 
