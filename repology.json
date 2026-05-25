@@ -31,8 +31,8 @@
   },
   {
     "name": "aml",
-    "version": "0.3.0",
-    "upstream_urls": "https://github.com/any1/aml/archive/refs/tags/v0.3.0.tar.gz",
+    "version": "1.0.0",
+    "upstream_urls": "https://github.com/any1/aml/archive/refs/tags/v1.0.0.tar.gz",
     "license": "ISC"
   },
   {
@@ -529,8 +529,8 @@
   },
   {
     "name": "dropbear",
-    "version": "2026.90",
-    "upstream_urls": "https://matt.ucc.asn.au/dropbear/releases/dropbear-2026.90.tar.bz2 https://dropbear.nl/mirror/releases/dropbear-2026.90.tar.bz2",
+    "version": "2026.91",
+    "upstream_urls": "https://matt.ucc.asn.au/dropbear/releases/dropbear-2026.91.tar.bz2 https://dropbear.nl/mirror/releases/dropbear-2026.91.tar.bz2",
     "license": "MIT AND BSD-2-Clause AND SSH-short AND (custom OR WTFPL) AND Unlicense"
   },
   {
@@ -649,8 +649,8 @@
   },
   {
     "name": "expat",
-    "version": "2.8.0",
-    "upstream_urls": "https://github.com/libexpat/libexpat/releases/download/R_2_8_0/expat-2.8.0.tar.bz2",
+    "version": "2.8.1",
+    "upstream_urls": "https://github.com/libexpat/libexpat/releases/download/R_2_8_1/expat-2.8.1.tar.bz2",
     "license": "MIT"
   },
   {
@@ -1339,8 +1339,8 @@
   },
   {
     "name": "kmscon",
-    "version": "9.3.0",
-    "upstream_urls": "https://github.com/kmscon/kmscon/archive/refs/tags/v9.3.0.tar.gz",
+    "version": "10.0.0",
+    "upstream_urls": "https://github.com/kmscon/kmscon/archive/refs/tags/v10.0.0.tar.gz",
     "license": "MIT AND LGPL-2.1-or-later AND BSD-2-Clause"
   },
   {
@@ -1705,8 +1705,8 @@
   },
   {
     "name": "libinput",
-    "version": "1.31.1",
-    "upstream_urls": "https://gitlab.freedesktop.org/libinput/libinput/-/archive/1.31.1/libinput-1.31.1.tar.gz",
+    "version": "1.31.2",
+    "upstream_urls": "https://gitlab.freedesktop.org/libinput/libinput/-/archive/1.31.2/libinput-1.31.2.tar.gz",
     "license": "MIT"
   },
   {
@@ -2185,8 +2185,8 @@
   },
   {
     "name": "libtsm",
-    "version": "4.4.1",
-    "upstream_urls": "https://github.com/kmscon/libtsm/archive/refs/tags/v4.4.1.tar.gz",
+    "version": "4.5.0",
+    "upstream_urls": "https://github.com/kmscon/libtsm/archive/refs/tags/v4.5.0.tar.gz",
     "license": "MIT AND BSD-2-Clause"
   },
   {
@@ -2215,8 +2215,8 @@
   },
   {
     "name": "libusb",
-    "version": "1.0.29",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libusb/libusb-1.0.29.tar.bz2",
+    "version": "1.0.30",
+    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libusb/libusb-1.0.30.tar.bz2",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -2353,8 +2353,8 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20260410",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260410.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260410.tar.gz",
+    "version": "20260519",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260519.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260519.tar.gz",
     "license": "proprietary"
   },
   {
@@ -2521,8 +2521,8 @@
   },
   {
     "name": "mesalib",
-    "version": "26.0.6",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.0.6.tar.xz",
+    "version": "26.1.1",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.1.1.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -2671,8 +2671,8 @@
   },
   {
     "name": "neatvnc",
-    "version": "0.9.5",
-    "upstream_urls": "https://github.com/any1/neatvnc/archive/refs/tags/v0.9.5.tar.gz",
+    "version": "1.0.0",
+    "upstream_urls": "https://github.com/any1/neatvnc/archive/refs/tags/v1.0.0.tar.gz",
     "license": "ISC"
   },
   {
@@ -2851,9 +2851,9 @@
   },
   {
     "name": "opencv",
-    "version": "4.4.0",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/opencvlibrary/opencv-unix/4.4.0/opencv-4.4.0.zip https://github.com/opencv/opencv/archive/4.4.0.zip",
-    "license": "BSD"
+    "version": "4.13.0",
+    "upstream_urls": "https://github.com/opencv/opencv/archive/4.13.0.zip",
+    "license": "Apache-2.0"
   },
   {
     "name": "openfortivpn",
@@ -4543,8 +4543,8 @@
   },
   {
     "name": "util-linux",
-    "version": "2.42",
-    "upstream_urls": "https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git/snapshot/util-linux-2.42.tar.gz",
+    "version": "2.42.1",
+    "upstream_urls": "https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git/snapshot/util-linux-2.42.1.tar.gz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND BSD-4-Clause AND MIT AND ISC AND public_domain"
   },
   {
@@ -4663,8 +4663,8 @@
   },
   {
     "name": "wayvnc",
-    "version": "0.9.1",
-    "upstream_urls": "https://github.com/any1/wayvnc/archive/refs/tags/v0.9.1.tar.gz",
+    "version": "0.10.0",
+    "upstream_urls": "https://github.com/any1/wayvnc/archive/refs/tags/v0.10.0.tar.gz",
     "license": "ISC"
   },
   {
