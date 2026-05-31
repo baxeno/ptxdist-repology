@@ -871,8 +871,8 @@
   },
   {
     "name": "glslang",
-    "version": "1.4.341.0",
-    "upstream_urls": "https://github.com/KhronosGroup/glslang/archive/vulkan-sdk-1.4.341.0.tar.gz",
+    "version": "1.4.350.0",
+    "upstream_urls": "https://github.com/KhronosGroup/glslang/archive/vulkan-sdk-1.4.350.0.tar.gz",
     "license": "BSD-3-Clause AND BSD-2-Clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom"
   },
   {
@@ -2071,8 +2071,8 @@
   },
   {
     "name": "libslirp",
-    "version": "4.9.1",
-    "upstream_urls": "https://gitlab.freedesktop.org/slirp/libslirp/-/archive/v4.9.1/libslirp-v4.9.1.tar.bz2",
+    "version": "4.9.2",
+    "upstream_urls": "https://gitlab.freedesktop.org/slirp/libslirp/-/archive/v4.9.2/libslirp-v4.9.2.tar.bz2",
     "license": "BSD-3-Clause AND MIT"
   },
   {
@@ -4135,8 +4135,8 @@
   },
   {
     "name": "shaderc",
-    "version": "v2026.1",
-    "upstream_urls": "https://github.com/google/shaderc/archive/v2026.1.tar.gz",
+    "version": "v2026.2",
+    "upstream_urls": "https://github.com/google/shaderc/archive/v2026.2.tar.gz",
     "license": "Apache-2.0 AND (BSD-3-Clause AND BSD-2-Clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom) AND (Apache-2.0)"
   },
   {
@@ -4237,14 +4237,14 @@
   },
   {
     "name": "spirv-headers",
-    "version": "1.4.341.0",
-    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Headers/archive/vulkan-sdk-1.4.341.0.tar.gz",
+    "version": "1.4.350.0",
+    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Headers/archive/vulkan-sdk-1.4.350.0.tar.gz",
     "license": "custom AND MIT"
   },
   {
     "name": "spirv-tools",
-    "version": "1.4.341.0",
-    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Tools/archive/vulkan-sdk-1.4.341.0.tar.gz",
+    "version": "1.4.350.0",
+    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Tools/archive/vulkan-sdk-1.4.350.0.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -4591,8 +4591,8 @@
   },
   {
     "name": "volk",
-    "version": "1.4.341.0",
-    "upstream_urls": "https://github.com/zeux/volk/archive/refs/tags/vulkan-sdk-1.4.341.0.tar.gz",
+    "version": "1.4.350.0",
+    "upstream_urls": "https://github.com/zeux/volk/archive/refs/tags/vulkan-sdk-1.4.350.0.tar.gz",
     "license": "MIT"
   },
   {
@@ -4603,32 +4603,32 @@
   },
   {
     "name": "vulkan-headers",
-    "version": "1.4.341.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Headers/archive/vulkan-sdk-1.4.341.0.tar.gz",
+    "version": "1.4.350.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Headers/archive/vulkan-sdk-1.4.350.0.tar.gz",
     "license": "Apache-2.0 AND MIT"
   },
   {
     "name": "vulkan-loader",
-    "version": "1.4.341.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Loader/archive/vulkan-sdk-1.4.341.0.tar.gz",
+    "version": "1.4.350.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Loader/archive/vulkan-sdk-1.4.350.0.tar.gz",
     "license": "Apache-2.0"
   },
   {
     "name": "vulkan-tools",
-    "version": "1.4.341.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Tools/archive/vulkan-sdk-1.4.341.0.tar.gz",
+    "version": "1.4.350.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Tools/archive/vulkan-sdk-1.4.350.0.tar.gz",
     "license": "Apache-2.0"
   },
   {
     "name": "vulkan-utility-libraries",
-    "version": "1.4.341.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries/archive/vulkan-sdk-1.4.341.0.tar.gz",
+    "version": "1.4.350.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries/archive/vulkan-sdk-1.4.350.0.tar.gz",
     "license": "Apache-2.0 AND MIT"
   },
   {
     "name": "vulkan-validationlayers",
-    "version": "1.4.341.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-ValidationLayers/archive/vulkan-sdk-1.4.341.0.tar.gz",
+    "version": "1.4.350.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-ValidationLayers/archive/vulkan-sdk-1.4.350.0.tar.gz",
     "license": "Apache-2.0 AND MIT AND BSL-1.0"
   },
   {
