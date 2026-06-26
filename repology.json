@@ -19,8 +19,8 @@
   },
   {
     "name": "alsa-lib",
-    "version": "1.2.16",
-    "upstream_urls": "https://www.alsa-project.org/files/pub/lib/alsa-lib-1.2.16.tar.bz2",
+    "version": "1.2.16.1",
+    "upstream_urls": "https://www.alsa-project.org/files/pub/lib/alsa-lib-1.2.16.1.tar.bz2",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -228,6 +228,12 @@
     "license": "Apache-2.0"
   },
   {
+    "name": "bubblewrap",
+    "version": "0.11.2",
+    "upstream_urls": "https://github.com/containers/bubblewrap/releases/download/v0.11.2/bubblewrap-0.11.2.tar.xz",
+    "license": "LGPL-2.0-or-later"
+  },
+  {
     "name": "bustle",
     "version": "0.2.4",
     "upstream_urls": "http://www.willthompson.co.uk/bustle/releases/bustle-0.2.4.tar.gz",
@@ -235,8 +241,8 @@
   },
   {
     "name": "busybox",
-    "version": "1.37.0",
-    "upstream_urls": "https://www.busybox.net/downloads/busybox-1.37.0.tar.bz2",
+    "version": "1.38.0",
+    "upstream_urls": "https://www.busybox.net/downloads/busybox-1.38.0.tar.bz2",
     "license": "GPL-2.0-only"
   },
   {
@@ -547,8 +553,8 @@
   },
   {
     "name": "dtc",
-    "version": "1.7.2",
-    "upstream_urls": "https://git.kernel.org/pub/scm/utils/dtc/dtc.git/snapshot/dtc-1.7.2.tar.gz",
+    "version": "1.8.1",
+    "upstream_urls": "https://git.kernel.org/pub/scm/utils/dtc/dtc.git/snapshot/dtc-1.8.1.tar.gz",
     "license": "GPL-2.0-or-later OR BSD-2-Clause"
   },
   {
@@ -1057,8 +1063,8 @@
   },
   {
     "name": "haveged",
-    "version": "1.9.19",
-    "upstream_urls": "https://github.com/jirka-h/haveged/archive/v1.9.19.tar.gz",
+    "version": "1.9.23",
+    "upstream_urls": "https://github.com/jirka-h/haveged/archive/v1.9.23.tar.gz",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -1225,8 +1231,8 @@
   },
   {
     "name": "iproute2",
-    "version": "7.0.0",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/net/iproute2/iproute2-7.0.0.tar.xz https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-7.0.0.tar.xz",
+    "version": "7.1.0",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/net/iproute2/iproute2-7.1.0.tar.xz https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-7.1.0.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -1273,8 +1279,8 @@
   },
   {
     "name": "jq",
-    "version": "1.8.1",
-    "upstream_urls": "https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-1.8.1.tar.gz",
+    "version": "1.8.2",
+    "upstream_urls": "https://github.com/jqlang/jq/releases/download/jq-1.8.2/jq-1.8.2.tar.gz",
     "license": "MIT AND CC-BY-3.0 AND ICU AND BSD-2-Clause"
   },
   {
@@ -1627,8 +1633,8 @@
   },
   {
     "name": "libffi",
-    "version": "3.5.2",
-    "upstream_urls": "https://github.com/libffi/libffi/releases/download/v3.5.2/libffi-3.5.2.tar.gz",
+    "version": "3.6.0",
+    "upstream_urls": "https://github.com/libffi/libffi/releases/download/v3.6.0/libffi-3.6.0.tar.gz",
     "license": "MIT"
   },
   {
@@ -1843,9 +1849,9 @@
   },
   {
     "name": "libnet",
-    "version": "1.1.6",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libnet-dev/libnet-1.1.6.tar.gz",
-    "license": ""
+    "version": "1.3",
+    "upstream_urls": "https://github.com/libnet/libnet/releases/download/v1.3/libnet-1.3.tar.gz",
+    "license": "BSD-2-Clause AND BSD-3-Clause AND MIT-CMU"
   },
   {
     "name": "libnetfilter_conntrack",
@@ -2347,8 +2353,8 @@
   },
   {
     "name": "lighttpd",
-    "version": "1.4.82",
-    "upstream_urls": "http://download.lighttpd.net/lighttpd/releases-1.4.x/lighttpd-1.4.82.tar.xz",
+    "version": "1.4.84",
+    "upstream_urls": "http://download.lighttpd.net/lighttpd/releases-1.4.x/lighttpd-1.4.84.tar.xz",
     "license": "BSD-3-Clause AND OML AND RSA-MD"
   },
   {
@@ -2397,7 +2403,7 @@
     "name": "log4cplus",
     "version": "1.2.2",
     "upstream_urls": "http://downloads.sourceforge.net/sourceforge/log4cplus/log4cplus-1.2.2.tar.xz",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0 AND BSD-2-Clause"
   },
   {
     "name": "logrotate",
@@ -2521,8 +2527,8 @@
   },
   {
     "name": "mesalib",
-    "version": "26.1.2",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.1.2.tar.xz",
+    "version": "26.1.3",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.1.3.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -2887,8 +2893,8 @@
   },
   {
     "name": "openssl",
-    "version": "3.5.6",
-    "upstream_urls": "https://github.com/openssl/openssl/releases/download/openssl-3.5.6/openssl-3.5.6.tar.gz https://www.openssl.org/source/openssl-3.5.6.tar.gz https://www.openssl.org/source/old/3.5/openssl-3.5.6.tar.gz",
+    "version": "3.5.7",
+    "upstream_urls": "https://github.com/openssl/openssl/releases/download/openssl-3.5.7/openssl-3.5.7.tar.gz https://www.openssl.org/source/openssl-3.5.7.tar.gz https://www.openssl.org/source/old/3.5/openssl-3.5.7.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -3781,8 +3787,8 @@
   },
   {
     "name": "python3-statemachine",
-    "version": "2.5.0",
-    "upstream_urls": "https://files.pythonhosted.org/packages/source/p/python-statemachine/python_statemachine-2.5.0.tar.gz",
+    "version": "3.1.2",
+    "upstream_urls": "https://files.pythonhosted.org/packages/source/p/python-statemachine/python_statemachine-3.1.2.tar.gz",
     "license": "MIT"
   },
   {
@@ -4285,8 +4291,8 @@
   },
   {
     "name": "strace",
-    "version": "7.0",
-    "upstream_urls": "https://strace.io/files/7.0/strace-7.0.tar.xz",
+    "version": "7.1",
+    "upstream_urls": "https://strace.io/files/7.1/strace-7.1.tar.xz",
     "license": "LGPL-2.1-or-later AND GPL-2.0-only WITH Linux-syscall-note"
   },
   {
@@ -4543,8 +4549,8 @@
   },
   {
     "name": "util-linux",
-    "version": "2.42.1",
-    "upstream_urls": "https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git/snapshot/util-linux-2.42.1.tar.gz",
+    "version": "2.42.2",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/v2.42/util-linux-2.42.2.tar.xz https://www.kernel.org/pub/linux/utils/util-linux/v2.42/util-linux-2.42.2.tar.xz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND BSD-4-Clause AND MIT AND ISC AND public_domain"
   },
   {
@@ -4651,8 +4657,8 @@
   },
   {
     "name": "wayland-protocols",
-    "version": "1.48",
-    "upstream_urls": "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.48/downloads/wayland-protocols-1.48.tar.xz",
+    "version": "1.49",
+    "upstream_urls": "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.49/downloads/wayland-protocols-1.49.tar.xz",
     "license": "MIT"
   },
   {
@@ -4807,8 +4813,8 @@
   },
   {
     "name": "xkeyboard-config",
-    "version": "2.47",
-    "upstream_urls": "https://ftp.x.org/archive/individual/data/xkeyboard-config/xkeyboard-config-2.47.tar.xz https://xorg.freedesktop.org/releases/individual/data/xkeyboard-config/xkeyboard-config-2.47.tar.xz",
+    "version": "2.48",
+    "upstream_urls": "https://ftp.x.org/archive/individual/data/xkeyboard-config/xkeyboard-config-2.48.tar.xz https://xorg.freedesktop.org/releases/individual/data/xkeyboard-config/xkeyboard-config-2.48.tar.xz",
     "license": "HPND-sell-variant AND X11-distribute-modifications-variant AND MIT-open-group AND MIT AND X11 AND xkeyboard-config-Zinoviev"
   },
   {
