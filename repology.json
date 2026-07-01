@@ -655,8 +655,8 @@
   },
   {
     "name": "expat",
-    "version": "2.8.1",
-    "upstream_urls": "https://github.com/libexpat/libexpat/releases/download/R_2_8_1/expat-2.8.1.tar.bz2",
+    "version": "2.8.2",
+    "upstream_urls": "https://github.com/libexpat/libexpat/releases/download/R_2_8_2/expat-2.8.2.tar.bz2",
     "license": "MIT"
   },
   {
@@ -2359,8 +2359,8 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20260519",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260519.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260519.tar.gz",
+    "version": "20260622",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260622.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260622.tar.gz",
     "license": "proprietary"
   },
   {
@@ -4363,8 +4363,8 @@
   },
   {
     "name": "systemd",
-    "version": "258",
-    "upstream_urls": "https://github.com/systemd/systemd/archive/v258.tar.gz",
+    "version": "261.1",
+    "upstream_urls": "https://github.com/systemd/systemd/archive/v261.1.tar.gz",
     "license": "GPL-2.0-or-later AND LGPL-2.1-only"
   },
   {
@@ -5125,8 +5125,8 @@
   },
   {
     "name": "xorg-font-ttf-android",
-    "version": "4.4.4r2",
-    "upstream_urls": "http://snapshot.debian.org/archive/debian/20140920T101110Z/pool/main/f/fonts-android/fonts-android_4.4.4r2.orig.tar.xz",
+    "version": "8.1.0r7",
+    "upstream_urls": "https://snapshot.debian.org/archive/debian/20241028T145958Z/pool/main/f/fonts-android/fonts-android_8.1.0r7.orig.tar.gz",
     "license": "Apache-2.0"
   },
   {
