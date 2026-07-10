@@ -2239,8 +2239,8 @@
   },
   {
     "name": "libuv",
-    "version": "1.47.0",
-    "upstream_urls": "https://dist.libuv.org/dist/v1.47.0/libuv-v1.47.0.tar.gz",
+    "version": "1.52.1",
+    "upstream_urls": "https://dist.libuv.org/dist/v1.52.1/libuv-v1.52.1.tar.gz",
     "license": "MIT AND ISC"
   },
   {
@@ -2767,9 +2767,9 @@
   },
   {
     "name": "nodejs",
-    "version": "v20.19.2",
-    "upstream_urls": "http://nodejs.org/dist/v20.19.2/node-v20.19.2.tar.xz",
-    "license": "MIT AND ISC AND BSD-3-Clause AND BSD-2-Clause AND Apache-2.0 AND Unicode-3.0 AND NAIST-2003"
+    "version": "v26.4.0",
+    "upstream_urls": "http://nodejs.org/dist/v26.4.0/node-v26.4.0.tar.xz",
+    "license": "MIT AND ISC AND BSD-3-Clause AND BSD-2-Clause AND Apache-2.0 AND Unicode-3.0 AND NAIST-2003 AND BlueOak-1.0.0"
   },
   {
     "name": "npth",
