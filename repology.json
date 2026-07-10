@@ -188,7 +188,7 @@
   {
     "name": "boost",
     "version": "1_89_0",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/boost/boost_1_89_0.tar.bz2",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/boost/boost_1_89_0.tar.bz2",
     "license": "BSL-1.0"
   },
   {
@@ -320,7 +320,7 @@
   {
     "name": "cmatrix",
     "version": "1.2a",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/cmatrix/cmatrix/1.2a/cmatrix-1.2a.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/cmatrix/cmatrix/1.2a/cmatrix-1.2a.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -344,7 +344,7 @@
   {
     "name": "comgt",
     "version": "0.32",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/comgt/comgt.0.32.tgz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/comgt/comgt.0.32.tgz",
     "license": "GPL-2.0-only"
   },
   {
@@ -776,7 +776,7 @@
   {
     "name": "freetype",
     "version": "2.14.3",
-    "upstream_urls": "https://download.savannah.gnu.org/releases/freetype/freetype-2.14.3.tar.xz https://download.savannah.gnu.org/releases/freetype/freetype-old/freetype-2.14.3.tar.xz http://downloads.sourceforge.net/sourceforge/freetype/freetype2/2.14.3/freetype-2.14.3.tar.xz",
+    "upstream_urls": "https://download.savannah.gnu.org/releases/freetype/freetype-2.14.3.tar.xz https://download.savannah.gnu.org/releases/freetype/freetype-old/freetype-2.14.3.tar.xz https://downloads.sourceforge.net/sourceforge/freetype/freetype2/2.14.3/freetype-2.14.3.tar.xz",
     "license": "BSD-2-Clause AND FTL AND GPL-2.0-or-later AND MIT"
   },
   {
@@ -836,13 +836,13 @@
   {
     "name": "giflib",
     "version": "5.1.4",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/giflib/giflib-5.1.4.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/giflib/giflib-5.1.4.tar.gz",
     "license": "MIT"
   },
   {
     "name": "glew",
     "version": "1.10.0",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/glew/1.10.0/glew-1.10.0.tgz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/glew/1.10.0/glew-1.10.0.tgz",
     "license": "BSD-3-Clause AND MIT"
   },
   {
@@ -1058,7 +1058,7 @@
   {
     "name": "haserl",
     "version": "0.9.26",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/haserl/haserl-0.9.26.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/haserl/haserl-0.9.26.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -1070,13 +1070,13 @@
   {
     "name": "hdparm",
     "version": "9.58",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/hdparm/hdparm-9.58.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/hdparm/hdparm-9.58.tar.gz",
     "license": "custom"
   },
   {
     "name": "heirloom-mailx",
     "version": "12.4",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/heirloom/mailx-12.4.tar.bz2",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/heirloom/mailx-12.4.tar.bz2",
     "license": "unknown"
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "name": "ima-evm-utils",
     "version": "1.3.2",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/linux-ima/ima-evm-utils/ima-evm-utils-1.3.2.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/linux-ima/ima-evm-utils/ima-evm-utils-1.3.2.tar.gz",
     "license": "GPL-2.0-only WITH custom-exception"
   },
   {
@@ -1220,7 +1220,7 @@
   {
     "name": "iperf",
     "version": "2.0.13",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/iperf2/iperf-2.0.13.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/iperf2/iperf-2.0.13.tar.gz",
     "license": "BSD"
   },
   {
@@ -1256,7 +1256,7 @@
   {
     "name": "jamvm",
     "version": "1.5.4",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/jamvm/jamvm-1.5.4.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/jamvm/jamvm-1.5.4.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -1274,7 +1274,7 @@
   {
     "name": "joe",
     "version": "3.5",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/joe-editor/joe-3.5.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/joe-editor/joe-3.5.tar.gz",
     "license": "GPL-1.0-only"
   },
   {
@@ -1364,13 +1364,13 @@
   {
     "name": "lame",
     "version": "3.99.5",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/lame/lame-3.99.5.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/lame/lame-3.99.5.tar.gz",
     "license": "LGPL-2.0-only"
   },
   {
     "name": "lcms",
     "version": "2.17",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/lcms/lcms2-2.17.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/lcms/lcms2-2.17.tar.gz",
     "license": "MIT"
   },
   {
@@ -1478,7 +1478,7 @@
   {
     "name": "libcgi",
     "version": "1.0",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libcgi/libcgi-1.0.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/libcgi/libcgi-1.0.tar.gz",
     "license": "LGPL-2.1-only"
   },
   {
@@ -1490,13 +1490,13 @@
   {
     "name": "libcgroup",
     "version": "0.38",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libcg/libcgroup-0.38.tar.bz2",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/libcg/libcgroup-0.38.tar.bz2",
     "license": "LGPL-2.1-only"
   },
   {
     "name": "libcoap",
     "version": "4.1.1",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libcoap/libcoap-4.1.1.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/libcoap/libcoap-4.1.1.tar.gz",
     "license": "BSD AND GPL-2.0-only"
   },
   {
@@ -1700,7 +1700,7 @@
   {
     "name": "libid3tag",
     "version": "0.15.1b",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/mad/libid3tag/0.15.1b/libid3tag-0.15.1b.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/mad/libid3tag/0.15.1b/libid3tag-0.15.1b.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -1766,7 +1766,7 @@
   {
     "name": "libmad",
     "version": "0.15.1b",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/mad/libmad/0.15.1b/libmad-0.15.1b.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/mad/libmad/0.15.1b/libmad-0.15.1b.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -1802,13 +1802,13 @@
   {
     "name": "libmms",
     "version": "0.6.4",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libmms/libmms-0.6.4.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/libmms/libmms-0.6.4.tar.gz",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "libmng",
     "version": "1.0.10",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libmng/libmng-1.0.10.tar.bz2",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/libmng/libmng-1.0.10.tar.bz2",
     "license": "custom"
   },
   {
@@ -1988,7 +1988,7 @@
   {
     "name": "libpcre",
     "version": "8.45",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/pcre/pcre-8.45.tar.bz2 https://ftp.pcre.org/pub/pcre/pcre-8.45.tar.bz2",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/pcre/pcre-8.45.tar.bz2 https://ftp.pcre.org/pub/pcre/pcre-8.45.tar.bz2",
     "license": "BSD-3-Clause"
   },
   {
@@ -2000,7 +2000,7 @@
   {
     "name": "libpng",
     "version": "1.6.58",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libpng/libpng-1.6.58.tar.xz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/libpng/libpng-1.6.58.tar.xz",
     "license": "libpng-2.0"
   },
   {
@@ -2126,7 +2126,7 @@
   {
     "name": "libsysfs",
     "version": "2.1.0",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/linux-diag/sysfsutils-2.1.0.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/linux-diag/sysfsutils-2.1.0.tar.gz",
     "license": "GPL-2.0-only AND LGPL-2.0-only"
   },
   {
@@ -2168,7 +2168,7 @@
   {
     "name": "libtirpc",
     "version": "1.3.7",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libtirpc/libtirpc-1.3.7.tar.bz2",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/libtirpc/libtirpc-1.3.7.tar.bz2",
     "license": "BSD-3-Clause"
   },
   {
@@ -2222,13 +2222,13 @@
   {
     "name": "libusb",
     "version": "1.0.30",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libusb/libusb-1.0.30.tar.bz2",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/libusb/libusb-1.0.30.tar.bz2",
     "license": "LGPL-2.1-or-later"
   },
   {
     "name": "libusb-compat",
     "version": "0.1.8",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/libusb/libusb-compat-0.1.8.tar.bz2",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/libusb/libusb-compat-0.1.8.tar.bz2",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -2372,7 +2372,7 @@
   {
     "name": "linuxptp",
     "version": "3.1.1",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/linuxptp/linuxptp-3.1.1.tgz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/linuxptp/linuxptp-3.1.1.tgz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -2396,13 +2396,13 @@
   {
     "name": "lmbench",
     "version": "3.0-a9",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/lmbench/lmbench-3.0-a9.tgz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/lmbench/lmbench-3.0-a9.tgz",
     "license": "GPL-2.0-only with exceptions"
   },
   {
     "name": "log4cplus",
     "version": "1.2.2",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/log4cplus/log4cplus-1.2.2.tar.xz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/log4cplus/log4cplus-1.2.2.tar.xz",
     "license": "Apache-2.0 AND BSD-2-Clause"
   },
   {
@@ -2414,7 +2414,7 @@
   {
     "name": "lpc21isp",
     "version": "1.85",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/lpc21isp/1.85/lpc21isp_185.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/lpc21isp/1.85/lpc21isp_185.tar.gz",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -2468,7 +2468,7 @@
   {
     "name": "madplay",
     "version": "0.15.2b",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/mad/madplay/0.15.2b/madplay-0.15.2b.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/mad/madplay/0.15.2b/madplay-0.15.2b.tar.gz",
     "license": ""
   },
   {
@@ -2684,7 +2684,7 @@
   {
     "name": "net-snmp",
     "version": "5.9.5.2",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/net-snmp/net-snmp-5.9.5.2.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/net-snmp/net-snmp-5.9.5.2.tar.gz",
     "license": "MIT-CMU AND BSD-3-Clause AND MIT"
   },
   {
@@ -2750,7 +2750,7 @@
   {
     "name": "nickel",
     "version": "1.1.0",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/chaoslizard/nickel-1.1.0.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/chaoslizard/nickel-1.1.0.tar.gz",
     "license": ""
   },
   {
@@ -3086,7 +3086,7 @@
   {
     "name": "pop3spam",
     "version": "0.9",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/pop3spam/pop3spam-0.9.tar.bz2",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/pop3spam/pop3spam-0.9.tar.bz2",
     "license": ""
   },
   {
@@ -3128,7 +3128,7 @@
   {
     "name": "procps",
     "version": "4.0.6",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/procps-ng/Production/procps-ng-4.0.6.tar.xz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/procps-ng/Production/procps-ng-4.0.6.tar.xz",
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
   },
   {
@@ -3152,7 +3152,7 @@
   {
     "name": "psmisc",
     "version": "23.5",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/psmisc/psmisc-23.5.tar.xz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/psmisc/psmisc-23.5.tar.xz",
     "license": "unknown"
   },
   {
@@ -3914,7 +3914,7 @@
   {
     "name": "qpdf",
     "version": "8.4.2",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge//qpdf/qpdf/8.4.2/qpdf-8.4.2.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge//qpdf/qpdf/8.4.2/qpdf-8.4.2.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -3938,13 +3938,13 @@
   {
     "name": "quota-tools",
     "version": "4.06",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/linuxquota/quota-4.06.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/linuxquota/quota-4.06.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
     "name": "qwt5",
     "version": "6.1.5",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/qwt/qwt-6.1.5.tar.bz2",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/qwt/qwt-6.1.5.tar.bz2",
     "license": "LGPL-2.1-only AND QWT-1.0"
   },
   {
@@ -3974,7 +3974,7 @@
   {
     "name": "rawrec",
     "version": "0.9.98",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/rawrec/rawrec-0.9.98.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/rawrec/rawrec-0.9.98.tar.gz",
     "license": ""
   },
   {
@@ -4010,7 +4010,7 @@
   {
     "name": "rpcbind",
     "version": "1.2.8",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/rpcbind/rpcbind-1.2.8.tar.bz2",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/rpcbind/rpcbind-1.2.8.tar.bz2",
     "license": "BSD-3-Clause"
   },
   {
@@ -4130,7 +4130,7 @@
   {
     "name": "serdisplib",
     "version": "1.97.9",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/project/serdisplib/serdisplib/1.97.9/serdisplib-1.97.9.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/project/serdisplib/serdisplib/1.97.9/serdisplib-1.97.9.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -4166,7 +4166,7 @@
   {
     "name": "sjinn",
     "version": "1.01",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/sjinn/sjinn-1.01.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/sjinn/sjinn-1.01.tar.gz",
     "license": ""
   },
   {
@@ -4286,13 +4286,13 @@
   {
     "name": "sshpass",
     "version": "1.10",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/sshpass/sshpass-1.10.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/sshpass/sshpass-1.10.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
     "name": "stm32flash",
     "version": "0.7",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/stm32flash/stm32flash-0.7.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/stm32flash/stm32flash-0.7.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -4394,7 +4394,7 @@
   {
     "name": "tclap",
     "version": "1.2.1",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/tclap/tclap-1.2.1.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/tclap/tclap-1.2.1.tar.gz",
     "license": "MIT"
   },
   {
@@ -4430,7 +4430,7 @@
   {
     "name": "tiobench",
     "version": "0.3.3",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/tiobench/tiobench-0.3.3.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/tiobench/tiobench-0.3.3.tar.gz",
     "license": ""
   },
   {
@@ -4484,7 +4484,7 @@
   {
     "name": "twolame",
     "version": "0.3.13",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/twolame/twolame-0.3.13.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/twolame/twolame-0.3.13.tar.gz",
     "license": "unknown"
   },
   {
@@ -4514,7 +4514,7 @@
   {
     "name": "unzip",
     "version": "6.0",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/infozip/unzip60.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/infozip/unzip60.tar.gz",
     "license": "Info-ZIP"
   },
   {
@@ -4598,7 +4598,7 @@
   {
     "name": "vo-aacenc",
     "version": "0.1.3",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/opencore-amr/vo-aacenc-0.1.3.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/opencore-amr/vo-aacenc-0.1.3.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -5504,7 +5504,7 @@
   {
     "name": "zip",
     "version": "3.0",
-    "upstream_urls": "http://downloads.sourceforge.net/sourceforge/infozip/zip30.tar.gz",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/infozip/zip30.tar.gz",
     "license": "Info-ZIP"
   },
   {
