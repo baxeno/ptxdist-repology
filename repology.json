@@ -7,8 +7,8 @@
   },
   {
     "name": "acl",
-    "version": "2.3.2",
-    "upstream_urls": "http://download.savannah.gnu.org/releases/acl/acl-2.3.2.tar.gz",
+    "version": "2.4.0",
+    "upstream_urls": "http://download.savannah.gnu.org/releases/acl/acl-2.4.0.tar.gz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -535,8 +535,8 @@
   },
   {
     "name": "dropbear",
-    "version": "2026.91",
-    "upstream_urls": "https://matt.ucc.asn.au/dropbear/releases/dropbear-2026.91.tar.bz2 https://dropbear.nl/mirror/releases/dropbear-2026.91.tar.bz2",
+    "version": "2026.92",
+    "upstream_urls": "https://matt.ucc.asn.au/dropbear/releases/dropbear-2026.92.tar.bz2 https://dropbear.nl/mirror/releases/dropbear-2026.92.tar.bz2",
     "license": "MIT AND BSD-2-Clause AND SSH-short AND (custom OR WTFPL) AND Unlicense"
   },
   {
@@ -1063,8 +1063,8 @@
   },
   {
     "name": "haveged",
-    "version": "1.9.23",
-    "upstream_urls": "https://github.com/jirka-h/haveged/archive/v1.9.23.tar.gz",
+    "version": "1.9.26",
+    "upstream_urls": "https://github.com/jirka-h/haveged/archive/v1.9.26.tar.gz",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -1117,8 +1117,8 @@
   },
   {
     "name": "hwdata",
-    "version": "0.407",
-    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.407.tar.gz",
+    "version": "0.409",
+    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.409.tar.gz",
     "license": "GPL-2.0-or-later OR X11"
   },
   {
@@ -1603,8 +1603,8 @@
   },
   {
     "name": "libevent",
-    "version": "2.1.12",
-    "upstream_urls": "https://github.com/libevent/libevent/releases/download/release-2.1.12-stable/libevent-2.1.12-stable.tar.gz",
+    "version": "2.1.13",
+    "upstream_urls": "https://github.com/libevent/libevent/releases/download/release-2.1.13-stable/libevent-2.1.13-stable.tar.gz",
     "license": "BSD-3-Clause AND 0BSD AND MIT"
   },
   {
@@ -1723,8 +1723,8 @@
   },
   {
     "name": "libjpeg",
-    "version": "3.1.4.1",
-    "upstream_urls": "https://github.com/libjpeg-turbo/libjpeg-turbo/archive/refs/tags/3.1.4.1.tar.gz",
+    "version": "3.2.0",
+    "upstream_urls": "https://github.com/libjpeg-turbo/libjpeg-turbo/archive/refs/tags/3.2.0.tar.gz",
     "license": "IJG AND BSD-3-Clause"
   },
   {
@@ -2053,8 +2053,8 @@
   },
   {
     "name": "libseccomp",
-    "version": "2.6.0",
-    "upstream_urls": "https://github.com/seccomp/libseccomp/releases/download/v2.6.0/libseccomp-2.6.0.tar.gz",
+    "version": "2.6.1",
+    "upstream_urls": "https://github.com/seccomp/libseccomp/releases/download/v2.6.1/libseccomp-2.6.1.tar.gz",
     "license": "LGPL-2.1-only"
   },
   {
@@ -2353,8 +2353,8 @@
   },
   {
     "name": "lighttpd",
-    "version": "1.4.84",
-    "upstream_urls": "http://download.lighttpd.net/lighttpd/releases-1.4.x/lighttpd-1.4.84.tar.xz",
+    "version": "1.4.85",
+    "upstream_urls": "http://download.lighttpd.net/lighttpd/releases-1.4.x/lighttpd-1.4.85.tar.xz",
     "license": "BSD-3-Clause AND OML AND RSA-MD"
   },
   {
@@ -2473,8 +2473,8 @@
   },
   {
     "name": "mariadb",
-    "version": "11.4.7",
-    "upstream_urls": "https://archive.mariadb.org/mariadb-11.4.7/source/mariadb-11.4.7.tar.gz",
+    "version": "11.4.12",
+    "upstream_urls": "https://archive.mariadb.org/mariadb-11.4.12/source/mariadb-11.4.12.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -2887,8 +2887,8 @@
   },
   {
     "name": "openssh",
-    "version": "10.3p1",
-    "upstream_urls": "https://ftp.halifax.rwth-aachen.de/openbsd/OpenSSH/portable/openssh-10.3p1.tar.gz https://mirror.hs-esslingen.de/pub/OpenBSD/OpenSSH/portable/openssh-10.3p1.tar.gz https://ftp.lysator.liu.se/pub/OpenBSD/OpenSSH/portable/openssh-10.3p1.tar.gz",
+    "version": "10.4p1",
+    "upstream_urls": "https://ftp.halifax.rwth-aachen.de/openbsd/OpenSSH/portable/openssh-10.4p1.tar.gz https://mirror.hs-esslingen.de/pub/OpenBSD/OpenSSH/portable/openssh-10.4p1.tar.gz https://ftp.lysator.liu.se/pub/OpenBSD/OpenSSH/portable/openssh-10.4p1.tar.gz",
     "license": "BSD AND BSD-2-Clause AND BSD-3-Clause AND MIT AND Beerware AND ISC"
   },
   {
@@ -3001,8 +3001,8 @@
   },
   {
     "name": "pcsc-lite",
-    "version": "1.9.8",
-    "upstream_urls": "https://pcsclite.apdu.fr/files/pcsc-lite-1.9.8.tar.bz2",
+    "version": "2.5.1",
+    "upstream_urls": "https://github.com/LudovicRousseau/PCSC/archive/refs/tags/2.5.1.tar.gz",
     "license": "BSD-3-Clause AND BSD-2-Clause AND MIT AND ISC"
   },
   {
