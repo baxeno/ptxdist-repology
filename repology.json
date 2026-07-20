@@ -1147,8 +1147,8 @@
   },
   {
     "name": "igt-gpu-tools",
-    "version": "2.2",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/igt-gpu-tools-2.2.tar.xz https://xorg.freedesktop.org/releases/individual/app/igt-gpu-tools-2.2.tar.xz",
+    "version": "2.5",
+    "upstream_urls": "https://ftp.x.org/archive/individual/app/igt-gpu-tools-2.5.tar.xz https://xorg.freedesktop.org/releases/individual/app/igt-gpu-tools-2.5.tar.xz",
     "license": "MIT AND ISC"
   },
   {
@@ -4206,12 +4206,6 @@
     "license": "BSD-2-Clause"
   },
   {
-    "name": "sp-oops-extract",
-    "version": "0.0.7",
-    "upstream_urls": "http://repository.maemo.org/pool/fremantle/free/s/sp-oops-extract/sp-oops-extract_0.0.7-1.tar.gz",
-    "license": "unknown"
-  },
-  {
     "name": "sparsehash",
     "version": "1.11",
     "upstream_urls": "https://github.com/sparsehash/sparsehash/archive/sparsehash-1.11.tar.gz",
@@ -4699,8 +4693,8 @@
   },
   {
     "name": "weston",
-    "version": "15.0.1",
-    "upstream_urls": "https://gitlab.freedesktop.org/wayland/weston/-/archive/15.0.1/weston-15.0.1.tar.gz",
+    "version": "16.0.0",
+    "upstream_urls": "https://gitlab.freedesktop.org/wayland/weston/-/archive/16.0.0/weston-16.0.0.tar.gz",
     "license": "MIT"
   },
   {
