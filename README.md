@@ -25,3 +25,14 @@ sudo dnf install autoconf automake make gcc ncurses-devel flex bison texinfo pat
 
 > Note: Auto comment changes with `REPOLOGY_AUTO_COMMIT=1 ./repology master`
 
+## What is PTXdist?
+
+Help you develop and cross compile a firmware image for an embedded Linux device.
+
+- [FOSDEM 2020 - The State of PTXdist](https://www.youtube.com/watch?v=fDNLm8a3Xmo) Good introduction by Roland Hieber on YouTube
+- [PTXdist](https://www.ptxdist.org/) Official web site
+- [PTXdist documentation](https://www.ptxdist.org/doc/) Official documentation
+- [DistroKit](https://git.pengutronix.de/cgit/DistroKit/) Configuration examples for common hardware platforms
+
+Alternative to Buildroot and Yocto.
+
