@@ -8,7 +8,7 @@
   {
     "name": "acl",
     "version": "2.4.0",
-    "upstream_urls": "http://download.savannah.gnu.org/releases/acl/acl-2.4.0.tar.gz",
+    "upstream_urls": "https://download.savannah.gnu.org/releases/acl/acl-2.4.0.tar.gz http://download-mirror.savannah.gnu.org/releases/acl/acl-2.4.0.tar.gz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -86,7 +86,7 @@
   {
     "name": "attr",
     "version": "2.5.1",
-    "upstream_urls": "http://download.savannah.gnu.org/releases/attr/attr-2.5.1.tar.gz http://mirrors.zerg.biz/nongnu/attr/attr-2.5.1.tar.gz",
+    "upstream_urls": "https://download.savannah.gnu.org/releases/attr/attr-2.5.1.tar.gz http://download-mirror.savannah.gnu.org/releases/attr/attr-2.5.1.tar.gz",
     "license": "GPL-2.0-only AND LGPL-2.0-only"
   },
   {
@@ -776,7 +776,7 @@
   {
     "name": "freetype",
     "version": "2.14.3",
-    "upstream_urls": "https://download.savannah.gnu.org/releases/freetype/freetype-2.14.3.tar.xz https://download.savannah.gnu.org/releases/freetype/freetype-old/freetype-2.14.3.tar.xz https://downloads.sourceforge.net/sourceforge/freetype/freetype2/2.14.3/freetype-2.14.3.tar.xz",
+    "upstream_urls": "https://download.savannah.gnu.org/releases/freetype/freetype-2.14.3.tar.xz http://download-mirror.savannah.gnu.org/releases/freetype/freetype-2.14.3.tar.xz https://download.savannah.gnu.org/releases/freetype/freetype-old/freetype-2.14.3.tar.xz http://download-mirror.savannah.gnu.org/releases/freetype/freetype-old/freetype-2.14.3.tar.xz https://downloads.sourceforge.net/sourceforge/freetype/freetype2/2.14.3/freetype-2.14.3.tar.xz",
     "license": "BSD-2-Clause AND FTL AND GPL-2.0-or-later AND MIT"
   },
   {
@@ -920,7 +920,7 @@
   {
     "name": "gpsd",
     "version": "3.23.1",
-    "upstream_urls": "http://download.savannah.gnu.org/releases/gpsd/gpsd-3.23.1.tar.xz",
+    "upstream_urls": "https://download.savannah.gnu.org/releases/gpsd/gpsd-3.23.1.tar.xz http://download-mirror.savannah.gnu.org/releases/gpsd/gpsd-3.23.1.tar.xz",
     "license": "BSD-2-Clause"
   },
   {
@@ -1994,7 +1994,7 @@
   {
     "name": "libpipeline",
     "version": "1.2.2",
-    "upstream_urls": "http://download.savannah.gnu.org/releases/libpipeline/libpipeline-1.2.2.tar.gz",
+    "upstream_urls": "https://download.savannah.gnu.org/releases/libpipeline/libpipeline-1.2.2.tar.gz http://download-mirror.savannah.gnu.org/releases/libpipeline/libpipeline-1.2.2.tar.gz",
     "license": "GPL-3.0-only"
   },
   {
