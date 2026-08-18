@@ -330,12 +330,6 @@
     "license": "Apache-2.0"
   },
   {
-    "name": "cog",
-    "version": "0.19.1",
-    "upstream_urls": "https://wpewebkit.org/releases/cog-0.19.1.tar.xz",
-    "license": "MIT"
-  },
-  {
     "name": "collectd",
     "version": "5.8.1",
     "upstream_urls": "https://storage.googleapis.com/collectd-tarballs/collectd-5.8.1.tar.bz2",
@@ -535,8 +529,8 @@
   },
   {
     "name": "dropbear",
-    "version": "2026.92",
-    "upstream_urls": "https://matt.ucc.asn.au/dropbear/releases/dropbear-2026.92.tar.bz2 https://dropbear.nl/mirror/releases/dropbear-2026.92.tar.bz2",
+    "version": "2026.94",
+    "upstream_urls": "https://matt.ucc.asn.au/dropbear/releases/dropbear-2026.94.tar.bz2 https://dropbear.nl/mirror/releases/dropbear-2026.94.tar.bz2",
     "license": "MIT AND BSD-2-Clause AND SSH-short AND (custom OR WTFPL) AND Unlicense"
   },
   {
@@ -631,8 +625,8 @@
   },
   {
     "name": "ethtool",
-    "version": "7.0",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/../software/network/ethtool/ethtool-7.0.tar.xz https://www.kernel.org/pub/linux/../software/network/ethtool/ethtool-7.0.tar.xz",
+    "version": "7.1",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/../software/network/ethtool/ethtool-7.1.tar.xz https://www.kernel.org/pub/linux/../software/network/ethtool/ethtool-7.1.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -847,8 +841,8 @@
   },
   {
     "name": "glib",
-    "version": "2.88.2",
-    "upstream_urls": "https://download.gnome.org/sources/glib/2.88/glib-2.88.2.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/glib/2.88/glib-2.88.2.tar.xz",
+    "version": "2.88.3",
+    "upstream_urls": "https://download.gnome.org/sources/glib/2.88/glib-2.88.3.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/glib/2.88/glib-2.88.3.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -1117,8 +1111,8 @@
   },
   {
     "name": "hwdata",
-    "version": "0.409",
-    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.409.tar.gz",
+    "version": "0.410",
+    "upstream_urls": "https://github.com/vcrhonek/hwdata/archive/refs/tags/v0.410.tar.gz",
     "license": "GPL-2.0-or-later OR X11"
   },
   {
@@ -1267,8 +1261,8 @@
   },
   {
     "name": "jimtcl",
-    "version": "0.83",
-    "upstream_urls": "https://github.com/msteveb/jimtcl/archive/refs/tags/0.83.tar.gz",
+    "version": "0.84",
+    "upstream_urls": "https://github.com/msteveb/jimtcl/archive/refs/tags/0.84.tar.gz",
     "license": "BSD-2-Clause"
   },
   {
@@ -1573,8 +1567,8 @@
   },
   {
     "name": "libelf",
-    "version": "0.190",
-    "upstream_urls": "https://sourceware.org/elfutils/ftp/0.190/elfutils-0.190.tar.bz2",
+    "version": "0.195",
+    "upstream_urls": "https://sourceware.org/elfutils/ftp/0.195/elfutils-0.195.tar.bz2",
     "license": "(LGPL-3.0-or-later OR GPL-2.0-or-later) AND GPL-3.0-or-later"
   },
   {
@@ -1633,8 +1627,8 @@
   },
   {
     "name": "libffi",
-    "version": "3.6.0",
-    "upstream_urls": "https://github.com/libffi/libffi/releases/download/v3.6.0/libffi-3.6.0.tar.gz",
+    "version": "3.7.1",
+    "upstream_urls": "https://github.com/libffi/libffi/releases/download/v3.7.1/libffi-3.7.1.tar.gz",
     "license": "MIT"
   },
   {
@@ -1795,8 +1789,8 @@
   },
   {
     "name": "libmicrohttpd",
-    "version": "1.0.5",
-    "upstream_urls": "https://ftp.gnu.org/gnu/libmicrohttpd/libmicrohttpd-1.0.5.tar.gz https://ftpmirror.gnu.org/libmicrohttpd/libmicrohttpd-1.0.5.tar.gz",
+    "version": "1.0.10",
+    "upstream_urls": "https://ftp.gnu.org/gnu/libmicrohttpd/libmicrohttpd-1.0.10.tar.gz https://ftpmirror.gnu.org/libmicrohttpd/libmicrohttpd-1.0.10.tar.gz",
     "license": "LGPL-2.1-only OR GPL-2.0-only WITH eCos-exception-2.0"
   },
   {
@@ -2107,8 +2101,8 @@
   },
   {
     "name": "libsoup",
-    "version": "3.6.5",
-    "upstream_urls": "https://download.gnome.org/sources/libsoup/3.6/libsoup-3.6.5.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libsoup/3.6/libsoup-3.6.5.tar.xz",
+    "version": "3.6.6",
+    "upstream_urls": "https://download.gnome.org/sources/libsoup/3.6/libsoup-3.6.6.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libsoup/3.6/libsoup-3.6.6.tar.xz",
     "license": "LGPL-2.1-only"
   },
   {
@@ -2284,12 +2278,6 @@
     "version": "4.4.1",
     "upstream_urls": "https://github.com/warmcat/libwebsockets/archive/refs/tags/v4.4.1.tar.gz",
     "license": "MIT AND BSD-2-Clause AND BSD-3-Clause"
-  },
-  {
-    "name": "libwpe",
-    "version": "1.16.2",
-    "upstream_urls": "https://wpewebkit.org/releases/libwpe-1.16.2.tar.xz",
-    "license": "BSD-2-Clause"
   },
   {
     "name": "libx11-locale",
@@ -2527,8 +2515,8 @@
   },
   {
     "name": "mesalib",
-    "version": "26.1.4",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.1.4.tar.xz",
+    "version": "26.1.6",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.1.6.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -3907,8 +3895,8 @@
   },
   {
     "name": "qemu",
-    "version": "11.0.1",
-    "upstream_urls": "https://download.qemu.org/qemu-11.0.1.tar.xz",
+    "version": "11.0.3",
+    "upstream_urls": "https://download.qemu.org/qemu-11.0.3.tar.xz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND MIT AND BSD-1-Clause AND BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -4063,8 +4051,8 @@
   },
   {
     "name": "screen",
-    "version": "5.0.1",
-    "upstream_urls": "https://ftp.gnu.org/gnu/screen/screen-5.0.1.tar.gz https://ftpmirror.gnu.org/screen/screen-5.0.1.tar.gz",
+    "version": "5.0.2",
+    "upstream_urls": "https://ftp.gnu.org/gnu/screen/screen-5.0.2.tar.gz https://ftpmirror.gnu.org/screen/screen-5.0.2.tar.gz",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -4447,14 +4435,14 @@
   },
   {
     "name": "tpm2-tools",
-    "version": "5.7",
-    "upstream_urls": "https://github.com/tpm2-software/tpm2-tools/releases/download/5.7/tpm2-tools-5.7.tar.gz",
+    "version": "5.8",
+    "upstream_urls": "https://github.com/tpm2-software/tpm2-tools/releases/download/5.8/tpm2-tools-5.8.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
     "name": "tpm2-tss",
-    "version": "4.1.3",
-    "upstream_urls": "https://github.com/tpm2-software/tpm2-tss/releases/download/4.1.3/tpm2-tss-4.1.3.tar.gz",
+    "version": "4.2.0",
+    "upstream_urls": "https://github.com/tpm2-software/tpm2-tss/releases/download/4.2.0/tpm2-tss-4.2.0.tar.gz",
     "license": "BSD-2-Clause"
   },
   {
@@ -4651,8 +4639,8 @@
   },
   {
     "name": "wayland",
-    "version": "1.25.0",
-    "upstream_urls": "https://gitlab.freedesktop.org/wayland/wayland/-/releases/1.25.0/downloads/wayland-1.25.0.tar.xz",
+    "version": "1.26.0",
+    "upstream_urls": "https://gitlab.freedesktop.org/wayland/wayland/-/releases/1.26.0/downloads/wayland-1.26.0.tar.xz",
     "license": "MIT"
   },
   {
@@ -4740,16 +4728,10 @@
     "license": "unknown"
   },
   {
-    "name": "wpebackend-fdo",
-    "version": "1.16.1",
-    "upstream_urls": "https://wpewebkit.org/releases/wpebackend-fdo-1.16.1.tar.xz",
-    "license": "BSD-2-Clause"
-  },
-  {
     "name": "wpewebkit",
-    "version": "2.49.3",
-    "upstream_urls": "https://wpewebkit.org/releases/wpewebkit-2.49.3.tar.xz",
-    "license": "BSD-2-Clause"
+    "version": "2.52.4",
+    "upstream_urls": "https://wpewebkit.org/releases/wpewebkit-2.52.4.tar.xz",
+    "license": "BSD-2-Clause AND LGPL-2.0-only AND LGPL-2.0-or-later AND LGPL-2.1-only AND Apache-2.0 AND MIT"
   },
   {
     "name": "x11perf",
@@ -5235,6 +5217,12 @@
     "name": "xorg-font-ttf-lohit-telugu",
     "version": "2.5.4",
     "upstream_urls": "https://releases.pagure.org/lohit/lohit-telugu-ttf-2.5.4.tar.gz",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "xorg-font-ttf-nanum-gothic",
+    "version": "20200506",
+    "upstream_urls": "https://snapshot.debian.org/archive/debian/20200515T024132Z/pool/main/f/fonts-nanum/fonts-nanum_20200506.orig.tar.xz",
     "license": "OFL-1.1"
   },
   {
