@@ -2,7 +2,7 @@
 
 Repology JSON source for PTXdist.
 
-[![Repository status](https://repology.org/badge/repository-big/ptxdist.svg)](https://repology.org/repository/ptxdist)
+[![Repository status](https://repology.org/badge/repository-big/ptxdist.svg?header=PTXdist)](https://repology.org/repository/ptxdist)
 
 **JSON output:**
 
