@@ -649,8 +649,8 @@
   },
   {
     "name": "expat",
-    "version": "2.8.2",
-    "upstream_urls": "https://github.com/libexpat/libexpat/releases/download/R_2_8_2/expat-2.8.2.tar.bz2",
+    "version": "2.8.3",
+    "upstream_urls": "https://github.com/libexpat/libexpat/releases/download/R_2_8_3/expat-2.8.3.tar.bz2",
     "license": "MIT"
   },
   {
@@ -871,8 +871,8 @@
   },
   {
     "name": "glslang",
-    "version": "1.4.350.0",
-    "upstream_urls": "https://github.com/KhronosGroup/glslang/archive/vulkan-sdk-1.4.350.0.tar.gz",
+    "version": "1.4.357.0",
+    "upstream_urls": "https://github.com/KhronosGroup/glslang/archive/vulkan-sdk-1.4.357.0.tar.gz",
     "license": "BSD-3-Clause AND BSD-2-Clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom"
   },
   {
@@ -1387,8 +1387,8 @@
   },
   {
     "name": "libarchive",
-    "version": "3.8.5",
-    "upstream_urls": "https://www.libarchive.org/downloads/libarchive-3.8.5.tar.gz",
+    "version": "3.8.9",
+    "upstream_urls": "https://www.libarchive.org/downloads/libarchive-3.8.9.tar.gz",
     "license": "BSD-2-Clause AND BSD-3-Clause AND public_domain AND (CC0-1.0 OR OpenSSL OR Apache-2.0)"
   },
   {
@@ -1459,8 +1459,8 @@
   },
   {
     "name": "libcap-ng",
-    "version": "0.9.3",
-    "upstream_urls": "https://github.com/stevegrubb/libcap-ng/archive/refs/tags/v0.9.3.tar.gz https://sources.buildroot.net/libcap-ng/libcap-ng-0.9.3.tar.gz",
+    "version": "0.9.5",
+    "upstream_urls": "https://github.com/stevegrubb/libcap-ng/archive/refs/tags/v0.9.5.tar.gz https://sources.buildroot.net/libcap-ng/libcap-ng-0.9.5.tar.gz",
     "license": "LGPL-2.1-or-later AND GPL-2.0-or-later"
   },
   {
@@ -1591,8 +1591,8 @@
   },
   {
     "name": "libevdev",
-    "version": "1.13.6",
-    "upstream_urls": "http://www.freedesktop.org/software/libevdev/libevdev-1.13.6.tar.xz",
+    "version": "1.13.7",
+    "upstream_urls": "http://www.freedesktop.org/software/libevdev/libevdev-1.13.7.tar.xz",
     "license": "MIT"
   },
   {
@@ -1627,8 +1627,8 @@
   },
   {
     "name": "libffi",
-    "version": "3.7.1",
-    "upstream_urls": "https://github.com/libffi/libffi/releases/download/v3.7.1/libffi-3.7.1.tar.gz",
+    "version": "3.8.0",
+    "upstream_urls": "https://github.com/libffi/libffi/releases/download/v3.8.0/libffi-3.8.0.tar.gz",
     "license": "MIT"
   },
   {
@@ -2347,8 +2347,8 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20260622",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260622.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260622.tar.gz",
+    "version": "20260810",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260810.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260810.tar.gz",
     "license": "proprietary"
   },
   {
@@ -2515,8 +2515,8 @@
   },
   {
     "name": "mesalib",
-    "version": "26.1.6",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.1.6.tar.xz",
+    "version": "26.2.1",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.2.1.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -2875,14 +2875,14 @@
   },
   {
     "name": "openssh",
-    "version": "10.4p1",
-    "upstream_urls": "https://ftp.halifax.rwth-aachen.de/openbsd/OpenSSH/portable/openssh-10.4p1.tar.gz https://mirror.hs-esslingen.de/pub/OpenBSD/OpenSSH/portable/openssh-10.4p1.tar.gz https://ftp.lysator.liu.se/pub/OpenBSD/OpenSSH/portable/openssh-10.4p1.tar.gz",
+    "version": "10.5p1",
+    "upstream_urls": "https://ftp.halifax.rwth-aachen.de/openbsd/OpenSSH/portable/openssh-10.5p1.tar.gz https://mirror.hs-esslingen.de/pub/OpenBSD/OpenSSH/portable/openssh-10.5p1.tar.gz https://ftp.lysator.liu.se/pub/OpenBSD/OpenSSH/portable/openssh-10.5p1.tar.gz",
     "license": "BSD AND BSD-2-Clause AND BSD-3-Clause AND MIT AND Beerware AND ISC"
   },
   {
     "name": "openssl",
-    "version": "3.5.7",
-    "upstream_urls": "https://github.com/openssl/openssl/releases/download/openssl-3.5.7/openssl-3.5.7.tar.gz https://www.openssl.org/source/openssl-3.5.7.tar.gz https://www.openssl.org/source/old/3.5/openssl-3.5.7.tar.gz",
+    "version": "3.5.8",
+    "upstream_urls": "https://github.com/openssl/openssl/releases/download/openssl-3.5.8/openssl-3.5.8.tar.gz https://www.openssl.org/source/openssl-3.5.8.tar.gz https://www.openssl.org/source/old/3.5/openssl-3.5.8.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -3115,8 +3115,8 @@
   },
   {
     "name": "procps",
-    "version": "4.0.6",
-    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/procps-ng/Production/procps-ng-4.0.6.tar.xz",
+    "version": "4.0.7",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/procps-ng/Production/procps-ng-4.0.7.tar.xz",
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
   },
   {
@@ -3895,8 +3895,8 @@
   },
   {
     "name": "qemu",
-    "version": "11.0.3",
-    "upstream_urls": "https://download.qemu.org/qemu-11.0.3.tar.xz",
+    "version": "11.1.0",
+    "upstream_urls": "https://download.qemu.org/qemu-11.1.0.tar.xz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND MIT AND BSD-1-Clause AND BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -4069,8 +4069,8 @@
   },
   {
     "name": "sdl2-image",
-    "version": "2.8.8",
-    "upstream_urls": "https://github.com/libsdl-org/SDL_image/releases/download/release-2.8.8/SDL2_image-2.8.8.tar.gz",
+    "version": "2.8.12",
+    "upstream_urls": "https://github.com/libsdl-org/SDL_image/releases/download/release-2.8.12/SDL2_image-2.8.12.tar.gz",
     "license": "Zlib"
   },
   {
@@ -4129,8 +4129,8 @@
   },
   {
     "name": "shaderc",
-    "version": "v2026.2",
-    "upstream_urls": "https://github.com/google/shaderc/archive/v2026.2.tar.gz",
+    "version": "v2026.3",
+    "upstream_urls": "https://github.com/google/shaderc/archive/v2026.3.tar.gz",
     "license": "Apache-2.0 AND (BSD-3-Clause AND BSD-2-Clause AND MIT AND Apple-MIT-License AND Apache-2.0 AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND custom) AND (Apache-2.0)"
   },
   {
@@ -4231,14 +4231,14 @@
   },
   {
     "name": "spirv-headers",
-    "version": "1.4.350.0",
-    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Headers/archive/vulkan-sdk-1.4.350.0.tar.gz",
+    "version": "1.4.357.0",
+    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Headers/archive/vulkan-sdk-1.4.357.0.tar.gz",
     "license": "custom AND MIT"
   },
   {
     "name": "spirv-tools",
-    "version": "1.4.350.0",
-    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Tools/archive/vulkan-sdk-1.4.350.0.tar.gz",
+    "version": "1.4.357.0",
+    "upstream_urls": "https://github.com/KhronosGroup/SPIRV-Tools/archive/vulkan-sdk-1.4.357.0.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -4279,8 +4279,8 @@
   },
   {
     "name": "strace",
-    "version": "7.1",
-    "upstream_urls": "https://strace.io/files/7.1/strace-7.1.tar.xz",
+    "version": "7.2",
+    "upstream_urls": "https://strace.io/files/7.2/strace-7.2.tar.xz",
     "license": "LGPL-2.1-or-later AND GPL-2.0-only WITH Linux-syscall-note"
   },
   {
@@ -4297,8 +4297,8 @@
   },
   {
     "name": "strongswan",
-    "version": "6.0.5",
-    "upstream_urls": "https://download.strongswan.org/strongswan-6.0.5.tar.bz2",
+    "version": "6.0.7",
+    "upstream_urls": "https://download.strongswan.org/strongswan-6.0.7.tar.bz2",
     "license": "GPL-2.0-only"
   },
   {
@@ -4585,8 +4585,8 @@
   },
   {
     "name": "volk",
-    "version": "1.4.350.0",
-    "upstream_urls": "https://github.com/zeux/volk/archive/refs/tags/vulkan-sdk-1.4.350.0.tar.gz",
+    "version": "1.4.357.0",
+    "upstream_urls": "https://github.com/zeux/volk/archive/refs/tags/vulkan-sdk-1.4.357.0.tar.gz",
     "license": "MIT"
   },
   {
@@ -4597,33 +4597,33 @@
   },
   {
     "name": "vulkan-headers",
-    "version": "1.4.350.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Headers/archive/vulkan-sdk-1.4.350.0.tar.gz",
+    "version": "1.4.357.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Headers/archive/vulkan-sdk-1.4.357.0.tar.gz",
     "license": "Apache-2.0 AND MIT"
   },
   {
     "name": "vulkan-loader",
-    "version": "1.4.350.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Loader/archive/vulkan-sdk-1.4.350.0.tar.gz",
+    "version": "1.4.357.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Loader/archive/vulkan-sdk-1.4.357.0.tar.gz",
     "license": "Apache-2.0"
   },
   {
     "name": "vulkan-tools",
-    "version": "1.4.350.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Tools/archive/vulkan-sdk-1.4.350.0.tar.gz",
+    "version": "1.4.357.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Tools/archive/vulkan-sdk-1.4.357.0.tar.gz",
     "license": "Apache-2.0"
   },
   {
     "name": "vulkan-utility-libraries",
-    "version": "1.4.350.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries/archive/vulkan-sdk-1.4.350.0.tar.gz",
+    "version": "1.4.357.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries/archive/vulkan-sdk-1.4.357.0.tar.gz",
     "license": "Apache-2.0 AND MIT"
   },
   {
     "name": "vulkan-validationlayers",
-    "version": "1.4.350.0",
-    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-ValidationLayers/archive/vulkan-sdk-1.4.350.0.tar.gz",
-    "license": "Apache-2.0 AND MIT AND BSL-1.0"
+    "version": "1.4.357.0",
+    "upstream_urls": "https://github.com/KhronosGroup/Vulkan-ValidationLayers/archive/vulkan-sdk-1.4.357.0.tar.gz",
+    "license": "Apache-2.0 AND MIT AND BSL-1.0 AND BSD-2-Clause"
   },
   {
     "name": "waffle",
