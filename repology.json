@@ -115,8 +115,8 @@
   },
   {
     "name": "batctl",
-    "version": "2026.0",
-    "upstream_urls": "https://downloads.open-mesh.org/batman/stable/sources/batctl/batctl-2026.0.tar.gz",
+    "version": "2026.3",
+    "upstream_urls": "https://downloads.open-mesh.org/batman/stable/sources/batctl/batctl-2026.3.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -187,8 +187,8 @@
   },
   {
     "name": "boost",
-    "version": "1_89_0",
-    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/boost/boost_1_89_0.tar.bz2",
+    "version": "1.89.0",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/boost/1.89.0/boost_1_89_0.tar.bz2",
     "license": "BSL-1.0"
   },
   {
@@ -259,14 +259,14 @@
   },
   {
     "name": "ca-certificates",
-    "version": "NSS_3_123_RTM",
-    "upstream_urls": "https://hg.mozilla.org/projects/nss/raw-file/NSS_3_123_RTM/lib/ckfw/builtins/certdata.txt",
+    "version": "NSS_3_130_RTM",
+    "upstream_urls": "https://hg.mozilla.org/projects/nss/raw-file/NSS_3_130_RTM/lib/ckfw/builtins/certdata.txt",
     "license": "MPL-2.0"
   },
   {
     "name": "cairo",
-    "version": "1.18.4",
-    "upstream_urls": "http://cairographics.org/releases/cairo-1.18.4.tar.xz",
+    "version": "1.18.6",
+    "upstream_urls": "http://cairographics.org/releases/cairo-1.18.6.tar.xz",
     "license": "LGPL-2.1-only OR MPL-1.1"
   },
   {
@@ -649,8 +649,8 @@
   },
   {
     "name": "expat",
-    "version": "2.8.4",
-    "upstream_urls": "https://github.com/libexpat/libexpat/releases/download/R_2_8_4/expat-2.8.4.tar.bz2",
+    "version": "2.8.5",
+    "upstream_urls": "https://github.com/libexpat/libexpat/releases/download/R_2_8_5/expat-2.8.5.tar.bz2",
     "license": "MIT"
   },
   {
@@ -799,8 +799,8 @@
   },
   {
     "name": "fuse3",
-    "version": "3.17.4",
-    "upstream_urls": "https://github.com/libfuse/libfuse/releases/download/fuse-3.17.4/fuse-3.17.4.tar.gz",
+    "version": "3.18.3",
+    "upstream_urls": "https://github.com/libfuse/libfuse/releases/download/fuse-3.18.3/fuse-3.18.3.tar.gz",
     "license": "GPL-2.0-only AND LGPL-2.1-only"
   },
   {
@@ -841,8 +841,8 @@
   },
   {
     "name": "glib",
-    "version": "2.88.3",
-    "upstream_urls": "https://download.gnome.org/sources/glib/2.88/glib-2.88.3.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/glib/2.88/glib-2.88.3.tar.xz",
+    "version": "2.90.0",
+    "upstream_urls": "https://download.gnome.org/sources/glib/2.90/glib-2.90.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/glib/2.90/glib-2.90.0.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -853,8 +853,8 @@
   },
   {
     "name": "glibmm",
-    "version": "2.78.1",
-    "upstream_urls": "https://download.gnome.org/sources/glibmm/2.78/glibmm-2.78.1.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/glibmm/2.78/glibmm-2.78.1.tar.xz",
+    "version": "2.90.0",
+    "upstream_urls": "https://download.gnome.org/sources/glibmm/2.90/glibmm-2.90.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/glibmm/2.90/glibmm-2.90.0.tar.xz",
     "license": "LGPL-2.1-only AND GPL-2.0-only"
   },
   {
@@ -1376,7 +1376,7 @@
   {
     "name": "libaio",
     "version": "0.3.113",
-    "upstream_urls": "https://pagure.io/libaio/archive/libaio-0.3.113/libaio-libaio-0.3.113.tar.gz",
+    "upstream_urls": "https://codeberg.org/jmoyer/libaio/releases/download/libaio-0.3.113/libaio-0.3.113.tar.gz",
     "license": "LGPL-2.1-only"
   },
   {
@@ -1459,8 +1459,8 @@
   },
   {
     "name": "libcap-ng",
-    "version": "0.9.5",
-    "upstream_urls": "https://github.com/stevegrubb/libcap-ng/archive/refs/tags/v0.9.5.tar.gz https://sources.buildroot.net/libcap-ng/libcap-ng-0.9.5.tar.gz",
+    "version": "0.9.6",
+    "upstream_urls": "https://github.com/stevegrubb/libcap-ng/archive/refs/tags/v0.9.6.tar.gz https://sources.buildroot.net/libcap-ng/libcap-ng-0.9.6.tar.gz",
     "license": "LGPL-2.1-or-later AND GPL-2.0-or-later"
   },
   {
@@ -1525,8 +1525,8 @@
   },
   {
     "name": "libdisplay-info",
-    "version": "0.3.0",
-    "upstream_urls": "https://gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.3.0/downloads/libdisplay-info-0.3.0.tar.xz",
+    "version": "0.4.0",
+    "upstream_urls": "https://gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.4.0/downloads/libdisplay-info-0.4.0.tar.xz",
     "license": "MIT"
   },
   {
@@ -1705,8 +1705,8 @@
   },
   {
     "name": "libinput",
-    "version": "1.31.3",
-    "upstream_urls": "https://gitlab.freedesktop.org/libinput/libinput/-/archive/1.31.3/libinput-1.31.3.tar.gz",
+    "version": "1.32.0",
+    "upstream_urls": "https://gitlab.freedesktop.org/libinput/libinput/-/archive/1.32.0/libinput-1.32.0.tar.gz",
     "license": "MIT"
   },
   {
@@ -1969,8 +1969,8 @@
   },
   {
     "name": "libpcap",
-    "version": "1.10.7",
-    "upstream_urls": "https://www.tcpdump.org/release/libpcap-1.10.7.tar.gz",
+    "version": "1.11.0",
+    "upstream_urls": "https://www.tcpdump.org/release/libpcap-1.11.0.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
@@ -2071,8 +2071,8 @@
   },
   {
     "name": "libslirp",
-    "version": "4.9.4",
-    "upstream_urls": "https://gitlab.freedesktop.org/slirp/libslirp/-/archive/v4.9.4/libslirp-v4.9.4.tar.bz2",
+    "version": "4.9.5",
+    "upstream_urls": "https://gitlab.freedesktop.org/slirp/libslirp/-/archive/v4.9.5/libslirp-v4.9.5.tar.bz2",
     "license": "BSD-3-Clause AND MIT"
   },
   {
@@ -2161,15 +2161,15 @@
   },
   {
     "name": "libtirpc",
-    "version": "1.3.7",
-    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/libtirpc/libtirpc-1.3.7.tar.bz2",
+    "version": "1.3.8",
+    "upstream_urls": "https://downloads.sourceforge.net/sourceforge/libtirpc/libtirpc-1.3.8.tar.bz2",
     "license": "BSD-3-Clause"
   },
   {
     "name": "libtraceevent",
-    "version": "1.8.4",
-    "upstream_urls": "https://git.kernel.org/pub/scm/libs/libtrace/libtraceevent.git;tag=libtraceevent-1.8.4",
-    "license": "LGPL-2.1 AND GPL-2.0"
+    "version": "1.9.0",
+    "upstream_urls": "https://git.kernel.org/pub/scm/libs/libtrace/libtraceevent.git;tag=libtraceevent-1.9.0",
+    "license": "LGPL-2.1-only AND GPL-2.0-only"
   },
   {
     "name": "libtracefs",
@@ -2263,8 +2263,8 @@
   },
   {
     "name": "libwacom",
-    "version": "2.16.1",
-    "upstream_urls": "https://github.com/linuxwacom/libwacom/archive/libwacom-2.16.1.tar.gz",
+    "version": "2.20.0",
+    "upstream_urls": "https://github.com/linuxwacom/libwacom/archive/libwacom-2.20.0.tar.gz",
     "license": "HPND"
   },
   {
@@ -2347,8 +2347,8 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20260810",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260810.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260810.tar.gz",
+    "version": "20260916",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260916.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260916.tar.gz",
     "license": "proprietary"
   },
   {
@@ -2377,8 +2377,8 @@
   },
   {
     "name": "lm_sensors",
-    "version": "3.6.0",
-    "upstream_urls": "https://github.com/lm-sensors/lm-sensors/archive/V3-6-0.tar.gz",
+    "version": "3.6.2",
+    "upstream_urls": "https://github.com/lm-sensors/lm-sensors/archive/V3-6-2.tar.gz",
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
   },
   {
@@ -2515,8 +2515,8 @@
   },
   {
     "name": "mesalib",
-    "version": "26.2.1",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.2.1.tar.xz",
+    "version": "26.2.3",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.2.3.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -2635,8 +2635,8 @@
   },
   {
     "name": "nano",
-    "version": "9.0",
-    "upstream_urls": "https://www.nano-editor.org/dist/v9/nano-9.0.tar.xz",
+    "version": "9.2",
+    "upstream_urls": "https://www.nano-editor.org/dist/v9/nano-9.2.tar.xz",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -2647,8 +2647,8 @@
   },
   {
     "name": "nbd",
-    "version": "3.26.1",
-    "upstream_urls": "https://github.com/NetworkBlockDevice/nbd/releases/download/nbd-3.26.1/nbd-3.26.1.tar.xz",
+    "version": "3.27.1",
+    "upstream_urls": "https://github.com/NetworkBlockDevice/nbd/releases/download/nbd-3.27.1/nbd-3.27.1.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -2731,8 +2731,8 @@
   },
   {
     "name": "nginx",
-    "version": "1.29.1",
-    "upstream_urls": "https://nginx.org/download/nginx-1.29.1.tar.gz",
+    "version": "1.31.6",
+    "upstream_urls": "https://nginx.org/download/nginx-1.31.6.tar.gz",
     "license": "BSD-2-Clause"
   },
   {
@@ -2773,8 +2773,8 @@
   },
   {
     "name": "nss",
-    "version": "3.123",
-    "upstream_urls": "https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_123_RTM/src/nss-3.123.tar.gz",
+    "version": "3.130",
+    "upstream_urls": "https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_130_RTM/src/nss-3.130.tar.gz",
     "license": "MPL-2.0"
   },
   {
@@ -2785,8 +2785,8 @@
   },
   {
     "name": "ntfs-3g",
-    "version": "2022.10.3",
-    "upstream_urls": "https://download.tuxera.com/opensource/ntfs-3g_ntfsprogs-2022.10.3.tgz",
+    "version": "2026.9.18",
+    "upstream_urls": "https://download.tuxera.com/opensource/ntfs-3g_ntfsprogs-2026.9.18.tgz",
     "license": "GPL-2.0-or-later AND LGPL-2.0-only"
   },
   {
@@ -2929,8 +2929,8 @@
   },
   {
     "name": "orc",
-    "version": "0.4.43",
-    "upstream_urls": "https://gstreamer.freedesktop.org/data/src/orc/orc-0.4.43.tar.xz",
+    "version": "0.4.44",
+    "upstream_urls": "https://gstreamer.freedesktop.org/data/src/orc/orc-0.4.44.tar.xz",
     "license": "BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -2965,8 +2965,8 @@
   },
   {
     "name": "pango",
-    "version": "1.57.0",
-    "upstream_urls": "https://download.gnome.org/sources/pango/1.57/pango-1.57.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/pango/1.57/pango-1.57.0.tar.xz",
+    "version": "1.58.2",
+    "upstream_urls": "https://download.gnome.org/sources/pango/1.58/pango-1.58.2.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/pango/1.58/pango-1.58.2.tar.xz",
     "license": "LGPL-2.0-or-later"
   },
   {
@@ -2983,8 +2983,8 @@
   },
   {
     "name": "pcre2",
-    "version": "10.48",
-    "upstream_urls": "https://github.com/PCRE2Project/pcre2/releases/download/pcre2-10.48/pcre2-10.48.tar.bz2",
+    "version": "10.49",
+    "upstream_urls": "https://github.com/PCRE2Project/pcre2/releases/download/pcre2-10.49/pcre2-10.49.tar.bz2",
     "license": "BSD-3-Clause"
   },
   {
@@ -3025,8 +3025,8 @@
   },
   {
     "name": "pipewire",
-    "version": "1.6.4",
-    "upstream_urls": "https://gitlab.freedesktop.org/pipewire/pipewire/-/archive/1.6.4/pipewire-1.6.4.tar.bz2",
+    "version": "1.6.9",
+    "upstream_urls": "https://gitlab.freedesktop.org/pipewire/pipewire/-/archive/1.6.9/pipewire-1.6.9.tar.bz2",
     "license": "MIT AND LGPL-2.1-or-later"
   },
   {
@@ -3121,8 +3121,8 @@
   },
   {
     "name": "protobuf",
-    "version": "33.0",
-    "upstream_urls": "https://github.com/google/protobuf/releases/download/v33.0/protobuf-33.0.tar.gz",
+    "version": "36.2",
+    "upstream_urls": "https://github.com/google/protobuf/releases/download/v36.2/protobuf-36.2.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
@@ -3895,8 +3895,8 @@
   },
   {
     "name": "qemu",
-    "version": "11.1.1",
-    "upstream_urls": "https://download.qemu.org/qemu-11.1.1.tar.xz",
+    "version": "11.1.2",
+    "upstream_urls": "https://download.qemu.org/qemu-11.1.2.tar.xz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND MIT AND BSD-1-Clause AND BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -4105,8 +4105,8 @@
   },
   {
     "name": "seatd",
-    "version": "0.9.1",
-    "upstream_urls": "https://git.sr.ht/~kennylevinsen/seatd/archive/0.9.1.tar.gz",
+    "version": "0.9.3",
+    "upstream_urls": "https://git.sr.ht/~kennylevinsen/seatd/archive/0.9.3.tar.gz",
     "license": "MIT"
   },
   {
@@ -4381,8 +4381,8 @@
   },
   {
     "name": "tcpdump",
-    "version": "4.99.6",
-    "upstream_urls": "https://www.tcpdump.org/release/tcpdump-4.99.6.tar.gz",
+    "version": "4.99.7",
+    "upstream_urls": "https://www.tcpdump.org/release/tcpdump-4.99.7.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
@@ -4447,9 +4447,9 @@
   },
   {
     "name": "trace-cmd",
-    "version": "3.3.1",
-    "upstream_urls": "https://git.kernel.org/pub/scm/utils/trace-cmd/trace-cmd.git/snapshot/trace-cmd-v3.3.1.tar.gz",
-    "license": "GPL-2.0-only"
+    "version": "3.4",
+    "upstream_urls": "https://git.kernel.org/pub/scm/utils/trace-cmd/trace-cmd.git/snapshot/trace-cmd-v3.4.tar.gz",
+    "license": "LGPL-2.1-only AND GPL-2.0-only"
   },
   {
     "name": "tree",
@@ -4537,8 +4537,8 @@
   },
   {
     "name": "util-linux",
-    "version": "2.42.3",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/v2.42/util-linux-2.42.3.tar.xz https://www.kernel.org/pub/linux/utils/util-linux/v2.42/util-linux-2.42.3.tar.xz",
+    "version": "2.42.4",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/v2.42/util-linux-2.42.4.tar.xz https://www.kernel.org/pub/linux/utils/util-linux/v2.42/util-linux-2.42.4.tar.xz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND LGPL-2.0-or-later AND BSD-3-Clause AND BSD-4-Clause AND MIT AND ISC AND public_domain"
   },
   {
@@ -4555,8 +4555,8 @@
   },
   {
     "name": "valgrind",
-    "version": "3.26.0",
-    "upstream_urls": "https://sourceware.org/pub/valgrind/valgrind-3.26.0.tar.bz2",
+    "version": "3.27.1",
+    "upstream_urls": "https://sourceware.org/pub/valgrind/valgrind-3.27.1.tar.bz2",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -4705,8 +4705,8 @@
   },
   {
     "name": "wireplumber",
-    "version": "0.5.14",
-    "upstream_urls": "https://gitlab.freedesktop.org/pipewire/wireplumber/-/archive/0.5.14/wireplumber-0.5.14.tar.gz",
+    "version": "0.5.17",
+    "upstream_urls": "https://gitlab.freedesktop.org/pipewire/wireplumber/-/archive/0.5.17/wireplumber-0.5.17.tar.gz",
     "license": "MIT"
   },
   {
@@ -4717,9 +4717,9 @@
   },
   {
     "name": "wpa_supplicant",
-    "version": "2.11",
-    "upstream_urls": "https://w1.fi/releases/wpa_supplicant-2.11.tar.gz",
-    "license": "GPL-2.0-only"
+    "version": "2.12",
+    "upstream_urls": "https://w1.fi/releases/wpa_supplicant-2.12.tar.gz",
+    "license": "BSD-3-Clause"
   },
   {
     "name": "wpan-tools",
@@ -5455,14 +5455,14 @@
   },
   {
     "name": "xxhash",
-    "version": "0.8.3",
-    "upstream_urls": "https://github.com/Cyan4973/xxHash/archive/refs/tags/v0.8.3.tar.gz",
+    "version": "0.8.4",
+    "upstream_urls": "https://github.com/Cyan4973/xxHash/archive/refs/tags/v0.8.4.tar.gz",
     "license": "BSD-2-Clause"
   },
   {
     "name": "xz",
-    "version": "5.8.1",
-    "upstream_urls": "https://github.com/tukaani-project/xz/archive/refs/tags/v5.8.1.tar.gz",
+    "version": "5.8.4",
+    "upstream_urls": "https://github.com/tukaani-project/xz/archive/refs/tags/v5.8.4.tar.gz",
     "license": "0BSD AND public_domain AND LGPL-2.1-or-later AND GPL-2.0-or-later AND GPL-3.0-or-later"
   },
   {
