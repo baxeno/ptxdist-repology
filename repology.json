@@ -1,8 +1,8 @@
 [
   {
     "name": "abseil-cpp",
-    "version": "20250814.1",
-    "upstream_urls": "https://github.com/abseil/abseil-cpp/archive/refs/tags/20250814.1.tar.gz",
+    "version": "20260817.0",
+    "upstream_urls": "https://github.com/abseil/abseil-cpp/archive/refs/tags/20260817.0.tar.gz",
     "license": "Apache-2.0"
   },
   {
@@ -169,8 +169,8 @@
   },
   {
     "name": "bluez",
-    "version": "5.84",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/bluetooth/bluez-5.84.tar.gz https://www.kernel.org/pub/linux/bluetooth/bluez-5.84.tar.gz",
+    "version": "5.87",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/bluetooth/bluez-5.87.tar.gz https://www.kernel.org/pub/linux/bluetooth/bluez-5.87.tar.gz",
     "license": "GPL-2.0-or-later AND LGPL-2.1-or-later"
   },
   {
@@ -229,9 +229,9 @@
   },
   {
     "name": "bubblewrap",
-    "version": "0.11.2",
-    "upstream_urls": "https://github.com/containers/bubblewrap/releases/download/v0.11.2/bubblewrap-0.11.2.tar.xz",
-    "license": "LGPL-2.0-or-later"
+    "version": "0.13.1",
+    "upstream_urls": "https://github.com/containers/bubblewrap/releases/download/v0.13.1/bubblewrap-0.13.1.tar.xz",
+    "license": "LGPL-2.1-or-later"
   },
   {
     "name": "bustle",
@@ -259,8 +259,8 @@
   },
   {
     "name": "ca-certificates",
-    "version": "NSS_3_130_RTM",
-    "upstream_urls": "https://hg.mozilla.org/projects/nss/raw-file/NSS_3_130_RTM/lib/ckfw/builtins/certdata.txt",
+    "version": "NSS_3_132_RTM",
+    "upstream_urls": "https://hg.mozilla.org/projects/nss/raw-file/NSS_3_132_RTM/lib/ckfw/builtins/certdata.txt",
     "license": "MPL-2.0"
   },
   {
@@ -373,8 +373,8 @@
   },
   {
     "name": "cppunit",
-    "version": "1.14.0",
-    "upstream_urls": "https://dev-www.libreoffice.org/src/cppunit-1.14.0.tar.gz",
+    "version": "1.15.1",
+    "upstream_urls": "https://dev-www.libreoffice.org/src/cppunit-1.15.1.tar.gz",
     "license": "LGPL-2.1-only"
   },
   {
@@ -451,8 +451,8 @@
   },
   {
     "name": "dav1d",
-    "version": "1.5.1",
-    "upstream_urls": "https://code.videolan.org/videolan/dav1d/-/archive/1.5.1/dav1d-1.5.1.tar.bz2",
+    "version": "1.5.4",
+    "upstream_urls": "https://code.videolan.org/videolan/dav1d/-/archive/1.5.4/dav1d-1.5.4.tar.bz2",
     "license": "BSD-2-Clause"
   },
   {
@@ -625,8 +625,8 @@
   },
   {
     "name": "ethtool",
-    "version": "7.1",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/../software/network/ethtool/ethtool-7.1.tar.xz https://www.kernel.org/pub/linux/../software/network/ethtool/ethtool-7.1.tar.xz",
+    "version": "7.2",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/../software/network/ethtool/ethtool-7.2.tar.xz https://www.kernel.org/pub/linux/../software/network/ethtool/ethtool-7.2.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -697,8 +697,8 @@
   },
   {
     "name": "ffmpeg",
-    "version": "8.0",
-    "upstream_urls": "https://www.ffmpeg.org/releases/ffmpeg-8.0.tar.xz",
+    "version": "9.0.2",
+    "upstream_urls": "https://www.ffmpeg.org/releases/ffmpeg-9.0.2.tar.xz",
     "license": "LGPL-2.1-or-later AND BSD-3-Clause"
   },
   {
@@ -727,8 +727,8 @@
   },
   {
     "name": "fio",
-    "version": "3.41",
-    "upstream_urls": "https://github.com/axboe/fio/archive/refs/tags/fio-3.41.tar.gz",
+    "version": "3.43",
+    "upstream_urls": "https://github.com/axboe/fio/archive/refs/tags/fio-3.43.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -763,8 +763,8 @@
   },
   {
     "name": "fontconfig",
-    "version": "2.17.1",
-    "upstream_urls": "https://gitlab.freedesktop.org/fontconfig/fontconfig/-/archive/2.17.1/fontconfig-2.17.1.tar.gz",
+    "version": "2.18.3",
+    "upstream_urls": "https://gitlab.freedesktop.org/fontconfig/fontconfig/-/archive/2.18.3/fontconfig-2.18.3.tar.gz",
     "license": "HPND-sell-variant AND MIT AND custom AND MIT-Modern-Variant AND Unicode-TOU AND public_domain"
   },
   {
@@ -775,8 +775,8 @@
   },
   {
     "name": "fribidi",
-    "version": "1.0.16",
-    "upstream_urls": "https://github.com/fribidi/fribidi/releases/download/v1.0.16/fribidi-1.0.16.tar.xz",
+    "version": "1.0.17",
+    "upstream_urls": "https://github.com/fribidi/fribidi/releases/download/v1.0.17/fribidi-1.0.17.tar.xz",
     "license": "LGPL-2.1-or-later"
   },
   {
@@ -811,8 +811,8 @@
   },
   {
     "name": "gdk-pixbuf",
-    "version": "2.44.4",
-    "upstream_urls": "https://download.gnome.org/sources/gdk-pixbuf/2.44/gdk-pixbuf-2.44.4.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/gdk-pixbuf/2.44/gdk-pixbuf-2.44.4.tar.xz",
+    "version": "2.44.8",
+    "upstream_urls": "https://download.gnome.org/sources/gdk-pixbuf/2.44/gdk-pixbuf-2.44.8.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/gdk-pixbuf/2.44/gdk-pixbuf-2.44.8.tar.xz",
     "license": "LGPL-2.0-or-later"
   },
   {
@@ -1021,8 +1021,8 @@
   },
   {
     "name": "gtk",
-    "version": "3.24.51",
-    "upstream_urls": "https://gitlab.gnome.org/GNOME/gtk/-/archive/3.24.51/gtk+-3.24.51.tar.bz2",
+    "version": "3.24.52",
+    "upstream_urls": "https://gitlab.gnome.org/GNOME/gtk/-/archive/3.24.52/gtk+-3.24.52.tar.bz2",
     "license": "LGPL-2.0-or-later"
   },
   {
@@ -1087,8 +1087,8 @@
   },
   {
     "name": "hostapd",
-    "version": "2.11",
-    "upstream_urls": "http://w1.fi/releases/hostapd-2.11.tar.gz",
+    "version": "2.12",
+    "upstream_urls": "http://w1.fi/releases/hostapd-2.12.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
@@ -1123,8 +1123,8 @@
   },
   {
     "name": "icu",
-    "version": "77.1",
-    "upstream_urls": "https://github.com/unicode-org/icu/releases/download/release-77-1/icu4c-77_1-src.tgz",
+    "version": "78.3",
+    "upstream_urls": "https://github.com/unicode-org/icu/releases/download/release-78.3/icu4c-78.3-sources.tgz",
     "license": "MIT AND Unicode-3.0 AND public_domain AND BSD-3-Clause"
   },
   {
@@ -1142,7 +1142,7 @@
   {
     "name": "igt-gpu-tools",
     "version": "2.5",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/igt-gpu-tools-2.5.tar.xz https://xorg.freedesktop.org/releases/individual/app/igt-gpu-tools-2.5.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/igt-gpu-tools-2.5.tar.xz",
     "license": "MIT AND ISC"
   },
   {
@@ -1225,8 +1225,8 @@
   },
   {
     "name": "iproute2",
-    "version": "7.2.0",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/net/iproute2/iproute2-7.2.0.tar.xz https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-7.2.0.tar.xz",
+    "version": "7.3.0",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/net/iproute2/iproute2-7.3.0.tar.xz https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-7.3.0.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -1387,8 +1387,8 @@
   },
   {
     "name": "libarchive",
-    "version": "3.8.9",
-    "upstream_urls": "https://www.libarchive.org/downloads/libarchive-3.8.9.tar.gz",
+    "version": "3.8.10",
+    "upstream_urls": "https://www.libarchive.org/downloads/libarchive-3.8.10.tar.gz",
     "license": "BSD-2-Clause AND BSD-3-Clause AND public_domain AND (CC0-1.0 OR OpenSSL OR Apache-2.0)"
   },
   {
@@ -1411,8 +1411,8 @@
   },
   {
     "name": "libatomic_ops",
-    "version": "7.8.4",
-    "upstream_urls": "https://github.com/bdwgc/libatomic_ops/releases/download/v7.8.4/libatomic_ops-7.8.4.tar.gz",
+    "version": "7.10.0",
+    "upstream_urls": "https://github.com/bdwgc/libatomic_ops/releases/download/v7.10.0/libatomic_ops-7.10.0.tar.gz",
     "license": "MIT AND Boehm-GC AND GPL-2.0-or-later"
   },
   {
@@ -1567,8 +1567,8 @@
   },
   {
     "name": "libelf",
-    "version": "0.195",
-    "upstream_urls": "https://sourceware.org/elfutils/ftp/0.195/elfutils-0.195.tar.bz2",
+    "version": "0.197",
+    "upstream_urls": "https://sourceware.org/elfutils/ftp/0.197/elfutils-0.197.tar.bz2",
     "license": "(LGPL-3.0-or-later OR GPL-2.0-or-later) AND GPL-3.0-or-later"
   },
   {
@@ -1687,8 +1687,8 @@
   },
   {
     "name": "libical",
-    "version": "3.0.20",
-    "upstream_urls": "https://github.com/libical/libical/releases/download/v3.0.20/libical-3.0.20.tar.gz",
+    "version": "4.0.7",
+    "upstream_urls": "https://github.com/libical/libical/releases/download/v4.0.7/libical-4.0.7.tar.gz",
     "license": "LGPL-2.1-only OR MPL-2.0"
   },
   {
@@ -1717,8 +1717,8 @@
   },
   {
     "name": "libjpeg",
-    "version": "3.2.0",
-    "upstream_urls": "https://github.com/libjpeg-turbo/libjpeg-turbo/archive/refs/tags/3.2.0.tar.gz",
+    "version": "3.2.1",
+    "upstream_urls": "https://github.com/libjpeg-turbo/libjpeg-turbo/archive/refs/tags/3.2.1.tar.gz",
     "license": "IJG AND BSD-3-Clause"
   },
   {
@@ -1729,8 +1729,8 @@
   },
   {
     "name": "libkmod",
-    "version": "34.2",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/kernel/kmod/kmod-34.2.tar.xz https://www.kernel.org/pub/linux/utils/kernel/kmod/kmod-34.2.tar.xz",
+    "version": "34.3",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/kernel/kmod/kmod-34.3.tar.xz https://www.kernel.org/pub/linux/utils/kernel/kmod/kmod-34.3.tar.xz",
     "license": "GPL-2.0-only AND LGPL-2.0-only"
   },
   {
@@ -1771,8 +1771,8 @@
   },
   {
     "name": "libmd",
-    "version": "1.1.0",
-    "upstream_urls": "https://libbsd.freedesktop.org/releases/libmd-1.1.0.tar.xz",
+    "version": "1.3.0",
+    "upstream_urls": "https://libbsd.freedesktop.org/releases/libmd-1.3.0.tar.xz",
     "license": "BSD-3-Clause AND BSD-2-Clause AND ISC AND Beerware AND public_domain"
   },
   {
@@ -1897,8 +1897,8 @@
   },
   {
     "name": "libnghttp2",
-    "version": "1.67.1",
-    "upstream_urls": "https://github.com/nghttp2/nghttp2/releases/download/v1.67.1/nghttp2-1.67.1.tar.xz",
+    "version": "1.70.0",
+    "upstream_urls": "https://github.com/nghttp2/nghttp2/releases/download/v1.70.0/nghttp2-1.70.0.tar.xz",
     "license": "MIT"
   },
   {
@@ -1976,7 +1976,7 @@
   {
     "name": "libpciaccess",
     "version": "0.19",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libpciaccess-0.19.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libpciaccess-0.19.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libpciaccess-0.19.tar.xz",
     "license": "MIT"
   },
   {
@@ -2071,8 +2071,8 @@
   },
   {
     "name": "libslirp",
-    "version": "4.9.5",
-    "upstream_urls": "https://gitlab.freedesktop.org/slirp/libslirp/-/archive/v4.9.5/libslirp-v4.9.5.tar.bz2",
+    "version": "4.9.7",
+    "upstream_urls": "https://gitlab.freedesktop.org/slirp/libslirp/-/archive/v4.9.7/libslirp-v4.9.7.tar.bz2",
     "license": "BSD-3-Clause AND MIT"
   },
   {
@@ -2095,20 +2095,20 @@
   },
   {
     "name": "libsolv",
-    "version": "0.7.35",
-    "upstream_urls": "https://github.com/openSUSE/libsolv/archive/refs/tags/0.7.35.tar.gz",
+    "version": "0.7.40",
+    "upstream_urls": "https://github.com/openSUSE/libsolv/archive/refs/tags/0.7.40.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
     "name": "libsoup",
-    "version": "3.6.6",
-    "upstream_urls": "https://download.gnome.org/sources/libsoup/3.6/libsoup-3.6.6.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libsoup/3.6/libsoup-3.6.6.tar.xz",
+    "version": "3.8.0",
+    "upstream_urls": "https://download.gnome.org/sources/libsoup/3.8/libsoup-3.8.0.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libsoup/3.8/libsoup-3.8.0.tar.xz",
     "license": "LGPL-2.1-only"
   },
   {
     "name": "libsrtp",
-    "version": "2.7.0",
-    "upstream_urls": "https://github.com/cisco/libsrtp/archive/v2.7.0.tar.gz",
+    "version": "2.8.1",
+    "upstream_urls": "https://github.com/cisco/libsrtp/archive/v2.8.1.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
@@ -2125,8 +2125,8 @@
   },
   {
     "name": "libtag",
-    "version": "2.1.1",
-    "upstream_urls": "https://taglib.org/releases/taglib-2.1.1.tar.gz",
+    "version": "2.3.2",
+    "upstream_urls": "https://taglib.org/releases/taglib-2.3.2.tar.gz",
     "license": "LGPL-2.1-only OR MPL-1.1"
   },
   {
@@ -2173,8 +2173,8 @@
   },
   {
     "name": "libtracefs",
-    "version": "1.8.1",
-    "upstream_urls": "https://git.kernel.org/pub/scm/libs/libtrace/libtracefs.git;tag=libtracefs-1.8.1",
+    "version": "1.8.3",
+    "upstream_urls": "https://git.kernel.org/pub/scm/libs/libtrace/libtracefs.git;tag=libtracefs-1.8.3",
     "license": "LGPL-2.1-only AND GPL-3.0-or-later WITH Bison-exception-2.2"
   },
   {
@@ -2281,8 +2281,8 @@
   },
   {
     "name": "libx11-locale",
-    "version": "1.8.12",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libX11-1.8.12.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libX11-1.8.12.tar.xz",
+    "version": "1.8.14",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libX11-1.8.14.tar.xz",
     "license": "MIT"
   },
   {
@@ -2317,8 +2317,8 @@
   },
   {
     "name": "libxslt",
-    "version": "1.1.43",
-    "upstream_urls": "https://download.gnome.org/sources/libxslt/1.1/libxslt-1.1.43.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libxslt/1.1/libxslt-1.1.43.tar.xz",
+    "version": "1.1.45",
+    "upstream_urls": "https://download.gnome.org/sources/libxslt/1.1/libxslt-1.1.45.tar.xz https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnome.org/sources/libxslt/1.1/libxslt-1.1.45.tar.xz",
     "license": "MIT"
   },
   {
@@ -2347,8 +2347,8 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20260916",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260916.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20260916.tar.gz",
+    "version": "20261019",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/kernel/firmware/linux-firmware-20261019.tar.gz https://www.kernel.org/pub/linux/kernel/firmware/linux-firmware-20261019.tar.gz",
     "license": "proprietary"
   },
   {
@@ -2515,8 +2515,8 @@
   },
   {
     "name": "mesalib",
-    "version": "26.2.4",
-    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.2.4.tar.xz",
+    "version": "26.2.5",
+    "upstream_urls": "https://mesa.freedesktop.org/archive/mesa-26.2.5.tar.xz",
     "license": "MIT AND BSL-1.0"
   },
   {
@@ -2635,8 +2635,8 @@
   },
   {
     "name": "nano",
-    "version": "9.2",
-    "upstream_urls": "https://www.nano-editor.org/dist/v9/nano-9.2.tar.xz",
+    "version": "9.3",
+    "upstream_urls": "https://www.nano-editor.org/dist/v9/nano-9.3.tar.xz",
     "license": "GPL-3.0-or-later"
   },
   {
@@ -2767,14 +2767,14 @@
   },
   {
     "name": "nspr",
-    "version": "4.37",
-    "upstream_urls": "https://ftp.mozilla.org/pub/nspr/releases/v4.37/src/nspr-4.37.tar.gz",
+    "version": "4.40",
+    "upstream_urls": "https://ftp.mozilla.org/pub/nspr/releases/v4.40/src/nspr-4.40.tar.gz",
     "license": "MPL-2.0"
   },
   {
     "name": "nss",
-    "version": "3.130",
-    "upstream_urls": "https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_130_RTM/src/nss-3.130.tar.gz",
+    "version": "3.131.1",
+    "upstream_urls": "https://ftp.mozilla.org/pub/security/nss/releases/NSS_3_131_1_RTM/src/nss-3.131.1.tar.gz",
     "license": "MPL-2.0"
   },
   {
@@ -2959,8 +2959,8 @@
   },
   {
     "name": "pam",
-    "version": "1.7.1",
-    "upstream_urls": "https://github.com/linux-pam/linux-pam/archive/refs/tags/v1.7.1.tar.gz",
+    "version": "1.7.3",
+    "upstream_urls": "https://github.com/linux-pam/linux-pam/archive/refs/tags/v1.7.3.tar.gz",
     "license": "BSD-3-Clause OR (GPL-2.0-or-later AND LGPL-2.0-or-later)"
   },
   {
@@ -3001,8 +3001,8 @@
   },
   {
     "name": "php8",
-    "version": "8.5.5",
-    "upstream_urls": "http://museum.php.net/php8/php-8.5.5.tar.xz http://de.php.net/distributions/php-8.5.5.tar.xz",
+    "version": "8.5.12",
+    "upstream_urls": "http://museum.php.net/php8/php-8.5.12.tar.xz http://de.php.net/distributions/php-8.5.12.tar.xz",
     "license": "PHP-3.01"
   },
   {
@@ -3032,7 +3032,7 @@
   {
     "name": "pixman",
     "version": "0.46.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/pixman-0.46.4.tar.xz https://xorg.freedesktop.org/releases/individual/lib/pixman-0.46.4.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/pixman-0.46.4.tar.xz",
     "license": "MIT"
   },
   {
@@ -3091,8 +3091,8 @@
   },
   {
     "name": "powertop",
-    "version": "2.15",
-    "upstream_urls": "https://github.com/fenrus75/powertop/archive/refs/tags/v2.15.tar.gz",
+    "version": "2.16.1",
+    "upstream_urls": "https://github.com/fenrus75/powertop/archive/refs/tags/v2.16.1.tar.gz",
     "license": "GPL-2.0-only"
   },
   {
@@ -3895,8 +3895,8 @@
   },
   {
     "name": "qemu",
-    "version": "11.1.2",
-    "upstream_urls": "https://download.qemu.org/qemu-11.1.2.tar.xz",
+    "version": "11.1.3",
+    "upstream_urls": "https://download.qemu.org/qemu-11.1.3.tar.xz",
     "license": "GPL-2.0-only AND GPL-2.0-or-later AND MIT AND BSD-1-Clause AND BSD-2-Clause AND BSD-3-Clause"
   },
   {
@@ -4006,6 +4006,12 @@
     "version": "1.7.0",
     "upstream_urls": "https://github.com/oetiker/rrdtool-1.x/releases/download/v1.7.0/rrdtool-1.7.0.tar.gz",
     "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "rsinit",
+    "version": "v0.1.0",
+    "upstream_urls": "https://github.com/pengutronix/rsinit/archive/v0.1.0.tar.gz",
+    "license": "GPL-2.0-only"
   },
   {
     "name": "rsync",
@@ -4159,8 +4165,8 @@
   },
   {
     "name": "slang",
-    "version": "2.3.2",
-    "upstream_urls": "http://www.jedsoft.org/releases/slang/slang-2.3.2.tar.bz2 http://www.jedsoft.org/releases/slang/old/slang-2.3.2.tar.bz2",
+    "version": "2.3.3",
+    "upstream_urls": "http://www.jedsoft.org/releases/slang/slang-2.3.3.tar.bz2 http://www.jedsoft.org/releases/slang/old/slang-2.3.3.tar.bz2",
     "license": "GPL-2.0-or-later"
   },
   {
@@ -4177,8 +4183,8 @@
   },
   {
     "name": "socat",
-    "version": "1.8.0.3",
-    "upstream_urls": "http://www.dest-unreach.org/socat/download/socat-1.8.0.3.tar.gz http://www.dest-unreach.org/socat/download/Archive/socat-1.8.0.3.tar.gz",
+    "version": "1.8.1.3",
+    "upstream_urls": "http://www.dest-unreach.org/socat/download/socat-1.8.1.3.tar.gz http://www.dest-unreach.org/socat/download/Archive/socat-1.8.1.3.tar.gz",
     "license": "GPL-2.0-only AND MIT"
   },
   {
@@ -4243,8 +4249,8 @@
   },
   {
     "name": "sqlite",
-    "version": "3.51.1",
-    "upstream_urls": "https://www.sqlite.org/2025/sqlite-autoconf-3510100.tar.gz",
+    "version": "3.54.1",
+    "upstream_urls": "https://www.sqlite.org/2026/sqlite-autoconf-3540100.tar.gz",
     "license": "public_domain"
   },
   {
@@ -4279,8 +4285,8 @@
   },
   {
     "name": "strace",
-    "version": "7.2",
-    "upstream_urls": "https://strace.io/files/7.2/strace-7.2.tar.xz",
+    "version": "7.3",
+    "upstream_urls": "https://strace.io/files/7.3/strace-7.3.tar.xz",
     "license": "LGPL-2.1-or-later AND GPL-2.0-only WITH Linux-syscall-note"
   },
   {
@@ -4327,8 +4333,8 @@
   },
   {
     "name": "sysklogd",
-    "version": "2.7.2",
-    "upstream_urls": "https://github.com/troglobit/sysklogd/releases/download/v2.7.2/sysklogd-2.7.2.tar.gz",
+    "version": "2.8.0",
+    "upstream_urls": "https://github.com/troglobit/sysklogd/releases/download/v2.8.0/sysklogd-2.8.0.tar.gz",
     "license": "BSD-3-Clause"
   },
   {
@@ -4363,8 +4369,8 @@
   },
   {
     "name": "talloc",
-    "version": "2.4.3",
-    "upstream_urls": "https://www.samba.org/ftp/talloc/talloc-2.4.3.tar.gz",
+    "version": "2.5.0",
+    "upstream_urls": "https://www.samba.org/ftp/talloc/talloc-2.5.0.tar.gz",
     "license": "GPL-3.0-or-later AND LGPL-3.0-or-later"
   },
   {
@@ -4441,8 +4447,8 @@
   },
   {
     "name": "tpm2-tss",
-    "version": "4.2.0",
-    "upstream_urls": "https://github.com/tpm2-software/tpm2-tss/releases/download/4.2.0/tpm2-tss-4.2.0.tar.gz",
+    "version": "4.2.1",
+    "upstream_urls": "https://github.com/tpm2-software/tpm2-tss/releases/download/4.2.1/tpm2-tss-4.2.1.tar.gz",
     "license": "BSD-2-Clause"
   },
   {
@@ -4531,8 +4537,8 @@
   },
   {
     "name": "usbutils",
-    "version": "019",
-    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/usb/usbutils/usbutils-019.tar.xz https://www.kernel.org/pub/linux/utils/usb/usbutils/usbutils-019.tar.xz",
+    "version": "020",
+    "upstream_urls": "https://mirrors.edge.kernel.org/pub/linux/utils/usb/usbutils/usbutils-020.tar.xz https://www.kernel.org/pub/linux/utils/usb/usbutils/usbutils-020.tar.xz",
     "license": "GPL-2.0-only"
   },
   {
@@ -4561,8 +4567,8 @@
   },
   {
     "name": "vim",
-    "version": "9.1.1868",
-    "upstream_urls": "https://github.com/vim/vim/archive/refs/tags/v9.1.1868.tar.gz",
+    "version": "9.2.1225",
+    "upstream_urls": "https://github.com/vim/vim/archive/refs/tags/v9.2.1225.tar.gz",
     "license": "Vim"
   },
   {
@@ -4681,8 +4687,8 @@
   },
   {
     "name": "weston",
-    "version": "16.0.0",
-    "upstream_urls": "https://gitlab.freedesktop.org/wayland/weston/-/archive/16.0.0/weston-16.0.0.tar.gz",
+    "version": "16.0.2",
+    "upstream_urls": "https://gitlab.freedesktop.org/wayland/weston/-/archive/16.0.2/weston-16.0.2.tar.gz",
     "license": "MIT"
   },
   {
@@ -4705,8 +4711,8 @@
   },
   {
     "name": "wireplumber",
-    "version": "0.5.17",
-    "upstream_urls": "https://gitlab.freedesktop.org/pipewire/wireplumber/-/archive/0.5.17/wireplumber-0.5.17.tar.gz",
+    "version": "0.5.18",
+    "upstream_urls": "https://gitlab.freedesktop.org/pipewire/wireplumber/-/archive/0.5.18/wireplumber-0.5.18.tar.gz",
     "license": "MIT"
   },
   {
@@ -4796,151 +4802,151 @@
   {
     "name": "xkeyboard-config",
     "version": "2.48",
-    "upstream_urls": "https://ftp.x.org/archive/individual/data/xkeyboard-config/xkeyboard-config-2.48.tar.xz https://xorg.freedesktop.org/releases/individual/data/xkeyboard-config/xkeyboard-config-2.48.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/data/xkeyboard-config/xkeyboard-config-2.48.tar.xz",
     "license": "HPND-sell-variant AND X11-distribute-modifications-variant AND MIT-open-group AND MIT AND X11 AND xkeyboard-config-Zinoviev"
   },
   {
     "name": "xorg-app-iceauth",
     "version": "1.0.8",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/iceauth-1.0.8.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/iceauth-1.0.8.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/iceauth-1.0.8.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-app-mkfontdir",
     "version": "1.0.7",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/mkfontdir-1.0.7.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/mkfontdir-1.0.7.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/mkfontdir-1.0.7.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-app-mkfontscale",
     "version": "1.2.1",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/mkfontscale-1.2.1.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/mkfontscale-1.2.1.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/mkfontscale-1.2.1.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-app-rgb",
     "version": "1.0.6",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/rgb-1.0.6.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/rgb-1.0.6.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/rgb-1.0.6.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-app-xauth",
     "version": "1.1",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/xauth-1.1.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/xauth-1.1.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/xauth-1.1.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-app-xev",
     "version": "1.2.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/xev-1.2.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/xev-1.2.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/xev-1.2.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-app-xeyes",
     "version": "1.1.2",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/xeyes-1.1.2.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/xeyes-1.1.2.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/xeyes-1.1.2.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-app-xinit",
     "version": "1.4.1",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/xinit-1.4.1.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/xinit-1.4.1.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/xinit-1.4.1.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-app-xinput",
     "version": "1.6.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/xinput-1.6.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/xinput-1.6.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/xinput-1.6.3.tar.bz2",
     "license": "unknown"
   },
   {
     "name": "xorg-app-xkbcomp",
     "version": "1.4.5",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/xkbcomp-1.4.5.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/xkbcomp-1.4.5.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/xkbcomp-1.4.5.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-app-xprop",
     "version": "1.2.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/xprop-1.2.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/xprop-1.2.4.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/xprop-1.2.4.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-app-xrandr",
     "version": "1.5.1",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/xrandr-1.5.1.tar.xz https://xorg.freedesktop.org/releases/individual/app/xrandr-1.5.1.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/xrandr-1.5.1.tar.xz",
     "license": "unknown"
   },
   {
     "name": "xorg-app-xrdb",
     "version": "1.2.0",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/xrdb-1.2.0.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/xrdb-1.2.0.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/xrdb-1.2.0.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-app-xset",
     "version": "1.2.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/xset-1.2.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/xset-1.2.4.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/xset-1.2.4.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-app-xsetroot",
     "version": "1.1.2",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/xsetroot-1.1.2.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/xsetroot-1.1.2.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/xsetroot-1.1.2.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-app-xvinfo",
     "version": "1.1.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/app/xvinfo-1.1.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/app/xvinfo-1.1.4.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/app/xvinfo-1.1.4.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-data-xbitmaps",
     "version": "1.1.2",
-    "upstream_urls": "https://ftp.x.org/archive/individual/data/xbitmaps-1.1.2.tar.bz2 https://xorg.freedesktop.org/releases/individual/data/xbitmaps-1.1.2.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/data/xbitmaps-1.1.2.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-adobe-100dpi",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-adobe-100dpi-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-adobe-100dpi-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-adobe-100dpi-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-adobe-75dpi",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-adobe-75dpi-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-adobe-75dpi-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-adobe-75dpi-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-adobe-utopia-100dpi",
     "version": "1.0.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-adobe-utopia-100dpi-1.0.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-adobe-utopia-100dpi-1.0.4.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-adobe-utopia-100dpi-1.0.4.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-adobe-utopia-75dpi",
     "version": "1.0.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-adobe-utopia-75dpi-1.0.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-adobe-utopia-75dpi-1.0.4.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-adobe-utopia-75dpi-1.0.4.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-adobe-utopia-type1",
     "version": "1.0.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-adobe-utopia-type1-1.0.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-adobe-utopia-type1-1.0.4.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-adobe-utopia-type1-1.0.4.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-alias",
-    "version": "1.0.5",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-alias-1.0.5.tar.xz https://xorg.freedesktop.org/releases/individual/font/font-alias-1.0.5.tar.xz",
+    "version": "1.0.6",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-alias-1.0.6.tar.xz",
     "license": "Vakulenko"
   },
   {
     "name": "xorg-font-arabic-misc",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-arabic-misc-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-arabic-misc-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-arabic-misc-1.0.3.tar.bz2",
     "license": ""
   },
   {
@@ -4958,151 +4964,151 @@
   {
     "name": "xorg-font-bh-100dpi",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-bh-100dpi-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-bh-100dpi-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-bh-100dpi-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-bh-75dpi",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-bh-75dpi-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-bh-75dpi-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-bh-75dpi-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-bh-ttf",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-bh-ttf-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-bh-ttf-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-bh-ttf-1.0.3.tar.bz2",
     "license": "Luxi"
   },
   {
     "name": "xorg-font-bitstream-100dpi",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-bitstream-100dpi-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-bitstream-100dpi-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-bitstream-100dpi-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-bitstream-75dpi",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-bitstream-75dpi-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-bitstream-75dpi-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-bitstream-75dpi-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-bitstream-speedo",
     "version": "1.0.2",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-bitstream-speedo-1.0.2.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-bitstream-speedo-1.0.2.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-bitstream-speedo-1.0.2.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-bitstream-type1",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-bitstream-type1-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-bitstream-type1-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-bitstream-type1-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-cronyx-cyrillic",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-cronyx-cyrillic-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-cronyx-cyrillic-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-cronyx-cyrillic-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-cursor-misc",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-cursor-misc-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-cursor-misc-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-cursor-misc-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-daewoo-misc",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-daewoo-misc-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-daewoo-misc-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-daewoo-misc-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-dec-misc",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-dec-misc-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-dec-misc-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-dec-misc-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-encodings",
     "version": "1.0.5",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/encodings-1.0.5.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/encodings-1.0.5.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/encodings-1.0.5.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-ibm-type1",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-ibm-type1-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-ibm-type1-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-ibm-type1-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-isas-misc",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-isas-misc-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-isas-misc-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-isas-misc-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-jis-misc",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-jis-misc-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-jis-misc-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-jis-misc-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-micro-misc",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font//font-micro-misc-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font//font-micro-misc-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font//font-micro-misc-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-misc-cyrillic",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-misc-cyrillic-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-misc-cyrillic-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-misc-cyrillic-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-misc-ethiopic",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-misc-ethiopic-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-misc-ethiopic-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-misc-ethiopic-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-misc-meltho",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-misc-meltho-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-misc-meltho-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-misc-meltho-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-misc-misc",
     "version": "1.1.2",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-misc-misc-1.1.2.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-misc-misc-1.1.2.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-misc-misc-1.1.2.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-mutt-misc",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-mutt-misc-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-mutt-misc-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-mutt-misc-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-schumacher-misc",
     "version": "1.1.2",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-schumacher-misc-1.1.2.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-schumacher-misc-1.1.2.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-schumacher-misc-1.1.2.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-screen-cyrillic",
     "version": "1.0.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-screen-cyrillic-1.0.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-screen-cyrillic-1.0.4.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-screen-cyrillic-1.0.4.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-sony-misc",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-sony-misc-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-sony-misc-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-sony-misc-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-sun-misc",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-sun-misc-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-sun-misc-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-sun-misc-1.0.3.tar.bz2",
     "license": ""
   },
   {
@@ -5239,218 +5245,218 @@
   },
   {
     "name": "xorg-font-util",
-    "version": "1.4.1",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-util-1.4.1.tar.xz https://xorg.freedesktop.org/releases/individual/font/font-util-1.4.1.tar.xz",
+    "version": "1.4.2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-util-1.4.2.tar.xz",
     "license": "MIT AND BSD-2-Clause-NetBSD AND BSD-Source-Code AND MIT-open-group AND Unicode-TOU"
   },
   {
     "name": "xorg-font-winitzki-cyrillic",
     "version": "1.0.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-winitzki-cyrillic-1.0.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-winitzki-cyrillic-1.0.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-winitzki-cyrillic-1.0.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-font-xfree86-type1",
     "version": "1.0.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/font/font-xfree86-type1-1.0.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/font/font-xfree86-type1-1.0.4.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/font/font-xfree86-type1-1.0.4.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-lib-fontenc",
     "version": "1.1.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libfontenc-1.1.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libfontenc-1.1.4.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libfontenc-1.1.4.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-ice",
     "version": "1.1.2",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libICE-1.1.2.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libICE-1.1.2.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libICE-1.1.2.tar.xz",
     "license": "MIT-open-group"
   },
   {
     "name": "xorg-lib-sm",
     "version": "1.2.6",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libSM-1.2.6.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libSM-1.2.6.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libSM-1.2.6.tar.xz",
     "license": "MIT AND MIT-open-group"
   },
   {
     "name": "xorg-lib-x11",
-    "version": "1.8.12",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libX11-1.8.12.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libX11-1.8.12.tar.xz",
+    "version": "1.8.14",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libX11-1.8.14.tar.xz",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-xau",
     "version": "1.0.12",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXau-1.0.12.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libXau-1.0.12.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXau-1.0.12.tar.xz",
     "license": "MIT-open-group"
   },
   {
     "name": "xorg-lib-xaw",
     "version": "1.0.13",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXaw-1.0.13.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXaw-1.0.13.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXaw-1.0.13.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-xcomposite",
     "version": "0.4.5",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXcomposite-0.4.5.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXcomposite-0.4.5.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXcomposite-0.4.5.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-xcursor",
     "version": "1.2.0",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXcursor-1.2.0.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXcursor-1.2.0.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXcursor-1.2.0.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-xdamage",
-    "version": "1.1.6",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXdamage-1.1.6.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libXdamage-1.1.6.tar.xz",
+    "version": "1.1.7",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXdamage-1.1.7.tar.xz",
     "license": "HPND-sell-variant"
   },
   {
     "name": "xorg-lib-xdmcp",
     "version": "1.1.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXdmcp-1.1.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXdmcp-1.1.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXdmcp-1.1.3.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-xext",
-    "version": "1.3.6",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXext-1.3.6.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libXext-1.3.6.tar.xz",
+    "version": "1.3.7",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXext-1.3.7.tar.xz",
     "license": "MIT-open-group AND X11 AND HPND-sell-variant AND SMLNJ AND NTP AND MIT AND ISC"
   },
   {
     "name": "xorg-lib-xfixes",
     "version": "6.0.2",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXfixes-6.0.2.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libXfixes-6.0.2.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXfixes-6.0.2.tar.xz",
     "license": "HPND-sell-variant AND MIT"
   },
   {
     "name": "xorg-lib-xfont2",
     "version": "2.0.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXfont2-2.0.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXfont2-2.0.4.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXfont2-2.0.4.tar.bz2",
     "license": "unknown"
   },
   {
     "name": "xorg-lib-xft",
     "version": "2.3.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXft-2.3.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXft-2.3.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXft-2.3.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-lib-xi",
-    "version": "1.8.2",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXi-1.8.2.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libXi-1.8.2.tar.xz",
+    "version": "1.8.4",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXi-1.8.4.tar.xz",
     "license": "MIT-open-group AND SMLNJ AND MIT"
   },
   {
     "name": "xorg-lib-xinerama",
     "version": "1.1.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXinerama-1.1.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXinerama-1.1.4.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXinerama-1.1.4.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-lib-xkbfile",
     "version": "1.1.0",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libxkbfile-1.1.0.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libxkbfile-1.1.0.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libxkbfile-1.1.0.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-xmu",
     "version": "1.1.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXmu-1.1.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXmu-1.1.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXmu-1.1.3.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-xpm",
     "version": "3.5.12",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXpm-3.5.12.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXpm-3.5.12.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXpm-3.5.12.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-xrandr",
-    "version": "1.5.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXrandr-1.5.4.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libXrandr-1.5.4.tar.xz",
+    "version": "1.5.5",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXrandr-1.5.5.tar.xz",
     "license": "HPND-sell-variant"
   },
   {
     "name": "xorg-lib-xrender",
-    "version": "0.9.12",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXrender-0.9.12.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libXrender-0.9.12.tar.xz",
+    "version": "0.9.13",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXrender-0.9.13.tar.xz",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-xres",
     "version": "1.2.0",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXres-1.2.0.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXres-1.2.0.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXres-1.2.0.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-xscrnsaver",
     "version": "1.2.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXScrnSaver-1.2.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXScrnSaver-1.2.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXScrnSaver-1.2.3.tar.bz2",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-xshmfence",
     "version": "1.3.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libxshmfence-1.3.3.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libxshmfence-1.3.3.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libxshmfence-1.3.3.tar.xz",
     "license": "HPND-sell-variant"
   },
   {
     "name": "xorg-lib-xt",
     "version": "1.3.1",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXt-1.3.1.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libXt-1.3.1.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXt-1.3.1.tar.xz",
     "license": "MIT"
   },
   {
     "name": "xorg-lib-xtrans",
     "version": "1.6.0",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/xtrans-1.6.0.tar.xz https://xorg.freedesktop.org/releases/individual/lib/xtrans-1.6.0.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/xtrans-1.6.0.tar.xz",
     "license": "MIT-open-group AND HPND-sell-variant AND MIT AND X11"
   },
   {
     "name": "xorg-lib-xtst",
     "version": "1.2.3",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXtst-1.2.3.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXtst-1.2.3.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXtst-1.2.3.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-lib-xv",
     "version": "1.0.11",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXv-1.0.11.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXv-1.0.11.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXv-1.0.11.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-lib-xvmc",
     "version": "1.0.11",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXvMC-1.0.11.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXvMC-1.0.11.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXvMC-1.0.11.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-lib-xxf86misc",
     "version": "1.0.4",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXxf86misc-1.0.4.tar.bz2 https://xorg.freedesktop.org/releases/individual/lib/libXxf86misc-1.0.4.tar.bz2",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXxf86misc-1.0.4.tar.bz2",
     "license": ""
   },
   {
     "name": "xorg-lib-xxf86vm",
-    "version": "1.1.6",
-    "upstream_urls": "https://ftp.x.org/archive/individual/lib/libXxf86vm-1.1.6.tar.xz https://xorg.freedesktop.org/releases/individual/lib/libXxf86vm-1.1.6.tar.xz",
+    "version": "1.1.7",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/lib/libXxf86vm-1.1.7.tar.xz",
     "license": "X11"
   },
   {
     "name": "xorgproto",
     "version": "2026.1",
-    "upstream_urls": "https://ftp.x.org/archive/individual/proto/xorgproto-2026.1.tar.xz https://xorg.freedesktop.org/releases/individual/proto/xorgproto-2026.1.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/proto/xorgproto-2026.1.tar.xz",
     "license": "X11 AND MIT AND BSD-2-Clause"
   },
   {
     "name": "xwayland",
     "version": "24.1.12",
-    "upstream_urls": "https://ftp.x.org/archive/individual/xserver/xwayland-24.1.12.tar.xz https://xorg.freedesktop.org/releases/individual/xserver/xwayland-24.1.12.tar.xz",
+    "upstream_urls": "https://xorg.freedesktop.org/releases/individual/xserver/xwayland-24.1.12.tar.xz",
     "license": "MIT"
   },
   {
